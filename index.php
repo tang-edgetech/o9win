@@ -48,130 +48,95 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1 class="text-center heading-block" id="toc1">Best Real Slot Mega888 App Download for Android & iOS</h1>
-                                <p>Mega888 is an excellent choice for Malaysians looking for a slot game app, because it is dependable and can be played on mobile devices. Both Android users and iPhone users will benefit from this guide, as it covers downloading the app, installing it and starting play. It is easy to set up your account, find detailed instructions for safeguarding your apps, have a smooth registration process and deposit money. Real-time bonuses, helpful tips and total support for responsible gaming and privacy are also offered by us.</p>
+                                <h1>LPK777 - Laman Slot Online & Pengeluaran Cepat di Malaysia</h1>
+                                <p>LPK777 ialah platform di mana permainan slot dalam talian menjadi mudah, selamat, dan menguntungkan. Sama ada anda baru mencuba permainan slot atau sedang mencari platform yang lagi best, <strong><a href="https://lpk-777.com">LPK777</a></strong> direka untuk memberikan pengalaman terbaik sebaik sahaja anda mula bermain.</p>
                                 <p>&nbsp;</p>
-                                <p>Key Takeaways</p>
+                                <p>Platform ini menawarkan pelbagai permainan slot, navigasi yang lancar di semua peranti, transaksi pantas, dan promosi tetap yang benar-benar memberi faedah. Jom terokai mengapa LPK777 menjadi pilihan utama dalam dunia <strong><a href="https://lpk-777.com/slot">permainan slot dalam talian</a></strong></p>
+                                <p>&nbsp;</p>
+                                <h2>Kenapa Pemain Memilih LPK777</h2>
+                                <p>Memilih platform permainan slot dalam talian boleh jadi pening kepala, tetapi LPK777 menjadikannya mudah untuk anda. Ia dikenali sebagai platform lengkap yang menggabungkan pelbagai pilihan, iaitu sebab:</p>
                                 <ul>
-                                    <li>Android (APK files) and iOS Official downloading App</li>
-                                    <li>Guide video with safe and confidential set up</li>
-                                    <li>Fast registration and depositing service</li>
-                                    <li>Live bonus available updates and winning tips of the day</li>
-                                    <li>Full support of responsible gaming and user privacy of data</li>
+                                    <li>Interface dia kemas, tak serabut, senang nak navigate</li>
+                                    <li>Ratusan permainan slot menarik dari provider terkemuka</li>
+                                    <li>Deposit & withdraw pakai bank tempatan atau TNG e-wallet, semua selamat</li>
+                                    <li>Ganjaran harian dan <strong><a href="https://lpk-777.com/bonus-promosi">bonus musim perayaan</a></strong> yang menarik</li>
+                                    <li>Live chat 24 jam, tak tinggal kau senyap bila ada masalah</li>
                                 </ul>
+                                <p>LPK777 memang bagi apa yang pemain nak – servis laju, game adil, dan tak bagi stress kepada pemain.</p>
                                 <p>&nbsp;</p>
-                                <h2 id="toc2">What Makes Mega888 the Trusted and Top Slot App in Malaysia</h2>
-                                <p>Mega888 is considered one of the most reputable and common slot apps in Malaysia. This platform is famous for providing seamless gaming, a wide choice of games and quick payment. It has a broad collection, including Panther Moon, various fish shooting games and live dealer options. The games within the app are smoother than those in 918Kiss and Xe88 and the rewards are given out more frequently.</p>
-                                <p>&nbsp;</p>
-                                <h3 id="toc3">Reliable Mega888 APK Download for Android Users</h3>
-                                <p>Since it isn’t in the Google Play, Android users must install it using an APK file. Here's how:</p>
+                                <h2>Slot Game Menarik Di Hujung Jari Anda</h2>
+                                <p>Kat sini, ikut mood korang, nak game buah klasik pun ada, nak game video yang grafik mantap pun banyak. Antara yang best:</p>
                                 <ul>
-                                    <li>Get the latest version on the official site of <a href="<?php echo $site_base_url;?>/mega888-apk-download/"><b><u>Mega888 APK</u></b></a> website</li>
-                                    <li>Turn on the option “<b>Unknown Sources</b>” in your device settings</li>
-                                    <li>Open the downloaded APK folder and install it accordingly</li>
+                                    <li>Game daripada penyedia besar seperti Lucky365, Jili, Pragmatic Play dan lain-lain</li>
+                                    <li>Hari-hari ada update game terbaru dan trending</li>
+                                    <li>Boleh pilih ikut tema: horror, adventure, klasik, semua ada</li>
+                                    <li>Penapis pintar untuk bagi korang cari game dengan cepat</li>
                                 </ul>
-                                <p>The Android version on your device should be 5.0 or greater.</p>
+                                <p>Semua <strong><a href="https://lpk-777.com/slot">LPK777 slot</a></strong> telah diuji untuk memastikan keadilan, memberikan keyakinan kepada setiap pemain.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc4">How to install Mega888 On iPhone without downloading it on App Store</h3>
-                                <p>Despite not being provided on Apple official App Store, the iOS devices still have the capability of installing it on a secure mobile configuration profile.</p>
-                                <p><b>These are the steps for <a href="<?php echo $site_base_url;?>/mega888-ios-download/"><u>installing on iOS devices</u></a></b>:</p>
+                                <h2>Cara Nak Pilih Slot Game yang Sesuai</h2>
+                                <p>Sebelum mula bermain, berikut beberapa tips ringkas untuk anda:</p>
                                 <ul>
-                                    <li>Download the <b>iOS installation file</b> from slotmega888.app</li>
-                                    <li>Head over to <b>Settings > General > Device Management</b></li>
-                                    <li>Click the developer’s name and tap the option <b>“Trust”</b></li>
-                                    <li>Open the application as other applications in iOS</li>
-                                </ul>
-                                <p><b>To carry out the installation smoothly:</b></p>
-                                <ul>
-                                    <li>Make sure that it’s compatible with iPhone 7 to 16 models</li>
-                                    <li>You can delete unwanted apps running in the background to have a smooth performance</li>
-                                    <li>In case you are stuck on the loading screen, do the following:
+                                    <li>
+                                        <strong>Volatiliti:</strong>
                                         <ul>
-                                            <li>Clearing the web browser cache</li>
-                                            <li>Re-trusting the same profile under the settings</li>
+                                            <li><strong>Kalau suka cabaran & nak menang besar:</strong> High volatility. </li>
+                                            <li><strong>Kalau nak menang kecik tapi kerap:</strong> Low volatility. </li>
                                         </ul>
                                     </li>
+                                    <li><strong>Pilih tema yang ikut korang suka:</strong> dari tema klasik sampai la yang style kartun pun ada.</li>
+                                    <li><strong>Ciri Permainan:</strong> Ambik tahu pasal bonus round, free spin, multiplier semua tu. Dia main peranan penting masa korang spin nanti.</li>
+                                    <li><strong>RTP (Return to Player):</strong> Pilih slot game dengan RTP sekurang-kurangnya 96% ke atas untuk peluang pulangan lebih untung.</li>
+                                    <li><strong>Mod Demo:</strong> Kalau ada demo, test dulu. Nak main betul-betul nanti dah tahu cara jalan dia.</li>
                                 </ul>
+                                <p>Panduan ini membantu anda bermain dengan lebih yakin bila nak mula main.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc5">What are the Common issues of the app (and how to resolve them)</h3>
-                                <p>Although the application works quite well on most accounts, some common issues can occur during installation or logging on.</p>
-                                <p><b>This is what you should do if you notice that the app isn’t running correctly:</b></p>
+                                <h2>Main Kat Mana-Mana, Bila-Bila Masa</h2>
+                                <p>LPK777 boleh dibuka melalui pelayar atau terus install aplikasi rasmi. Pengalaman terbaik ditawarkan melalui <strong><a href="https://lpk-777.com/muat-turun-apk">muat turun APK LPK777</a></strong> dengan:</p>
                                 <ul>
-                                    <li>Enable the <b>Unknown Sources</b> (Android) in the settings</li>
-                                    <li>As for iOS, click <b>trust</b> developer profile</li>
-                                    <li>Try to clear app cache after rebooting</li>
-                                    <li>Check the application is up to date</li>
-                                    <li>Use quick and smooth internet connection</li>
+                                    <li>Masa pemuatan yang pantas dan paparan kemas</li>
+                                    <li>Auto login, tak payah asyik masuk password</li>
+                                    <li>Ada promo eksklusif untuk pengguna aplikasi</li>
+                                    <li>Peralihan lancar antara permainan dan fungsi lain</li>
                                 </ul>
-                                <p>Majority of the troubles will have been eliminated by just performing these steps.</p>
+                                <p>Sesuai untuk pengguna Android dan iOS, tak kisah tengah lepak kat rumah ke, kat mamak ke, main je terus.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc6">Register in Less Than 2 Minutes</h3>
-                                <p>The <a href="<?php echo $site_base_url;?>/mega888-register-login-deposit/"><b><u>account registration</u></b></a> takes a bit of time, and no documents are required from you. We work on a kiosk system so the first thing you will have to do is to get in touch with our customer service agent, “Amoi”.</p>
-                                <p><b>To make an account, do the following steps:</b></p>
+                                <h2>Cara Bayar dan Withdraw Dengan Pantas</h2>
+                                <p>Deposit dan withdraw senang gila, LPK777 menyokong pelbagai bank tempatan dan e-dompet seperti Touch ’n Go, Boost dan GrabPay. Semuanya dilindungi oleh sistem keselamatan dan penyulitan.</p>
+                                <p>&nbsp;</p>
+                                <p>Duit masuk cepat, nak keluarkan pun tak payah tunggu lama dengan sokongan pelanggan sentiasa tersedia jika diperlukan.</p>
+                                <p>&nbsp;</p>
+                                <h2>LPK777 Bonus & Promo Yang Tak Main-Main</h2>
+                                <p>Pemain baru akan terus dapat <strong><a href="https://lpk-777.com/bonus-promosi">welcome bonus</a></strong> selepas daftar. Tapi bukan tu je:</p>
                                 <ul>
-                                    <li>Use WhatsApp or Telegram to call our trusted agent</li>
-                                    <li>Customer care will register and share the login information with you</li>
-                                    <li>You’ll then top up in your first deposit via:
-                                        <ul>
-                                            <li>Local Bank Transfer in Malaysia</li>
-                                            <li>E-Wallet</li>
-                                            <li>Mobile Payment</li>
-                                            <li>Cryptocurrency</li>
-                                        </ul>
-                                    </li>
-                                    <li>When the payment is confirmed, your credits in the account will be credited</li>
+                                    <li>Ganjaran deposit harian kalau korang rajin topup</li>
+                                    <li>Tawaran cashback untuk kurangkan kerugian</li>
+                                    <li>Promo ikut musim: Raya, Merdeka, Deepavali, semua ada</li>
                                 </ul>
-                                <p>In this approach, you are ready to start working shortly. In case you desire to log in to your account at a future instance, assistance will be provided. We will show you <a href="<?php echo $site_base_url;?>/mega888-register-login-deposit/"><b><u>how to make deposits</u></b></a> and withdrawals as well as how to go about any type of problem you encounter.</p>
+                                <p>Promosi ini mudah dituntut dan jelas diterangkan tanpa syarat pelik-pelik.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc7">Mega888 Deposit and Withdrawal Process</h3>
-                                <p>Using Mega888, Malaysian users have access to easy and safe payment features. Depositing funds is possible through local bank transfers or by picking one of the main e-wallets used in Malaysia. Digital currency users can make payments using USDT and Bitcoin as well.</p>
-                                <p><b>Deposit and withdrawal process:</b></p>
-                                <ul>
-                                    <li>Most deposits are usually carried out within 2 minutes</li>
-                                    <li>You can expect a withdrawal to take under 30 minutes.</li>
-                                    <li>All transactions are made secure with encryption and are confirmed using notification.</li>
-                                    <li>You will have the money come in directly into your selected bank or e-wallet account.</li>
-                                </ul>
-                                <p>If there’s a problem, <b>look for our customer support “Amoi”</b> will assist you right away.</p>
+                                <h2>Keselamatan dan Keadilan Diutamakan</h2>
+                                <p>LPK777 ada lesen yang sah dan menggunakan teknologi RNG (Random Number Generator) yang diperakui untuk memastikan keadilan dalam setiap permainan. Data pengguna dilindungi dengan sistem penyulitan yang canggih.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc8">Act Fast to Take Advantage of Bonuses & Promotions</h3>
-                                <p>We offer bonuses to our players often which aim to make playing more enjoyable and help them get more wins. Regularly, new players can take advantage of <a href="<?php echo $site_base_url;?>/mega888-bonuses-promotions/"><b><u>first deposit welcome bonus</u></b></a> during registration process.</p>
-                                <p><b>Additional rewards that you can receive are:</b></p>
-                                <ul>
-                                    <li>Free spins on specific trending slot games</li>
-                                    <li>Deposit bonuses that are stick to specific days or numbers</li>
-                                    <li>Cashback is based on your win/loss activity on daily basis</li>
-                                    <li>VIP rewards and reload bonuses for loyal players</li>
-                                </ul>
+                                <p>Semua aktiviti dari transaksi hingga permainan dikawal selia untuk menjamin ketelusan dan pematuhan peraturan.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc9">Trying out Winning Strategies and Guides on Your Own</h3>
-                                <p>Winning the game doesn’t depend on luck but being smart and careful in the selection of games you participate in makes it much easier. One should choose the specific games with better <a href="<?php echo $site_base_url;?>/mega888-rtp/"><b><u>RTP rates</u></b></a>. Many Malaysian players recommend playing Ocean King, Safari Heat and Panther Moon as a way of getting their payouts greater.</p>
-                                <p><b>Strategies that work well:</b></p>
-                                <ul>
-                                    <li>Do not spin randomly, choose your game on the basis of payout history</li>
-                                    <li>In case the slot game fails to pay you off after making 10-15 spins, change to another game</li>
-                                    <li>Determine a time limit on a session and stick to it</li>
-                                    <li>Don’t try to recover your losses with bigger bets; choose consistent betting amounts</li>
-                                    <li>Be time-considerate as opposed to trying to go as quickly as you can</li>
-                                </ul>
-                                <p>Discipline, making the right decisions and smart play with the simplest of systems will be sufficient to win. There is detailed information on how to play slots in our <a href="<?php echo $site_base_url;?>/mega888-strategies-guides/"><b><u>strategy and guide</u></b></a>.</p>
+                                <h2>Mudah untuk Mula Bermain</h2>
+                                <p>Tidak perlu kemahiran teknikal yang tinggi. Proses pendaftaran dan mula bermain amat mudah:</p>
+                                <ol>
+                                    <li>Klik “Daftar” kat <strong><a href="https://lpk-777.com">lpk777 homepage</a></strong></li>
+                                    <li>Pilih kaedah pembayaran dan buat deposit</li>
+                                    <li>Terus boleh akses dan main permainan slot kegemaran</li>
+                                </ol>
+                                <p>Semuanya direka agar pantas dan mudah – daftar, deposit, dan mula bermain.</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc10">Is Mega888 Safe to Play and Download?</h3>
-                                <p>If you are downloading the application on a trusted page such as slotmega888.app, the <a href="<?php echo $site_base_url;?>/about-mega888/"><b><u>Mega888</u></b></a> is safe and secure. Login and making money transactions are safeguarded using end-to-end encryption, and your money will be safe. Bugs and software on mobile phones are frequently updated to expand security.</p>
-                                <p><b>To remain safe, the following are the most helpful hints:</b></p>
-                                <ul>
-                                    <li>Download APK files on the official sites that are reliable</li>
-                                    <li>Avoid the usage of apps that provide you “unlimited credits” while they are not official</li>
-                                    <li>Your main source of payment is banking or e-wallets only</li>
-                                    <li>You should never share your log in details with anyone</li>
-                                </ul>
+                                <h2>Pengalaman Pemain Sebenar</h2>
+                                <p>“Aku dulu tak pernah main slot langsung, tapi LPK777 ni senang gila nak faham. Sekarang tiap-tiap hari time lunch aku main.” <br>— Aina, 26</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc11">Slotmega888.app Commitment to Responsible Gambling</h3>
-                                <p>Slotmega888.app shows that Mega888 is a way to enjoy gaming, unlike earning money. If your gameplay hours are growing, you’re losing more than before or you find yourself eagerly trying to earn back your losses, you may want to step away for some time. To support players, we have systems that allow them to manage how much they deposit, how long they stay at our site and how they control time spent on our games. You can activate these tools at any time, and they are meant to help stop problem gambling ahead of time. Should players need more help, they can contact organizations that specialize in gambling such as BeGambleAware.org. Further information and services are contained in the <a href="<?php echo $site_base_url;?>/responsible-gaming/"><b><u>Responsible Gambling guide</u></b></a>.</p>
+                                <p>“Paling best, withdraw cepat. Takde drama, duit terus masuk.”<br>— Marcus, 34</p>
                                 <p>&nbsp;</p>
-                                <h3 id="toc12">Your Data Belongs to You and This is How We Keep It Safe</h3>
-                                <p>Whenever you sign up or pay for something with us, your data is encoded securely by AES-256 encryption. As a result, your login information, payment records and identity details continue to get the best protection. We will never sell your data and do not let external advertisements take up space in the app. from your account settings and you can ask customer support to help you completely delete your data or the whole account. It is important to note that our <a href="<?php echo $site_base_url;?>/privacy-policy/"><b><u>Privacy Policy</u></b></a> explains the process of collecting, using and safeguarding your personal details.</p>
+                                <p>“Live chat dia responsif gila, dan app jalan smooth kat phone aku. Jauh lagi elok dari tempat lama aku main.”<br>— Hafiz, 30</p>
                                 <p>&nbsp;</p>
+                                <p>Review ringkas seperti ini memberi keyakinan kepada pemain baru tentang apa yang boleh dijangka.</p>
                             </div>
                         </div>
                     </div>
@@ -182,174 +147,174 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
-                            <h2 id="toc13">Frequently Asked Questions (FAQ)</h2>
+                            <h2>Soalan Lazim (FAQ)</h2>
                             <div class="accordion" id="accordionExample">
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                            Can I download Mega888 on my smartphone, whether it is Android or iOS?
-                                        </button>
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
+                                        LPK777 ni apa sebenarnya?
+                                    </button>
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Yes, they have both versions where each one of them has certain steps to follow for each operating system.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Platform dalam talian yang menawarkan pelbagai permainan slot yang adil dan menyeronokkan dari provider yang boleh percaya.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                            Can the game be played on the Android phone or iPhone?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
+                                        Aplikasi LPK777 selamat ke guna?
+                                    </button>
                                     </h3>
                                     <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Yes. The usual way for Android users is to download the APK, however, iOS users need to install via a trusted profile.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Ya. Data peribadi dan kewangan anda dilindungi dengan penyulitan, dan semua permainan guna teknologi RNG yang disahkan.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                            Is Mega888 a platform that provides secure gambling with real money?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
+                                        Boleh main guna telefon?
+                                    </button>
                                     </h3>
                                     <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            That is possible as long as you download from trusted sources and use safe payment methods.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Boleh. <strong><a href="https://lpk-777.com">LPK777</a></strong> berfungsi di semua pelayar mudah alih atau lagi senang, install je aplikasi dia untuk mainan lebih lancar.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                            Is there a chance to be banned because of using a modded APK?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
+                                        Apakah kaedah pembayaran yang disokong?
+                                    </button>
                                     </h3>
                                     <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Definitely, you may experience bans and lose all your information if you install hacked versions.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Boleh pakai bank tempatan dan e-wallet seperti Touch ’n Go, Boost dan GrabPay.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                            What should I do the moment I lose my account?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
+                                        Macam mana nak tuntut bonus?
+                                    </button>
                                     </h3>
                                     <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Contact us directly.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Bonus disenaraikan dalam papan pemuka atau bahagian promosi. Ikuti arahan untuk terus aktif.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                            What can I do to prevent Mega888 fake apps?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
+                                        Adakah sokongan pelanggan tersedia setiap masa?
+                                    </button>
                                     </h3>
                                     <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Apps like us are only the trusted sources on where you should download the game apk. Unlimited credit given to you by other people most probably is a scam.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Ya, <strong><a href="https://lpk-777.com/hubungi-kami">live chat</a></strong> bukak 24 jam. Takde tinggal korang tergantung, memang ada orang jaga.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                            What is the way to get free credit or bonuses?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
+                                        Kalau saya lupa kata laluan, camne?
+                                    </button>
                                     </h3>
                                     <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            We provide weekly welcome bonuses, as well as deposit bonuses. It is common to have a first-time deposit bonus given to new players.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Klik “Lupa Kata Laluan” di skrin log masuk dan ikut arahan melalui e-mel atau telefon WhatsApp / Telegram.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                            What can I do in case I find out that my Mega888 app has stopped updating?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
+                                        Ada had minimum/maksimum deposit?
+                                    </button>
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Uninstall what you have now and then install from slotmega888.app for the most updated version.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Ya, setiap cara bayar tu ada had minimum & maksimum. Boleh check dalam akaun sendiri, kat bahagian pembayaran.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                            Is it possible to use one account on several devices?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
+                                        Boleh batalkan permintaan pengeluaran?
+                                    </button>
                                     </h3>
                                     <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Yes. However, do not get logged in on two devices simultaneously.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Kalau transaksi belum diproses, boleh. Pergi kat sejarah transaksi atau terus chat dengan support.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                            Is it possible to change the agents?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+                                        Bagaimana nak tahu bonus aktif?
+                                    </button>
                                     </h3>
                                     <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Of course, you must get another new account with the new agent. Choice is yours.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Masuk akaun, pergi ke “Bonus Saya” untuk lihat bonus semasa, yang tengah jalan, yang belum claim, dan progress pertaruhan.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                            What other languages are there other than English?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+                                        Apakah maksud keperluan pertaruhan (wagering)?
+                                    </button>
                                     </h3>
                                     <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Yes, Mega888 has support in terms of Malay, English, and Chinese according to your choice.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Ia menunjukkan berapa kali anda perlu bertaruh sebelum boleh mengeluarkan bonus. Contoh: bonus RM100 dengan 10x wager, maksudnya kena main RM1000 dulu sebelum boleh cash out.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                            Does it record my playing history or my betting history?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+                                        Ada program VIP ke?
+                                    </button>
                                     </h3>
                                     <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Yes, it will be more secure and transparent, but this data remains confidential and is encrypted on our side.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Ya. LPK777 tawarkan program VIP bertingkat, makin banyak main, makin banyak hadiah. Lawati <strong><a href="https://lpk-777.com/vip">bahagian VIP</a></strong> untuk maklumat lanjut.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                                            What is the need of re-logging in after app re-updates?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
+                                        Boleh buat lebih dari satu akaun?
+                                    </button>
                                     </h3>
                                     <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            It is usual routine that security precautions should be made against session hijacking following the changes in version.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Tidak. Setiap pemain hanya dibenarkan satu akaun. Lebih dari satu akaun akan kena penggantungan.
+                                    </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
-                                            What can I do in case I suspect my account was accessed?
-                                        </button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
+                                        Adakah keputusan permainan betul-betul rawak?
+                                    </button>
                                     </h3>
                                     <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Demand passwords change as soon as possible and call support to check the latest activity.
-                                        </div>
+                                    <div class="accordion-body">
+                                        Ya. Setiap putaran ditentukan oleh RNG yang disahkan untuk memastikan keadilan.
+                                    </div>
                                     </div>
                                 </div>
                             </div>

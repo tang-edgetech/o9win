@@ -1,14 +1,14 @@
 <?php
-$page_name = "Privacy Policy";
-$page_slug = 'privacy-policy';
+$page_name = "Hubungi Kami";
+$page_slug = 'hubungi-kami';
 $page_thumbnail = "https://example.com/image.jpg";
-include 'inc/functions.php';
+include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>LPK777 – Hubungi Kami</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
@@ -38,20 +38,46 @@ include 'inc/functions.php';
         <link rel="alternate" hreflang="x-default" href="https://lpk777.org/">
         <link rel="alternate" hreflang="en" href="https://lpk777.org/">
         <base href="<?php echo $site_base_url;?>">
-        <?php include 'inc/stylesheet.php';?>
+        <?php include '../inc/stylesheet.php';?>
     </head>
     <body>
-        <?php include 'inc/navbar.php';?>
+        <?php include '../inc/navbar.php';?>
         <main class="" id="">
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
+                            <div class="text-editor">
+                                <h1>Hubungi Kami – Kami Sedia Membantu</h1>
+                                <p>Di <strong>LPK777</strong>, kepuasan pelanggan dan sokongan yang boleh dipercayai adalah keutamaan kami. Sama ada anda baru dalam permainan slot dalam talian atau ahli VIP berpengalaman, kami bersedia membantu dalam apa jua perkara—daripada pertanyaan akaun, penjelasan bonus, sokongan teknikal hinggalah isu transaksi yang selamat.</p>
+                                <p>&nbsp;</p>
+                                <p>Pasukan <strong>khidmat pelanggan kami tersedia 24/7</strong>, dan kami menyediakan pelbagai saluran komunikasi supaya anda tidak dibiarkan menunggu ketika memerlukan bantuan.</p>
+                                <p>&nbsp;</p>
+                                <p>Sila hubungi kami melalui mana-mana saluran berikut:</p>
+                                <p>&nbsp;</p>
+                                <h4>Telegram</h4>
+                                <p>(Akan datang...)</p>
+                                <p>&nbsp;</p>
+                                <h4>Live Chat</h4>
+                                <p>(Tersedia melalui laman web dan aplikasi mudah alih)</p>
+                                <p>&nbsp;</p>
+                                <h4>Facebook</h4>
+                                <p>(Akan datang...)</p>
+                                <p>&nbsp;</p>
+                                <h4>Lokasi</h4>
+                                <p>Level 33A, The Intermark, 348 Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia</p>
+                                <p>&nbsp;</p>
+                                <h4>Emel</h4>
+                                <p><strong><a href="mailto:support@lpk777.org">support@lpk777.org</a></strong></p>
+                                <p>&nbsp;</p>
+                                <h4>Telefon</h4>
+                                <p><strong><a href="tel:+60 11-1234 5678">+60 11-1234 5678</a></strong></p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </section>
         </main>
-        <?php include 'inc/footer.php';?>
+        <?php include '../inc/footer.php';?>
     </body>
 </html>

@@ -37,7 +37,7 @@ main, #masthead, #mastfoot{
 }
 main {
     flex: 1;
-    padding-top: 100px;
+    padding-top: 30px;
     padding-bottom: 100px;
 }
 #masthead {
@@ -84,6 +84,9 @@ section {
 }
 .section-default-padding {
     padding: 90px 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.75rem;
 }
 h1, h2, h3, h4, h5, h6, b, strong, .text-editor > p > b > a {
     font-weight: var(--fw-semi-bold);
@@ -135,9 +138,9 @@ p, ul, ol {
 }
 .text-editor h1 > a, .text-editor h2 > a, .text-editor h3 > a, .text-editor h4 > a, .text-editor h5 > a, .text-editor h6 > a,
 .text-editor li p a, .text-editor li p a:hover, 
-.text-editor li a, .text-editor li a:hover,
+.text-editor li a, .text-editor li a:hover, .text-editor p a, .text-editor p a:hover, 
 .text-editor > p > a, .text-editor > p > a:hover, .text-editor > p > b > a, .text-editor > p > b > a:hover {
-    color: #ffae18;
+    color: #c29c4e;
 }
 .text-editor h1 > a:hover, .text-editor h2 > a:hover, .text-editor h3 > a:hover, .text-editor h4 > a:hover, .text-editor h5 > a:hover, .text-editor h6 > a:hover,
 .text-editor li p a:hover, .text-editor li a:hover, .text-editor > p > a:hover, .text-editor > p > b > a:hover {
