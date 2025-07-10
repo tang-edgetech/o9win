@@ -2,50 +2,16 @@ $(document).ready(function() {
 	var lastScrollTop = 0,
 		navbar = $('#masthead');
 
-    let deviceSwiper = null;
-    const buildDeviceSwiper = false;
-    autoBuildDestroyDeviceSwiper();
-    $(window).on('resize', autoBuildDestroyDeviceSwiper);
-    function autoBuildDestroyDeviceSwiper() {
+    mobileResponsiveDetection();
+    $(window).on('resize', mobileResponsiveDetection);
+    function mobileResponsiveDetection() {
         if( window.matchMedia("(max-width: 767px)").matches ) {
-			$(document).on('click', function(e) {
-				var $target = $(e.target);
-
-				// If navbar is shown
-				if ($('.navbar-collapse').hasClass('show')) {
-					// If click is **not** inside .navbar-collapse-inner
-					if (!$target.closest('.navbar-collapse-inner').length) {
-						$('.navbar-collapse').collapse('hide');
-					}
-				}
-			});
-
-            if( !deviceSwiper ) {
-                $("#deviceSwiper").addClass('swiper');
-                $("#deviceSwiper .device-wrapper").addClass('swiper-wrapper');
-                $("#deviceSwiper .device-slide").addClass('swiper-slide');
-                deviceSwiper = new Swiper("#deviceSwiper", {
-                    slidesPerView: "auto",
-                    spaceBetween: 30,
-                    loop: false,
-                    slidesOffsetBefore: 24,
-                    slidesOffsetAfter: 24,
-                    autoplay: {
-                        delay: 3500,
-                        disableOnInteraction: false,
-                    },
-                    loop: true,
-                });
-            }
+            console.log('Mobile');
+            
         }
         else {
-            if (deviceSwiper) {
-                $("#deviceSwiper").removeClass('swiper');
-                $("#deviceSwiper .device-wrapper").removeClass('swiper-wrapper');
-                $("#deviceSwiper .device-slide").removeClass('swiper-slide');
-                deviceSwiper.destroy(true, true);
-                deviceSwiper = null;
-            }
+            console.log('Desktop');
+            
         }
     }
 
@@ -139,7 +105,6 @@ $(document).ready(function() {
 	floatingFunctionOnScroll();
 	$(window).bind('scroll', function() {
 		floatingFunctionOnScroll();
-		headerScrollDetection();
 	});
 	function floatingFunctionOnScroll() {
 		var $scrollTop = $(window).scrollTop();
@@ -149,20 +114,5 @@ $(document).ready(function() {
 		else {
 			$('.floating-list').fadeOut();
 		}
-	}
-	function headerScrollDetection() {
-		var scrollTop = $(this).scrollTop();
-
-		if (scrollTop > 70) {
-			if (scrollTop > lastScrollTop) {
-				navbar.addClass('scroll-down');
-			} else {
-				navbar.removeClass('scroll-down');
-			}
-		} else {
-			navbar.removeClass('scroll-down');
-		}
-
-		lastScrollTop = scrollTop;
 	}
 });

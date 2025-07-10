@@ -38,6 +38,7 @@ main, #masthead, #mastfoot{
 main {
     flex: 1;
     padding-top: 100px;
+    padding-bottom: 100px;
 }
 #masthead {
     position: sticky;
@@ -47,30 +48,33 @@ main {
     z-index: 9;
     background-color: #292421;
 }
-#masthead.scroll-down {
+/* #masthead.scroll-down {
     transform: translateY(-125px);
-}
+} */
 #masthead .navbar-nav {
-    gap: 20px;
+    gap: 0;
 }
 #masthead .nav-item .nav-link {
-    color: var(--text-default);
+    color: var(--primary-white);
+    padding: 0.75rem 2rem;
 }
 #masthead .nav-item .nav-link:hover {
-    color: var(--primary-black);
+    opacity: 0.8;
+    background-color: rgba(255,255,255, 0.2);
 }
 #masthead .dropdown-menu {
     padding-top: 0;
     padding-bottom: 0;
+    background-color: #141311;
 }
 #masthead .dropdown-item {
-    padding: 8px 16px;
+    padding: 0.5rem;
+    padding-left: 3rem;
+    padding-right: 2rem;
+    color: #d7d7d7;
 }
 #masthead .dropdown-item:hover {
-    background-color: #d7d7d7;
-}
-.navbar-collapse {
-    z-index: 10;
+    color: var(--text-default);
 }
 .app {
     min-height: 100vh;

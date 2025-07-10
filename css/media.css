@@ -22,8 +22,15 @@
     .navbar-brand {
         width: 60px;
     }
-    #masthead.scroll-down {
+    /* #masthead.scroll-down {
         transform: translateY(-120px);
+    } */
+    #masthead .navbar-nav {
+        gap: 12px;
+    }
+    #masthead .navbar-nav .nav-link {
+        font-size: 1.25rem;
+        line-height: 1.5rem;
     }
     #deviceSwiper .swiper-slide {
         width: 260px;
@@ -94,6 +101,15 @@
         height: 100%;
     }
 }
+@media (min-width: 768px) and (max-width: 1199px) {
+    #masthead .navbar-nav {
+        gap: 16px;
+    }
+    #masthead .navbar-nav .nav-link {
+        font-size: 1.5rem;
+        line-height: 1.75rem;
+    }
+}
 @media (max-width: 1199px) {
     #masthead .navbar-collapse {
         display: block;
@@ -128,7 +144,7 @@
     #masthead .navbar-collapse-inner {
         display: block;
         margin-left: auto;
-        background: #fff;
+        background-color: #292421;
         max-width: calc( 100% - 25px );
         width: 80%;
         height: 100%;
@@ -139,6 +155,10 @@
         font-size: 36px;
         line-height: 1;
         border-bottom: 1px solid #d7d7d7;
+    }
+    #masthead .nav-item .nav-link {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
     }
     .navbar-collapse .navbar-close {
         position: absolute;
@@ -168,7 +188,16 @@
         transform: translate(-50%, -50%) rotate(-45deg);
     }
 }
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+    .navbar-collapse {
+        position: absolute;
+        top: 54px;
+        left: -1.5rem;
+        width: calc(100% + 3rem);
+        background: #292421;
+        z-index: 10;
+    }
+}
 @media (min-width: 1200px) and (max-width: 1300px) {
     #masthead .navbar-nav {
         gap: 12px;
