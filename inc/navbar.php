@@ -58,7 +58,7 @@ $menu_items = [
             </button>
             <a href="/" class="navbar-brand">
                 <span class="d-none">Home</span>
-                <img src="<?php echo $site_base_url;?>images/lpk777_logo.png" alt="LPK777 Logo" class="img-fit">
+                <img src="<?php echo $site_base_url;?>images/o9win_logo.png" alt="O9WIN Logo" class="img-fit">
             </a>
             <div></div>
             <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">

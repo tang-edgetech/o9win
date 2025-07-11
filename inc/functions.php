@@ -1,10 +1,10 @@
 <?php
 $localhost = array('127,0,0,1', 'localhost', '::1');
 if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
-    $site_base_url = 'https://lpk-777.com/';
+    $site_base_url = 'https://o9win.org/';
 }
 else {
-    $site_base_url = 'http://localhost/lpk777/';
+    $site_base_url = 'http://localhost/o9win/';
 }
 $site_title = 'LPK777';
 if( !empty($page_name) ) {
