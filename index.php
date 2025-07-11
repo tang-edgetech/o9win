@@ -39,6 +39,165 @@ include 'inc/functions.php';
         <link rel="alternate" hreflang="en" href="https://lpk777.org/">
         <base href="<?php echo $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "LPK777",
+        "url": "https://lpk-777.com",
+        "logo": "",
+        "description": "Permainan slot terbaik di LPK777 - daftar, login & muat turun app rasmi. Dapatkan bonus harian, pengeluaran pantas & akses ke ratusan game dari provider ternama.",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Level 23, Menara Hap Seng 2, Jalan P. Ramlee",
+            "addressLocality": "Kuala Lumpur",
+            "postalCode": "50250",
+            "addressCountry": "MY"
+        },
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "khidmat pelanggan",
+            "email": "support@lpk-777.com",
+            "telephone": "+6014-3507586",
+            "availableLanguage": ["Malay", "English"]
+        }
+        }
+        </script>
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "lpk777",
+            "item": "https://lpk-777.com"
+            }
+        ]
+        }
+        </script>
+
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "LPK777 ni apa sebenarnya?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Platform dalam talian yang menawarkan pelbagai permainan slot yang adil dan menyeronokkan dari provider yang boleh percaya."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Aplikasi LPK777 selamat ke guna?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya. Data peribadi dan kewangan anda dilindungi dengan penyulitan, dan semua permainan guna teknologi RNG yang disahkan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Boleh main guna telefon?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Boleh. LPK777 berfungsi di semua pelayar mudah alih atau lagi senang, install je aplikasi dia untuk mainan lebih lancar."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apakah kaedah pembayaran yang disokong?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Boleh pakai bank tempatan dan e-wallet seperti Touch ’n Go, Boost dan GrabPay."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Macam mana nak tuntut bonus?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bonus disenaraikan dalam papan pemuka atau bahagian promosi. Ikuti arahan untuk terus aktif."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah sokongan pelanggan tersedia setiap masa?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, live chat bukak 24 jam. Takde tinggal korang tergantung, memang ada orang jaga."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Kalau saya lupa kata laluan, camne?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Klik “Lupa Kata Laluan” di skrin log masuk dan ikut arahan melalui e-mel atau telefon WhatsApp / Telegram."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Ada had minimum/maksimum deposit?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya, setiap cara bayar tu ada had minimum & maksimum. Boleh check dalam akaun sendiri, kat bahagian pembayaran."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Boleh batalkan permintaan pengeluaran?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kalau transaksi belum diproses, boleh. Pergi kat sejarah transaksi atau terus chat dengan support."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana nak tahu bonus aktif?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Masuk akaun, pergi ke “Bonus Saya” untuk lihat bonus semasa, yang tengah jalan, yang belum claim, dan progress pertaruhan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apakah maksud keperluan pertaruhan (wagering)?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ia menunjukkan berapa kali anda perlu bertaruh sebelum boleh mengeluarkan bonus. Contoh: bonus RM100 dengan 10x wager, maksudnya kena main RM1000 dulu sebelum boleh cash out."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Ada program VIP ke?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya. LPK777 tawarkan program VIP bertingkat, makin banyak main, makin banyak hadiah. Lawati bahagian VIP untuk maklumat lanjut."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Boleh buat lebih dari satu akaun?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tidak. Setiap pemain hanya dibenarkan satu akaun. Lebih dari satu akaun akan kena penggantungan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah keputusan permainan betul-betul rawak?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya. Setiap putaran ditentukan oleh RNG yang disahkan untuk memastikan keadilan."
+            }
+            }
+        ]
+        }
+        </script>
     </head>
     <body>
         <?php include 'inc/navbar.php';?>
@@ -148,14 +307,14 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <h2>Soalan Lazim (FAQ)</h2>
-                            <div class="accordion" id="accordionExample">
+                            <div class="accordion" id="accordionFAQ">
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
                                         LPK777 ni apa sebenarnya?
                                     </button>
                                     </h3>
-                                    <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                                    <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Platform dalam talian yang menawarkan pelbagai permainan slot yang adil dan menyeronokkan dari provider yang boleh percaya.
                                     </div>
@@ -167,7 +326,7 @@ include 'inc/functions.php';
                                         Aplikasi LPK777 selamat ke guna?
                                     </button>
                                     </h3>
-                                    <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Ya. Data peribadi dan kewangan anda dilindungi dengan penyulitan, dan semua permainan guna teknologi RNG yang disahkan.
                                     </div>
@@ -179,7 +338,7 @@ include 'inc/functions.php';
                                         Boleh main guna telefon?
                                     </button>
                                     </h3>
-                                    <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Boleh. <strong><a href="https://lpk-777.com">LPK777</a></strong> berfungsi di semua pelayar mudah alih atau lagi senang, install je aplikasi dia untuk mainan lebih lancar.
                                     </div>
@@ -191,7 +350,7 @@ include 'inc/functions.php';
                                         Apakah kaedah pembayaran yang disokong?
                                     </button>
                                     </h3>
-                                    <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Boleh pakai bank tempatan dan e-wallet seperti Touch ’n Go, Boost dan GrabPay.
                                     </div>
@@ -203,7 +362,7 @@ include 'inc/functions.php';
                                         Macam mana nak tuntut bonus?
                                     </button>
                                     </h3>
-                                    <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Bonus disenaraikan dalam papan pemuka atau bahagian promosi. Ikuti arahan untuk terus aktif.
                                     </div>
@@ -215,7 +374,7 @@ include 'inc/functions.php';
                                         Adakah sokongan pelanggan tersedia setiap masa?
                                     </button>
                                     </h3>
-                                    <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Ya, <strong><a href="https://lpk-777.com/hubungi-kami">live chat</a></strong> bukak 24 jam. Takde tinggal korang tergantung, memang ada orang jaga.
                                     </div>
@@ -227,7 +386,7 @@ include 'inc/functions.php';
                                         Kalau saya lupa kata laluan, camne?
                                     </button>
                                     </h3>
-                                    <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Klik “Lupa Kata Laluan” di skrin log masuk dan ikut arahan melalui e-mel atau telefon WhatsApp / Telegram.
                                     </div>
@@ -239,7 +398,7 @@ include 'inc/functions.php';
                                         Ada had minimum/maksimum deposit?
                                     </button>
                                     </h3>
-                                    <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Ya, setiap cara bayar tu ada had minimum & maksimum. Boleh check dalam akaun sendiri, kat bahagian pembayaran.
                                     </div>
@@ -251,7 +410,7 @@ include 'inc/functions.php';
                                         Boleh batalkan permintaan pengeluaran?
                                     </button>
                                     </h3>
-                                    <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Kalau transaksi belum diproses, boleh. Pergi kat sejarah transaksi atau terus chat dengan support.
                                     </div>
@@ -263,7 +422,7 @@ include 'inc/functions.php';
                                         Bagaimana nak tahu bonus aktif?
                                     </button>
                                     </h3>
-                                    <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Masuk akaun, pergi ke “Bonus Saya” untuk lihat bonus semasa, yang tengah jalan, yang belum claim, dan progress pertaruhan.
                                     </div>
@@ -275,7 +434,7 @@ include 'inc/functions.php';
                                         Apakah maksud keperluan pertaruhan (wagering)?
                                     </button>
                                     </h3>
-                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Ia menunjukkan berapa kali anda perlu bertaruh sebelum boleh mengeluarkan bonus. Contoh: bonus RM100 dengan 10x wager, maksudnya kena main RM1000 dulu sebelum boleh cash out.
                                     </div>
@@ -287,7 +446,7 @@ include 'inc/functions.php';
                                         Ada program VIP ke?
                                     </button>
                                     </h3>
-                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Ya. LPK777 tawarkan program VIP bertingkat, makin banyak main, makin banyak hadiah. Lawati <strong><a href="https://lpk-777.com/vip">bahagian VIP</a></strong> untuk maklumat lanjut.
                                     </div>
@@ -299,7 +458,7 @@ include 'inc/functions.php';
                                         Boleh buat lebih dari satu akaun?
                                     </button>
                                     </h3>
-                                    <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse13" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Tidak. Setiap pemain hanya dibenarkan satu akaun. Lebih dari satu akaun akan kena penggantungan.
                                     </div>
@@ -311,7 +470,7 @@ include 'inc/functions.php';
                                         Adakah keputusan permainan betul-betul rawak?
                                     </button>
                                     </h3>
-                                    <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse14" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Ya. Setiap putaran ditentukan oleh RNG yang disahkan untuk memastikan keadilan.
                                     </div>

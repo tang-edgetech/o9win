@@ -8,21 +8,21 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>LPK777 – Muat Turun Aplikasi LPK777</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="LPK777 – Muat Turun Aplikasi LPK777">
+        <meta name="description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
         <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="LPK777 – Muat Turun Aplikasi LPK777">
+        <meta itemprop="description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
         <meta itemprop="image" content="">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://lpk777.org/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:title" content="LPK777 – Muat Turun Aplikasi LPK777">
+        <meta property="og:description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
         <meta property="og:site_name" content="LPK777">
         <meta property="og:image" content="">
         <meta property="article:tag" content="LPK777">
@@ -39,6 +39,121 @@ include '../inc/functions.php';
         <link rel="alternate" hreflang="en" href="https://lpk777.org/">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "name": "Muat Turun Aplikasi LPK777",
+            "url": "https://lpk-777.com/muat-turun-apk",
+            "inLanguage": "ms",
+            "description": "Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.",
+        }
+        </script>
+
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Adakah APK LPK777 selamat dipasang?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya. Selagi dimuat turun dari laman rasmi, ia bebas dari malware dan selamat."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Boleh deposit dan keluarkan wang melalui aplikasi?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Boleh. Semua fungsi kewangan disokong sepenuhnya seperti di desktop atau telefon."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apa perlu buat jika ada masalah masa pasang APK?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pastikan tetapan 'Sumber Tidak Diketahui' diaktifkan. Jika masih ada masalah, hubungi support melalui live chat kami."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Boleh main tanpa aplikasi?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Boleh. Anda masih boleh guna pelayar mudah alih, tetapi aplikasi lebih laju dan mudah."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Adakah aplikasi menjejaskan prestasi telefon?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tidak. Aplikasi ini ringan dan direka untuk berjalan lancar, termasuk pada telefon bajet atau lama."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Aplikasi ini ada dalam pelbagai bahasa?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya. APK LPK777 menyokong pelbagai bahasa bergantung pada lokasi atau tetapan akaun anda."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Boleh akses semua permainan slot dalam aplikasi?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya boleh je. Aplikasi memberi akses penuh ke koleksi permainan, termasuk semua kategori dan keluaran baharu."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Perlu log masuk setiap kali buka aplikasi?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak perlu. Anda boleh aktifkan auto-login atau guna Face ID/cap jari untuk akses lebih pantas."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Selamat ke buat pembayaran guna aplikasi ni?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya. Aplikasi guna sistem pembayaran yang disulitkan, sama seperti versi desktop ataupun telefon."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Boleh guna live chat melalui aplikasi?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Boleh. Anda boleh terus hubungi sokongan dalam aplikasi, sama seperti versi desktop ataupun telefon."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Perlu kemas kini aplikasi secara manual?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kebanyakan kemas kini diumumkan di laman utama. Untuk Android, mungkin perlu muat turun semula; untuk iOS, hanya segar semula shortcut."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apa patut saya buat jika aplikasi tak berfungsi?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mulakan semula aplikasi atau peranti. Jika masih bermasalah, muat turun semula dari laman web rasmi atau hubungi sokongan."
+            }
+            }
+        ]
+        }
+        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
@@ -173,14 +288,14 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <h2>Soalan Lazim (FAQ)</h2>
-                            <div class="accordion" id="accordionExample">
+                            <div class="accordion" id="accordionFAQ">
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
                                         Adakah APK LPK777 selamat dipasang?
                                     </button>
                                     </h3>
-                                    <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                                    <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Ya. Selagi dimuat turun dari <strong><a href="https://lpk-777.com">homepage (laman rasmi)</a></strong>, ia bebas dari malware dan selamat
                                     </div>
@@ -192,7 +307,7 @@ include '../inc/functions.php';
                                         Boleh deposit dan keluarkan wang melalui aplikasi?
                                     </button>
                                     </h3>
-                                    <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Boleh. Semua fungsi kewangan disokong sepenuhnya seperti di desktop atau telefon.
                                     </div>
@@ -204,7 +319,7 @@ include '../inc/functions.php';
                                         Apa perlu buat jika ada masalah masa pasang APK?
                                     </button>
                                     </h3>
-                                    <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Pastikan tetapan “Sumber Tidak Diketahui” diaktifkan. Jika masih ada masalah, hubungi support melalui live chat kami.
                                     </div>
@@ -216,7 +331,7 @@ include '../inc/functions.php';
                                         Boleh main tanpa aplikasi?
                                     </button>
                                     </h3>
-                                    <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Boleh. Anda masih boleh guna pelayar mudah alih, tetapi aplikasi lebih laju dan mudah.
                                     </div>
@@ -228,7 +343,7 @@ include '../inc/functions.php';
                                         Adakah aplikasi menjejaskan prestasi telefon?
                                     </button>
                                     </h3>
-                                    <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Tidak. Aplikasi ini ringan dan direka untuk berjalan lancar, termasuk pada telefon bajet atau lama.
                                     </div>
@@ -240,7 +355,7 @@ include '../inc/functions.php';
                                     Aplikasi ini ada dalam pelbagai bahasa?
                                     </button>
                                     </h3>
-                                    <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Ya. APK LPK777 menyokong pelbagai bahasa bergantung pada lokasi atau tetapan akaun anda.
                                     </div>
@@ -252,7 +367,7 @@ include '../inc/functions.php';
                                         Boleh akses semua permainan slot dalam aplikasi?
                                     </button>
                                     </h3>
-                                    <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Ya boleh je. Aplikasi memberi akses penuh ke koleksi permainan, termasuk semua kategori dan keluaran baharu.
                                     </div>
@@ -264,7 +379,7 @@ include '../inc/functions.php';
                                         Perlu log masuk setiap kali buka aplikasi?
                                     </button>
                                     </h3>
-                                    <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Tak perlu. Anda boleh aktifkan auto-login atau guna Face ID/cap jari untuk akses lebih pantas.
                                     </div>
@@ -276,7 +391,7 @@ include '../inc/functions.php';
                                         Selamat ke buat pembayaran guna aplikasi ni?
                                     </button>
                                     </h3>
-                                    <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Ya. Aplikasi guna sistem pembayaran yang disulitkan, sama seperti versi desktop ataupun telefon.
                                     </div>
@@ -288,7 +403,7 @@ include '../inc/functions.php';
                                         Boleh guna live chat melalui aplikasi?
                                     </button>
                                     </h3>
-                                    <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Boleh. Anda boleh terus hubungi sokongan dalam aplikasi, sama seperti versi desktop ataupun telefon.
                                     </div>
@@ -300,7 +415,7 @@ include '../inc/functions.php';
                                         Perlu kemas kini aplikasi secara manual?
                                     </button>
                                     </h3>
-                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Kebanyakan kemas kini diumumkan di laman utama. Untuk Android, mungkin perlu muat turun semula; untuk iOS, hanya segar semula shortcut.
                                     </div>
@@ -312,7 +427,7 @@ include '../inc/functions.php';
                                         Apa patut saya buat jika aplikasi tak berfungsi?
                                     </button>
                                     </h3>
-                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
                                         Mulakan semula aplikasi atau peranti. Jika masih bermasalah, <strong><a href="https://lpk-777.com/muat-turun-apk">muat turun semula</a></strong> dari laman web rasmi atau hubungi sokongan.
                                     </div>
