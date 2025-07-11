@@ -39,6 +39,19 @@ include '../inc/functions.php';
         <link rel="alternate" hreflang="en" href="https://lpk777.org/">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "url": "https://lpk-777.com/perjudian-bertanggungjawab",
+            "name": "Perjudian Bertanggungjawab",
+            "description": "Panduan dan alat untuk memastikan perjudian di LPK777 dilakukan secara selamat, adil, dan bertanggungjawab.",
+            "about": {
+            "@type": "Topic",
+            "name": "Perjudian Bertanggungjawab"
+            },
+        }
+        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>

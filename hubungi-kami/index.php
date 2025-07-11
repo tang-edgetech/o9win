@@ -39,6 +39,22 @@ include '../inc/functions.php';
         <link rel="alternate" hreflang="en" href="https://lpk777.org/">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "url": "https://lpk777.org/hubungi-kami",
+            "name": "Hubungi Kami",
+            "description": "Halaman untuk menghubungi sokongan pelanggan LPK777 melalui e-mel, telefon, Telegram, atau sembang langsung.",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "customer support",
+                "email": "support@lpk777.org",
+                "telephone": "+6014-3507586",
+                "availableLanguage": ["ms","en"]
+            },
+        }
+        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>

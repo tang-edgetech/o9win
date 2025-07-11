@@ -39,6 +39,20 @@ include '../inc/functions.php';
         <link rel="alternate" hreflang="en" href="https://lpk777.org/">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "PrivacyPolicy",
+            "url": "https://lpk777.org/dasar-privasi",
+            "name": "Dasar Privasi",
+            "description": "Dasar Privasi LPK777 menerangkan jenis data yang dikumpul, penggunaan, keselamatan dan hak pengguna berkaitan data peribadi.",
+            "publisher": {
+                "@type": "Organization",
+                "name": "LPK777",
+                "url": "https://lpk777.org"
+            }
+        }
+        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>

@@ -1,3 +1,52 @@
+<?php
+$menu_items = [
+    [
+        "title" => "Slot",
+        "url" => "slot",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Muat Turun Aplikasi",
+        "url" => "muat-turun-apk",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Program VIP di LPK777",
+        "url" => "vip",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Kaedah Pembayaran",
+        "url" => "kaedah-pembayaran",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Bonus & Promosi",
+        "url" => "bonus-promosi",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Perjudian Bertanggungjawab",
+        "url" => "perjudian-bertanggungjawab ",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Dasar Privasi",
+        "url" => "dasar-privasi",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Terma Syarat",
+        "url" => "terma-syarat",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Hubungi Kami",
+        "url" => "hubungi-kami",
+        "target" => "_self",
+    ],
+];
+?>
 <header class="masthead" id="masthead">
     <nav class="navbar rounded px-4 py-2">
         <div class="navbar-row">
@@ -22,32 +71,17 @@
                         <li class="nav-item d-xl-none">
                             <a href="<?php echo $site_base_url;?>" class="nav-link">Home</a>
                         </li>
-                        <li class="nav-item dropdown">
-                            <a href="javascript:void(0);" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Mega888 Download</a>
-                            <ul class="dropdown-menu">
-                                <li class="dropdown-menu-item"><a class="dropdown-item" href="mega888-apk-download">Mega888 APK</a></li>
-                                <li class="dropdown-menu-item"><a class="dropdown-item" href="mega888-ios-download">Mega888 iOS</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a href="javascript:void(0);" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
-                            <ul class="dropdown-menu">
-                                <li class="dropdown-menu-item"><a class="dropdown-item" href="mega888-register-login-deposit">Mega888 Register, Login &amp; Deposit</a></li>
-                                <li class="dropdown-menu-item"><a class="dropdown-item" href="mega888-bonuses-promotions">Mega888 Bonuses &amp; Promotions</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item">
-                            <a href="mega888-strategies-guides" class="nav-link">Mega888 Strategies & Guides</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="mega888-rtp" class="nav-link">Mega888 RTP</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="about-mega888" class="nav-link">About Mega888</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="contact" class="nav-link">Contact</a>
-                        </li>
+                        <?php foreach( $menu_items as $item ) {
+                            $title = $item['title'];
+                            $url = $item['url'];
+                            $target = $item['target'];
+                        ?>
+                            <li class="nav-item">
+                                <a href="<?php echo $site_base_url.$url;?>" target="<?php echo $target;?>" class="nav-link"><?php echo $title;?></a>
+                            </li>
+                        <?php
+                        }
+                        ?>
                     </ul>
                 </div>
             </div>

@@ -39,6 +39,42 @@ include '../inc/functions.php';
         <link rel="alternate" hreflang="en" href="https://lpk777.org/">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                "@type": "Article",
+                "@id": "https://winmyr.online//#article",
+                "url": "https://winmyr.online/",
+                "name": "WINMYR",
+                "headline": "WINMYR",
+                "description": "Nikmati pengalaman WINMYR slot dan kasino dalam talian di Malaysia. Muat turun APK, buka keistimewaan VIP, lakukan pembayaran selamat & log masuk WINMYR untuk mula menang hari ini!",
+                "breadcrumb": {
+                    "@id": "https://winmyr.online/bonus-promosi/#breadcrumb"
+                }
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://winmyr.online/bonus-promosi/#breadcrumb",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "WINMYR",
+                    "item": "https://winmyr.online/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Bonus & Promosi",
+                    "item": "https://winmyr.online/bonus-promosi"
+                    }
+                ]
+                }
+            ]
+        }
+        </script>
     </head>
     <body>
         <?php include '../inc/navbar.php';?>
