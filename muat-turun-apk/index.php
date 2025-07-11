@@ -1,6 +1,6 @@
 <?php
-$page_name = "Muat Turun Aplikasi";
-$page_slug = 'muat-turun-aplikasi';
+$page_name = "Muat Turun APK";
+$page_slug = 'muat-turun-apk';
 $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
