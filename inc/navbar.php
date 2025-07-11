@@ -50,7 +50,7 @@ $menu_items = [
 <header class="masthead" id="masthead">
     <nav class="navbar rounded px-4 py-2">
         <div class="navbar-row">
-            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
+            <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="d-none">Open Mobile Menu</span>
                 <div class="quad-box">
                     <div class="quad-inner"></div>
