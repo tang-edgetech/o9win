@@ -9,44 +9,44 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Kaedah Pembayaran LPK777</title>
+        <title>O9win – Kaedah Pembayaran O9win</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Kaedah Pembayaran LPK777">
-        <meta name="description" content="Ketahui cara deposit & withdraw di LPK777 dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
+        <meta name="title" content="O9win – Kaedah Pembayaran O9win">
+        <meta name="description" content="Ketahui cara deposit & withdraw di O9win dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
         <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Kaedah Pembayaran LPK777">
-        <meta itemprop="description" content="Ketahui cara deposit & withdraw di LPK777 dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
+        <meta itemprop="name" content="O9win – Kaedah Pembayaran O9win">
+        <meta itemprop="description" content="Ketahui cara deposit & withdraw di O9win dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
         <meta itemprop="image" content="">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Kaedah Pembayaran LPK777">
-        <meta property="og:description" content="Ketahui cara deposit & withdraw di LPK777 dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
-        <meta property="og:site_name" content="LPK777">
+        <meta property="og:url" content="https://o9win.org/">
+        <meta property="og:title" content="O9win – Kaedah Pembayaran O9win">
+        <meta property="og:description" content="Ketahui cara deposit & withdraw di O9win dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
+        <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
+        <meta property="article:tag" content="O9win">
+        <meta property="article:tag" content="O9win slot">
+        <meta property="article:tag" content="O9win login">
+        <meta property="article:tag" content="O9win app">
+        <meta property="article:tag" content="O9win apk">
+        <meta property="article:tag" content="O9win casino">
+        <meta property="article:tag" content="O9win apk download">
         <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
+        <meta property="article:tag" content="O9win casino">
+        <link rel="canonical" href="https://o9win.org/">
+        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
+        <link rel="alternate" hreflang="en" href="https://o9win.org/">
         <base href="<?php echo $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?><script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "BlogPosting",
-            "name": "Kaedah Pembayaran LPK777",
-            "url": "https://lpk-777.com/kaedah-pembayaran",
+            "name": "Kaedah Pembayaran O9win",
+            "url": "https://o9win.org/kaedah-pembayaran",
             "inLanguage": "ms",
-            "description": "Ketahui cara deposit & withdraw di LPK777 dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!"
+            "description": "Ketahui cara deposit & withdraw di O9win dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!"
         }
         </script>
 
@@ -89,7 +89,7 @@ include '../inc/functions.php';
                 },
                 {
                     "@type": "Question",
-                    "name": "Selamat ke guna kad kredit di LPK777?",
+                    "name": "Selamat ke guna kad kredit di O9win?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Ya. Laman ini guna sistem keselamatan penyulitan dan gateway sah."
@@ -100,7 +100,7 @@ include '../inc/functions.php';
                     "name": "Ada caj tambahan tersembunyi?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "LPK777 tak caj lebih, tapi caj dari bank atau rangkaian kripto mungkin dikenakan."
+                        "text": "O9win tak caj lebih, tapi caj dari bank atau rangkaian kripto mungkin dikenakan."
                     }
                 },
                 {
@@ -140,7 +140,7 @@ include '../inc/functions.php';
                     "name": "Boleh guna e-wallet selain TNG untuk deposit?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Pada masa ini, LPK777 fokus kepada TNG eWallet kerana ia paling stabil dan popular. Namun, sokongan untuk e-wallet lain seperti Boost atau GrabPay mungkin ditambah pada masa akan datang."
+                        "text": "Pada masa ini, O9win fokus kepada TNG eWallet kerana ia paling stabil dan popular. Namun, sokongan untuk e-wallet lain seperti Boost atau GrabPay mungkin ditambah pada masa akan datang."
                     }
                 },
                 {
@@ -148,7 +148,7 @@ include '../inc/functions.php';
                     "name": "Berapa lama pengeluaran biasanya diproses?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Kebanyakan pengeluaran diproses dalam masa 1 hingga 2 hari bekerja, bergantung kepada kaedah yang digunakan. Kripto dan TNG mungkin lebih cepat, terutamanya jika anda pengguna VIP LPK777."
+                        "text": "Kebanyakan pengeluaran diproses dalam masa 1 hingga 2 hari bekerja, bergantung kepada kaedah yang digunakan. Kripto dan TNG mungkin lebih cepat, terutamanya jika anda pengguna VIP O9win."
                     }
                 }
             ]
@@ -175,15 +175,15 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Kaedah Pembayaran LPK777: Panduan Lengkap untuk Transaksi Lancar</h1>
+                                <h1>Kaedah Pembayaran O9win: Panduan Lengkap untuk Transaksi Lancar</h1>
                                 <p>&nbsp;</p>
-                                <p>Bila anda mula bermain di <a href="https://lpk-777.com"><strong>LPK777</strong></a>, perkara terakhir yang anda nak risaukan ialah cara nak deposit duit. Anda nak top-up cepat, main lancar, dan withdraw tanpa masalah, kan?</p>
+                                <p>Bila anda mula bermain di <a href="https://o9win.org"><strong>O9win</strong></a>, perkara terakhir yang anda nak risaukan ialah cara nak deposit duit. Anda nak top-up cepat, main lancar, dan withdraw tanpa masalah, kan?</p>
                                 <p>&nbsp;</p>
-                                <p>Sebab tu penting untuk tahu kaedah pembayaran yang sesuai. Ada yang pantas, ada yang senang, ada yang caj rendah. Sama ada anda pemain baru atau dah biasa main <a href="https://lpk-777.com/slot"><strong>slot online</strong></a>, faham pilihan anda boleh jimat masa dan elak masalah kemudian hari.</p>
+                                <p>Sebab tu penting untuk tahu kaedah pembayaran yang sesuai. Ada yang pantas, ada yang senang, ada yang caj rendah. Sama ada anda pemain baru atau dah biasa main <a href="https://o9win.org/slot"><strong>slot online</strong></a>, faham pilihan anda boleh jimat masa dan elak masalah kemudian hari.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Gambaran Umum Kaedah Pembayaran LPK777</h2>
-                                <p><a href="https://lpk-777.com/kaedah-pembayaran"><strong>Kaedah pembayaran LPK777</strong></a> menyokong pelbagai pilihan yang biasa digunakan pemain Malaysia. Tak perlu belajar benda pelik, hanya pilih yang sesuai dengan anda:</p>
+                                <h2>Gambaran Umum Kaedah Pembayaran O9win</h2>
+                                <p><a href="https://o9win.org/kaedah-pembayaran"><strong>Kaedah pembayaran O9win</strong></a> menyokong pelbagai pilihan yang biasa digunakan pemain Malaysia. Tak perlu belajar benda pelik, hanya pilih yang sesuai dengan anda:</p>
                                 <ul>
                                     <li><strong>Kad Kredit/Debit</strong>: Visa & Mastercard – senang dan biasa digunakan</li>
                                     <li><strong>TNG eWallet</strong>: Sangat popular, cepat dan mesra mudah alih</li>
@@ -194,8 +194,8 @@ include '../inc/functions.php';
                                 <p>Setiap kaedah ada kelebihan tersendiri. Mari kita tengok lebih dekat.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Guna Kad Kredit atau Debit di LPK777</h2>
-                                <p>Kad kredit dan debit masih antara cara paling biasa untuk tambah nilai akaun anda di LPK777. Sama ada Visa atau Mastercard:</p>
+                                <h2>Guna Kad Kredit atau Debit di O9win</h2>
+                                <p>Kad kredit dan debit masih antara cara paling biasa untuk tambah nilai akaun anda di O9win. Sama ada Visa atau Mastercard:</p>
                                 <ol class="mb-4">
                                     <li>Masukkan maklumat kad</li>
                                     <li>Pilih amaun deposit</li>
@@ -212,7 +212,7 @@ include '../inc/functions.php';
 
                                 <h2>Bayar Guna TNG eWallet</h2>
                                 <p>Touch ’n Go (TNG) eWallet antara pilihan cashless yang paling pantas di Malaysia.</p>
-                                <p><strong>Cara Guna TNG di LPK777:</strong></p>
+                                <p><strong>Cara Guna TNG di O9win:</strong></p>
                                 <ul>
                                     <li>Pilih eWallet anda</li>
                                     <li>Imbas QR code guna aplikasi eWallet</li>
@@ -222,11 +222,11 @@ include '../inc/functions.php';
                                 <p>Cepat, mudah, dan tak perlu masukkan maklumat kad atau bank.</p>
                                 <p>&nbsp;</p>
                                 <p><strong>TNG Paling Senang Digunakan?</strong></p>
-                                <p>Ya, terutama untuk pengguna mudah alih. Transaksi selesai dalam beberapa saat tanpa error. Kadangkala ada <a href="https://lpk-777.com/bonus-promosi"><strong>cashback atau promosi eksklusif</strong></a> juga – sebab tu ramai pemain suka guna TNG.</p>
+                                <p>Ya, terutama untuk pengguna mudah alih. Transaksi selesai dalam beberapa saat tanpa error. Kadangkala ada <a href="https://o9win.org/bonus-promosi"><strong>cashback atau promosi eksklusif</strong></a> juga – sebab tu ramai pemain suka guna TNG.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Pindahan Bank Dalam Talian: Stabil dan Boleh Dipercayai?</h2>
-                                <p>Kalau anda jenis yang suka guna akaun bank terus, FPX adalah sistem yang paling stabil di LPK777.</p>
+                                <p>Kalau anda jenis yang suka guna akaun bank terus, FPX adalah sistem yang paling stabil di O9win.</p>
                                 <p><strong>Kadar & Masa Proses Bank:</strong></p>
                                 <ul>
                                     <li><strong>Maybank / CIMB</strong>: Had tinggi, proses segera</li>
@@ -236,7 +236,7 @@ include '../inc/functions.php';
                                 <p>Kalau nak deposit besar, semak had bank anda dulu.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Guna Kripto di LPK777: Cepat Tapi Berisiko?</h2>
+                                <h2>Guna Kripto di O9win: Cepat Tapi Berisiko?</h2>
                                 <p>Kalau anda dah biasa dengan kripto seperti Bitcoin atau USDT, kaedah ini boleh jimat masa dan lebih peribadi.</p>
                                 <p>&nbsp;</p>
                                 <p><strong>Sesuai untuk:</strong></p>
@@ -291,7 +291,7 @@ include '../inc/functions.php';
 
                                 <h2>Ada Caj Tambahan atau Had tak?</h2>
                                 <p>
-                                    Biasanya, <a href="https://lpk-777.com"><strong>LPK777</strong></a> tak kenakan caj tambahan untuk deposit. Tapi, pihak bank atau penyedia pembayaran mungkin kenakan sedikit caj:
+                                    Biasanya, <a href="https://o9win.org"><strong>O9win</strong></a> tak kenakan caj tambahan untuk deposit. Tapi, pihak bank atau penyedia pembayaran mungkin kenakan sedikit caj:
                                 </p>
                                 <ul>
                                     <li><strong>Kad kredit</strong>: Caj pendahuluan tunai mungkin dikenakan</li>
@@ -310,7 +310,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>&nbsp;</p>
                                 <p>
-                                    Langkah mudah ini boleh elak banyak masalah dan pastikan anda boleh terus <a href="https://lpk-777.com/slot"><strong>main permainan slot</strong></a> tanpa tunggu lama.
+                                    Langkah mudah ini boleh elak banyak masalah dan pastikan anda boleh terus <a href="https://o9win.org/slot"><strong>main permainan slot</strong></a> tanpa tunggu lama.
                                 </p>
                             </div>
                         </div>
@@ -322,7 +322,7 @@ include '../inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
-                            <h2>Soalan Lazim Tentang Kaedah Pembayaran LPK777</h2>
+                            <h2>Soalan Lazim Tentang Kaedah Pembayaran O9win</h2>
                             <div class="accordion" id="accordionExample">
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
@@ -371,7 +371,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Tunggu 10 minit. Jika masih tiada update, hubungi <a href="https://lpk-777.com/hubungi-kami"><strong>sokongan pelanggan</strong></a>.
+                                            Tunggu 10 minit. Jika masih tiada update, hubungi <a href="https://o9win.org/hubungi-kami"><strong>sokongan pelanggan</strong></a>.
                                         </div>
                                     </div>
                                 </div>
@@ -379,7 +379,7 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                            Selamat ke guna kad kredit di LPK777?
+                                            Selamat ke guna kad kredit di O9win?
                                         </button>
                                     </h3>
                                     <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -397,7 +397,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            LPK777 tak caj lebih, tapi caj dari bank atau rangkaian kripto mungkin dikenakan.
+                                            O9win tak caj lebih, tapi caj dari bank atau rangkaian kripto mungkin dikenakan.
                                         </div>
                                     </div>
                                 </div>
@@ -462,7 +462,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Pada masa ini, LPK777 fokus kepada TNG eWallet kerana ia paling stabil dan popular. Namun, sokongan untuk e-wallet lain seperti Boost atau GrabPay mungkin ditambah pada masa akan datang. Semak <a href="https://lpk-777.com/kaedah-pembayaran"><strong>halaman pembayaran rasmi</strong></a> untuk info terkini.
+                                            Pada masa ini, O9win fokus kepada TNG eWallet kerana ia paling stabil dan popular. Namun, sokongan untuk e-wallet lain seperti Boost atau GrabPay mungkin ditambah pada masa akan datang. Semak <a href="https://o9win.org/kaedah-pembayaran"><strong>halaman pembayaran rasmi</strong></a> untuk info terkini.
                                         </div>
                                     </div>
                                 </div>
@@ -475,7 +475,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Kebanyakan pengeluaran diproses dalam masa 1 hingga 2 hari bekerja, bergantung kepada kaedah yang digunakan. Kripto dan TNG mungkin lebih cepat, terutamanya jika anda pengguna <a href="https://lpk-777.com/vip"><strong>vip LPK777</strong></a>.
+                                            Kebanyakan pengeluaran diproses dalam masa 1 hingga 2 hari bekerja, bergantung kepada kaedah yang digunakan. Kripto dan TNG mungkin lebih cepat, terutamanya jika anda pengguna <a href="https://o9win.org/vip"><strong>vip O9win</strong></a>.
                                         </div>
                                     </div>
                                 </div>

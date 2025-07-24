@@ -9,47 +9,47 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta itemprop="image" content="">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta property="og:site_name" content="LPK777">
+        <meta property="og:url" content="https://o9win.org/">
+        <meta property="og:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
+        <meta property="article:tag" content="O9win">
+        <meta property="article:tag" content="O9win slot">
+        <meta property="article:tag" content="O9win login">
+        <meta property="article:tag" content="O9win app">
+        <meta property="article:tag" content="O9win apk">
+        <meta property="article:tag" content="O9win casino">
+        <meta property="article:tag" content="O9win apk download">
         <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
+        <meta property="article:tag" content="O9win casino">
+        <link rel="canonical" href="https://o9win.org/">
+        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
+        <link rel="alternate" hreflang="en" href="https://o9win.org/">
         <base href="<?php echo $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "PrivacyPolicy",
-            "url": "https://lpk-777.com/dasar-privasi",
+            "url": "https://o9win.org/dasar-privasi",
             "name": "Dasar Privasi",
-            "description": "Dasar Privasi LPK777 menerangkan jenis data yang dikumpul, penggunaan, keselamatan dan hak pengguna berkaitan data peribadi.",
+            "description": "Dasar Privasi O9win menerangkan jenis data yang dikumpul, penggunaan, keselamatan dan hak pengguna berkaitan data peribadi.",
             "publisher": {
                 "@type": "Organization",
-                "name": "LPK777",
+                "name": "O9win",
                 "url": "https://lpk777.org"
             }
         }
@@ -64,10 +64,10 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Dasar Privasi untuk LPK777</h1>
+                                <h1>Dasar Privasi untuk O9win</h1>
                                 <ol>
                                     <li><p><strong>Komitmen Kami Terhadap Privasi Anda</strong></p>
-                                        <p>LPK777 komited untuk melindungi maklumat peribadi semua pengguna yang berdaftar di platform kami. Privasi anda adalah tanggungjawab utama kami.</p>
+                                        <p>O9win komited untuk melindungi maklumat peribadi semua pengguna yang berdaftar di platform kami. Privasi anda adalah tanggungjawab utama kami.</p>
                                         <p>&nbsp;</p>
                                     </li>
                                     <li><p><strong>Jenis Maklumat yang Dikumpul</strong></p>
@@ -93,7 +93,7 @@ include '../inc/functions.php';
                                         <p>&nbsp;</p>
                                     </li>
                                     <li><p><strong>Akses dan Kawalan Pengguna</strong></p>
-                                        <p>Anda boleh meminta akses, pembetulan, atau pemadaman data peribadi anda pada bila-bila masa melalui <a href="https://lpk-777.com/hubungi-kami"><strong>sokongan pelanggan</strong></a>.</p>
+                                        <p>Anda boleh meminta akses, pembetulan, atau pemadaman data peribadi anda pada bila-bila masa melalui <a href="https://o9win.org/hubungi-kami"><strong>sokongan pelanggan</strong></a>.</p>
                                         <p>&nbsp;</p>
                                     </li>
                                     <li><p><strong>Tempoh Simpanan Data</strong></p>

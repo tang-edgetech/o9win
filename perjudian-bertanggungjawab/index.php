@@ -9,44 +9,44 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta itemprop="image" content="">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta property="og:site_name" content="LPK777">
+        <meta property="og:url" content="https://o9win.org/">
+        <meta property="og:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
+        <meta property="article:tag" content="O9win">
+        <meta property="article:tag" content="O9win slot">
+        <meta property="article:tag" content="O9win login">
+        <meta property="article:tag" content="O9win app">
+        <meta property="article:tag" content="O9win apk">
+        <meta property="article:tag" content="O9win casino">
+        <meta property="article:tag" content="O9win apk download">
         <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
+        <meta property="article:tag" content="O9win casino">
+        <link rel="canonical" href="https://o9win.org/">
+        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
+        <link rel="alternate" hreflang="en" href="https://o9win.org/">
         <base href="<?php echo $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "url": "https://lpk-777.com/perjudian-bertanggungjawab",
+            "url": "https://o9win.org/perjudian-bertanggungjawab",
             "name": "Perjudian Bertanggungjawab",
-            "description": "Panduan dan alat untuk memastikan perjudian di LPK777 dilakukan secara selamat, adil, dan bertanggungjawab.",
+            "description": "Panduan dan alat untuk memastikan perjudian di O9win dilakukan secara selamat, adil, dan bertanggungjawab.",
             "about": {
             "@type": "Topic",
             "name": "Perjudian Bertanggungjawab"
@@ -63,10 +63,10 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Perjudian Bertanggungjawab di LPK777</h1>
+                                <h1>Perjudian Bertanggungjawab di O9win</h1>
                                 <p>&nbsp;</p>
                                 <h2>Komitmen Kami Terhadap Permainan Selamat & Bertanggungjawab</h2>
-                                <p>Di LPK777, kami percaya bahawa perjudian haruslah menyeronokkan, adil, dan berada dalam kawalan anda. Kami komited untuk menggalakkan amalan perjudian bertanggungjawab serta menyediakan alat dan sokongan untuk membantu pemain mengurus aktiviti mereka dengan sihat.</p>
+                                <p>Di O9win, kami percaya bahawa perjudian haruslah menyeronokkan, adil, dan berada dalam kawalan anda. Kami komited untuk menggalakkan amalan perjudian bertanggungjawab serta menyediakan alat dan sokongan untuk membantu pemain mengurus aktiviti mereka dengan sihat.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Prinsip Perjudian Bertanggungjawab</h2>
@@ -88,7 +88,7 @@ include '../inc/functions.php';
                                     <li><strong>Peringatan Masa Bermain:</strong> Tetapkan notifikasi masa sesi</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <p>Untuk mengaktifkan mana-mana alat ini, sila hubungi <a href="https://lpk-777.com/hubungi-kami"><strong>Sokongan Pelanggan LPK777</strong></a>.</p>
+                                <p>Untuk mengaktifkan mana-mana alat ini, sila hubungi <a href="https://o9win.org/hubungi-kami"><strong>Sokongan Pelanggan O9win</strong></a>.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Sokongan Untuk Isu Ketagihan Judi</h2>
@@ -98,7 +98,7 @@ include '../inc/functions.php';
                                     <li>GamCare (<a href="http://www.gamcare.org.uk"><strong>www.gamcare.org.uk</strong></a>)</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <p>LPK777 menggalakkan persekitaran yang selamat dan tidak bertujuan sebagai sumber pendapatan. Sila berjudi secara bertanggungjawab.</p>
+                                <p>O9win menggalakkan persekitaran yang selamat dan tidak bertujuan sebagai sumber pendapatan. Sila berjudi secara bertanggungjawab.</p>
                             </div>
                         </div>
                     </div>

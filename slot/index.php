@@ -9,45 +9,45 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta itemprop="image" content="">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta property="og:site_name" content="LPK777">
+        <meta property="og:url" content="https://o9win.org/">
+        <meta property="og:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
+        <meta property="article:tag" content="O9win">
+        <meta property="article:tag" content="O9win slot">
+        <meta property="article:tag" content="O9win login">
+        <meta property="article:tag" content="O9win app">
+        <meta property="article:tag" content="O9win apk">
+        <meta property="article:tag" content="O9win casino">
+        <meta property="article:tag" content="O9win apk download">
         <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
+        <meta property="article:tag" content="O9win casino">
+        <link rel="canonical" href="https://o9win.org/">
+        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
+        <link rel="alternate" hreflang="en" href="https://o9win.org/">
         <base href="<?php echo $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
         "@context": "https://schema.org",
         "@type": "BlogPosting",
-        "name": "LPK777 Slot",
-        "url": "https://lpk-777.com/slot",
+        "name": "O9win Slot",
+        "url": "https://o9win.org/slot",
         "inLanguage": "ms",
-        "description": "Jom main slot online di LPK777! Cuba demo percuma, nikmati slot RTP tinggi, login senang, dan aplikasi pro. Jackpot besar dan pengalaman stabil menanti anda!",
+        "description": "Jom main slot online di O9win! Cuba demo percuma, nikmati slot RTP tinggi, login senang, dan aplikasi pro. Jackpot besar dan pengalaman stabil menanti anda!",
 
         }
         </script>
@@ -59,7 +59,7 @@ include '../inc/functions.php';
         "mainEntity": [
             {
             "@type": "Question",
-            "name": "Adakah permainan slot di LPK777 adil?",
+            "name": "Adakah permainan slot di O9win adil?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Ya. Semua permainan menggunakan perisian RNG yang disahkan dan diaudit untuk menjamin keadilan dan ketidakberpihakan."
@@ -70,7 +70,7 @@ include '../inc/functions.php';
             "name": "Perlu muat turun untuk bermain?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Tak perlu. Anda boleh main terus melalui pelayar atau gunakan aplikasi mudah alih LPK777 untuk akses lebih smooth."
+                "text": "Tak perlu. Anda boleh main terus melalui pelayar atau gunakan aplikasi mudah alih O9win untuk akses lebih smooth."
             }
             },
             {
@@ -134,7 +134,7 @@ include '../inc/functions.php';
             "name": "Ada pertandingan atau kejohanan slot?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ya. LPK777 kadang-kadang buat kejohanan slot dengan hadiah wang tunai. Semak laman Promosi untuk acara aktif dan akan datang."
+                "text": "Ya. O9win kadang-kadang buat kejohanan slot dengan hadiah wang tunai. Semak laman Promosi untuk acara aktif dan akan datang."
             }
             },
             {
@@ -177,145 +177,37 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Main Permainan Slot Terbaik Dalam Talian Bersama LPK777</h1>
-                                <p><a href="https://lpk-777.com"><strong>LPK777</strong></a> menawarkan barisan permainan slot yang kukuh dan direka untuk semua jenis pemain. Daripada pemain baharu hingga pemain berpengalaman, terdapat sesuatu untuk semua orang di sini. Nak chill sambil pusing-pusing reel pun boleh, nak all-out kejar jackpot pun takde hal, platform slot LPK777 menyediakan pengalaman permainan yang lancar dan stabil.</p>
+                                <h1 class="text-center heading-block">Slot di O9WIN</h1>
+                                <p>Temui dunia yang penuh keseronokan dengan koleksi <strong><a href="https://o9win.org/">slot o9win</a></strong>. Sama ada anda mengejar mesin buah klasik atau slot video terkini, perpustakaan kami menawarkan tajuk untuk setiap citarasa dan tahap pengalaman, semuanya menampilkan grafik berkualiti tinggi, permainan yang menarik, dan pembayaran yang boleh dipercayai.</p>
                                 <p>&nbsp;</p>
-                                <p>Semua sistem di platform ini selamat, mesra pengguna, dan dimuatkan dengan pantas. Hanya pilih permainan, tekan butang spin, dan nikmati hiburan tanpa gangguan.</p>
+                                <h3>Pelbagai Permainan Slot</h3>
+                                <p>Dari slot tiga gulungan yang abadi hingga slot video yang kaya dengan ciri, o9win memenuhi setiap pilihan. Tema pengembaraan membawa anda ke tamadun kuno sementara tajuk moden menawarkan gulungan bertumpuk dan pusingan bonus. Untuk keseronokan bersama, kejohanan slot menyatukan pemain. Bertanding di papan pendahulu dan peroleh ganjaran tambahan.</p>
                                 <p>&nbsp;</p>
-                                <h2>Apa Yang Buat Permainan Slot LPK777 Istimewa</h2>
-                                <p>Kat LPK777, permainan slot bukan sekadar hiburan – ia merupakan satu pengalaman. Direka oleh penyedia permainan terkemuka, setiap permainan memenuhi standard prestasi dan keadilan. Anda akan dapati:</p>
-                                <ul>
-                                    <li>Koleksi permainan yang luas dengan pelbagai tema & ciri</li>
-                                    <li>Prestasi lancar di semua peranti termasuk <a href="https://lpk-777.com/muat-turun-apk"><strong>aplikasi mudah alih LPK777</strong></a></li>
-                                    <li>Nilai RTP telus untuk setiap permainan</li>
-                                    <li>Penapis pintar untuk cari permainan ikut gaya korang</li>
-                                </ul>
-                                <p>Semua ciri ini menjadikan permainan slot LPK777 antara yang paling digemari oleh pemain Malaysia.</p>
+                                <h3>Antara Muka Pengguna yang Mesra dan Ciri-ciri</h3>
+                                <p>Lobi intuitif kami membolehkan anda menapis permainan mengikut tema, volatiliti atau penyedia. Label yang jelas menunjukkan taruhan minimum dan maksimum supaya anda dapat mengawal bajet dengan mudah. Dengan satu klik, anda boleh beralih antara permainan wang sebenar dan mod demo, menjadikannya mudah untuk mencuba tajuk baru tanpa risiko.</p>
                                 <p>&nbsp;</p>
-
-                                <h2>Jenis-Jenis Permainan Slot Yang Kena Tahu</h2>
-                                <p class="mb-3">Kami dah susun permainan kepada beberapa kategori supaya korang senang nak pilih:</p>
-                                <h3 class="text-h4"><strong>Slot Klasik</strong></h3>
-                                <p>Yang ni mudah difahami, memberikan rasa nostalgia, dan sesuai untuk pemain yang menyukai format reel tradisional dengan simbol – simbol buah, lucky 7, bell.</p>
+                                <h3>Memahami RTP dan Volatiliti</h3>
+                                <p>Pemain pemula sering tertanya-tanya bagaimana untuk memilih slot yang sesuai. Kadar Pulangan kepada Pemain (RTP) menunjukkan pulangan teoritis dari masa ke masa, sementara volatiliti menunjukkan kekerapan dan saiz kemenangan. Slot dengan volatiliti rendah memberikan kemenangan kecil yang kerap, sesuai untuk permainan yang berhati-hati. Tajuk dengan volatiliti tinggi memberikan kemenangan yang kurang kerap tetapi menawarkan jackpot yang lebih besar. Konsep mudah ini membantu anda memilih permainan yang sesuai dengan gaya peribadi anda.</p>
+                                <h3>Pengalaman Slot Mudah Alih</h3>
+                                <p>Semua slot di O9WIN dioptimumkan untuk permainan mudah alih. Sama ada anda mengakses laman kami di iOS atau Android, gulungan berputar dengan lancar tanpa memerlukan muat turun. Pengguna Android boleh <strong><a href=”https://o9win.org/muat-turun-apk”>muat turun APK o9win</a></strong>untuk antara muka seperti aplikasi dan membawa permainan kegemaran di mana-mana sahaja.</p>
                                 <p>&nbsp;</p>
-                                <h3 class="text-h4"><strong>Slot Video</strong></h3>
-                                <p>Grafik mantap, jalan cerita tersendiri, dan pusingan bonus interaktif, sesuai untuk pemain yang suka layan style cinematic.</p>
+                                <h3>Permainan Adil yang Boleh Dibuktikan</h3>
+                                <p>Ketelusan adalah penting. Setiap putaran menggunakan penjana nombor rawak yang disahkan dan audit bebas menjamin keadilan. Anda boleh menyemak sijil audit untuk melihat peratusan RTP yang disahkan dalam persekitaran sebenar.</p>
                                 <p>&nbsp;</p>
-                                <h3 class="text-h4"><strong>Slot Jackpot</strong></h3>
-                                <p>Game jenis ni menawarkan peluang menang besar melalui jackpot progresif atau tetap. Sekali pusing sahaja boleh mengubah segalanya.</p>
+                                <h3>Tips untuk Pemain Baru</h3>
+                                <p>Mulakan dengan taruhan kecil untuk mempelajari ciri-ciri yang berbeza. Pilih tajuk yang menawarkan pusingan bonus yang kerap untuk melanjutkan masa bermain. Gunakan mod demo untuk mengkaji jadual pembayaran dan simbol khas sebelum bertaruh dengan dana sebenar. Menetapkan had deposit membantu memastikan permainan tetap menyeronokkan dan berada dalam bajet.</p>
                                 <p>&nbsp;</p>
-                                <h3 class="text-h4"><strong>Slot Megaways dan Berfitur Tinggi</strong></h3>
-                                <p>Slot dengan ganjaran tinggi yang mempunyai ribuan cara untuk menang, reel bertingkat, simbol berkembang, dan banyak lagi – untuk orang yang suka aksi dan ciri permainan lanjutan.</p>
+                                <h3>Cuba Sebelum Anda Bertaruh dengan Mod Demo</h3>
+                                <p>Tukar sebarang slot kepada mod latihan dengan segera, tanpa memerlukan pendaftaran. Ini membolehkan anda meneroka simbol liar, pencetus putaran percuma dan permainan bonus tanpa mempertaruhkan baki anda.</p>
                                 <p>&nbsp;</p>
-
-                                <h2>Cara Nak Mula Main Slot di LPK777</h2>
-                                <p>Jika anda masih baru, proses untuk mula bermain senang je:</p>
-                                <ol>
-                                    <li><strong>Daftar Akaun:</strong> Isi borang ringkas untuk mendaftar</li>
-                                    <li><strong>Buat Deposit:</strong> Pilih kaedah pembayaran yang korang guna</li>
-                                    <li><strong>Pilih Permainan:</strong> – Terokai kategori atau yang tengah trending sekarang</li>
-                                </ol>
-                                <p>Semua jenis ini tersedia di <strong>platform permainan LPK777</strong> dan boleh dicuba mengikut citarasa anda.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Cuba Dulu Sebelum Bertaruh: Ketersediaan Mod Demo</h2>
-                                <p>Ramai orang suka cuba dulu sebelum main betul, sebab tu kat LPK777 banyak game ada demo slot. Sesuai sangat kalau korang:</p>
-                                <ul>
-                                    <li>Mencuba pusingan bonus dan fungsi permainan</li>
-                                    <li>Memahami garis pembayaran, volatiliti, dan tingkah laku simbol</li>
-                                    <li>Meningkatkan keyakinan sebelum bermain duit sebenar</li>
-                                </ul>
-                                <p>Kebanyakan permainan boleh diakses dalam mod demo tanpa pendaftaran. Apabila bersedia, hanya satu klik untuk mula bermain dengan wang sebenar.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Permainan Slot RTP Tinggi di LPK777</h2>
-                                <p>Jika anda ingin mendapatkan pulangan lebih baik semasa bermain, memilih permainan slot dengan RTP (Return to Player) tinggi adalah pilihan bijak. Berikut ialah beberapa permainan <a href="https://lpk-777.com/bonus-promosi"><strong>RTP tinggi</strong></a> di LPK777:</p>
-                                <table class="table table-striped mb-0">
-                                    <thead>
-                                        <tr>
-                                            <th>Permainan</th>
-                                            <th>RTP</th>
-                                            <th>Ciri Menarik</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>Gates of Olympus</td>
-                                            <td>96.50%</td>
-                                            <td>Tumble, Pengganda, Free Spin</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Sugar Rush</td>
-                                            <td>96.50%</td>
-                                            <td>Cluster Pays, Free Spin, Pengganda</td>
-                                        </tr>
-                                        <tr>
-                                            <td>5 Lions Megaways</td>
-                                            <td>96.55%</td>
-                                            <td>Megaways, Simbol Misteri, Free Spin</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Big Bass Bonanza</td>
-                                            <td>96.71%</td>
-                                            <td>Bonus Memancing, Wilds, Free Spin</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Wolf Gold</td>
-                                            <td>96.01%</td>
-                                            <td>Respins, Simbol Wang, Putaran Percuma</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Great Rhino Deluxe</td>
-                                            <td>96.50%</td>
-                                            <td>Super Respin, Wilds, Free Spin</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Buffalo King Megaways</td>
-                                            <td>96.52%</td>
-                                            <td>Reel Bertingkat, Megaways, Free Spin</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                                <p>&nbsp;</p>
-                                <p>Permainan ini bukan je menawarkan kadar pulangan melebihi purata, malah dipenuhi dengan ciri-ciri best dan mekanik permainan yang syok.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Simbol & Ciri Slot Penting: Panduan Untuk Beginner</h2>
-                                <h4>Simbol Asas dan Fungsinya:</h4>
-                                <ul>
-                                    <li><strong>Wilds</strong> – Menggantikan simbol lain untuk melengkapkan kombinasi kemenangan</li>
-                                    <li><strong>Scatters</strong> – Membuka free spin atau pusingan bonus</li>
-                                    <li><strong>Putaran Percuma</strong> – Pusingan bonus yang tidak menggunakan kredit pemain</li>
-                                    <li><strong>Pengganda</strong> – Meningkatkan jumlah kemenangan</li>
-                                    <li><strong>Garis Pembayaran</strong> – Corak kemenangan pada ree</li>
-                                    <li><strong>Permainan Bonus</strong> – Pusingan khas dengan hadiah tambahan</li>
-                                </ul>
-                                <p>&nbsp;</p>
-
-                                <h4>Ciri Slot Yang Perlu Dicari:</h4>
-                                <ul>
-                                    <li><strong>Expanding Wilds</strong> – Wilds yang menutupi keseluruhan reel</li>
-                                    <li><strong>Sticky Symbols</strong> – Kekal di tempatnya untuk peluang menang tambahan</li>
-                                    <li><strong>Cascading Reels</strong> – Kemenangan berturut-turut dalam satu putaran</li>
-                                    <li><strong>Bonus Buy</strong> – Terus beli akses ke pusingan bonus (jika tersedia)</li>
-                                </ul>
-                                <p>&nbsp;</p>
-                                <p>Bermain permainan slot perlukan sedikit strategi walaupun bergantung pada nasib. Beberapa tip ini boleh bantu korang bermula dengan lebih bijak:</p>
-                                <ul>
-                                    <li>Mula dengan <strong>slot volatiliti rendah</strong> untuk kemenangan lebih konsisten</li>
-                                    <li>Pilih <strong>permainan RTP tinggi</strong> untuk pulangan jangka panjang</li>
-                                    <li>Guna <strong>mod demo</strong> sebelum main duit sebenar di slot demo LPK777</li>
-                                    <li>Tetapkan bajet dan patuhinya – elakkan perjudian emosi</li>
-                                    <li>Jangan kejar kekalahan – rehat dulu, cuba lagi bila lebih fokus</li>
-                                </ul>
-                                <p>&nbsp;</p>
-                                <p>LPK777 juga menyokong <a href="https://lpk-777.com/perjudian-bertanggungjawab"><strong>perjudian bertanggungjawab</strong></a> dan menggalakkan pengawalan diri bagi pemain semua peringkat.</p>
+                                <h3>Mula Bermain</h3>
+                                <p>Sedia untuk memutar gulungan di O9WIN? Cipta akaun, buat deposit pertama anda dan teruskan ke lobi slot kami. Pemain baru juga boleh <strong><a href=https://o9win.org/bonus-promosi”>tuntut putaran percuma alu-aluan </a></strong?>untuk meningkatkan bankroll awal mereka.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <section class="" id="faq">
+            <section class="d-none" id="faq">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
@@ -324,12 +216,12 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                        Adakah permainan slot di LPK777 adil?
+                                        Adakah permainan slot di O9win adil?
                                     </button>
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya, semua permainan menggunakan RNG (Random Number Generator) yang telah disahkan untuk memastikan keputusan rawak dan adil. Ketelusan dijaga melalui <a href="https://lpk-777.comg/terma-syarat"><strong>dasar privasi dan audit platform</strong></a>.
+                                        Ya, semua permainan menggunakan RNG (Random Number Generator) yang telah disahkan untuk memastikan keputusan rawak dan adil. Ketelusan dijaga melalui <a href="https://o9win.orgg/terma-syarat"><strong>dasar privasi dan audit platform</strong></a>.
                                     </div>
                                     </div>
                                 </div>
@@ -341,7 +233,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Tak wajib. Korang boleh main terus dari pelayar atau muat turun <a href="https://lpk-777.com/muat-turun-apk"><strong>APK rasmi LPK777</strong></a> untuk pengalaman lebih pantas dan smooth.
+                                        Tak wajib. Korang boleh main terus dari pelayar atau muat turun <a href="https://o9win.org/muat-turun-apk"><strong>APK rasmi O9win</strong></a> untuk pengalaman lebih pantas dan smooth.
                                     </div>
                                     </div>
                                 </div>
@@ -413,7 +305,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Serendah RM0.20 hingga RM100++. Bergantung pada tetapan setiap permainan. Boleh rujuk terus dalam <a href="https://lpk-777.com/slot"><strong>slot pilihan anda</strong></a>.
+                                        Serendah RM0.20 hingga RM100++. Bergantung pada tetapan setiap permainan. Boleh rujuk terus dalam <a href="https://o9win.org/slot"><strong>slot pilihan anda</strong></a>.
                                     </div>
                                     </div>
                                 </div>
@@ -425,7 +317,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Kebanyakannya ya, tapi ada pengecualian. Sila semak <a href="https://lpk-777.comg/terma-syarat"><strong>terma & syarat promosi</strong></a> untuk kepastian.
+                                        Kebanyakannya ya, tapi ada pengecualian. Sila semak <a href="https://o9win.orgg/terma-syarat"><strong>terma & syarat promosi</strong></a> untuk kepastian.
                                     </div>
                                     </div>
                                 </div>
@@ -437,7 +329,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya! LPK777 menganjurkan <a href="https://lpk-777.com/bonus-promosi"><strong>kejohanan slot berkala</strong></a> dengan hadiah wang tunai. Semak laman promosi untuk info terkini.
+                                        Ya! O9win menganjurkan <a href="https://o9win.org/bonus-promosi"><strong>kejohanan slot berkala</strong></a> dengan hadiah wang tunai. Semak laman promosi untuk info terkini.
                                     </div>
                                     </div>
                                 </div>
@@ -461,7 +353,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Cuba refresh laman atau buka semula aplikasi. Jika masih gagal, hubungi <a href="https://lpk-777.com/hubungi-kami"><strong>sokongan pelanggan 24/7</strong></a>.
+                                        Cuba refresh laman atau buka semula aplikasi. Jika masih gagal, hubungi <a href="https://o9win.org/hubungi-kami"><strong>sokongan pelanggan 24/7</strong></a>.
                                     </div>
                                     </div>
                                 </div>

@@ -1,5 +1,5 @@
 <?php
-$page_name = "Program VIP di LPK777";
+$page_name = "Program VIP di O9win";
 $page_slug = 'vip';
 $page_index = 4;
 $page_thumbnail = "https://example.com/image.jpg";
@@ -9,45 +9,45 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta itemprop="image" content="">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta property="og:site_name" content="LPK777">
+        <meta property="og:url" content="https://o9win.org/">
+        <meta property="og:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
+        <meta property="article:tag" content="O9win">
+        <meta property="article:tag" content="O9win slot">
+        <meta property="article:tag" content="O9win login">
+        <meta property="article:tag" content="O9win app">
+        <meta property="article:tag" content="O9win apk">
+        <meta property="article:tag" content="O9win casino">
+        <meta property="article:tag" content="O9win apk download">
         <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
+        <meta property="article:tag" content="O9win casino">
+        <link rel="canonical" href="https://o9win.org/">
+        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
+        <link rel="alternate" hreflang="en" href="https://o9win.org/">
         <base href="<?php echo $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "BlogPosting",
-            "name": "Program VIP LPK777",
-            "url": "https://lpk-777.com/vip",
+            "name": "Program VIP O9win",
+            "url": "https://o9win.org/vip",
             "inLanguage": "ms",
-            "description": "Jom sertai Program VIP LPK777 dan nikmati cashback tinggi, bonus tersuai, pengeluaran pantas & sokongan khas. Main slot & naik tahap untuk ganjaran eksklusif!" 
+            "description": "Jom sertai Program VIP O9win dan nikmati cashback tinggi, bonus tersuai, pengeluaran pantas & sokongan khas. Main slot & naik tahap untuk ganjaran eksklusif!" 
         }
         </script>
 
@@ -58,7 +58,7 @@ include '../inc/functions.php';
         "mainEntity": [
             {
             "@type": "Question",
-            "name": "Bagaimana nak jadi ahli VIP di LPK777?",
+            "name": "Bagaimana nak jadi ahli VIP di O9win?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Anda akan disenaraikan secara automatik bila aktif bermain dan membuat deposit."
@@ -426,9 +426,9 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Nikmati Ganjaran Eksklusif Bersama Program VIP LPK777</h1>
+                                <h1>Nikmati Ganjaran Eksklusif Bersama Program VIP O9win</h1>
                                 <p>
-                                    Di <a href="https://lpk-777.com"><strong>LPK777</strong></a>, kesetiaan anda dihargai melebihi sekadar permainan. Program VIP kami direka untuk memberi ganjaran kepada pemain yang paling aktif dengan keistimewaan peribadi, servis pantas dan pakej eksklusif. Tak kisah anda main sikit atau banyak, setiap pusingan membawa anda lebih dekat dengan layanan VIP.
+                                    Di <a href="https://o9win.org"><strong>O9win</strong></a>, kesetiaan anda dihargai melebihi sekadar permainan. Program VIP kami direka untuk memberi ganjaran kepada pemain yang paling aktif dengan keistimewaan peribadi, servis pantas dan pakej eksklusif. Tak kisah anda main sikit atau banyak, setiap pusingan membawa anda lebih dekat dengan layanan VIP.
                                 </p>
                                 <p>&nbsp;</p>
                                 <p>
@@ -436,9 +436,9 @@ include '../inc/functions.php';
                                 </p>
                                 <p>&nbsp;</p>
 
-                                <h2>Apa Itu Program VIP LPK777?</h2>
+                                <h2>Apa Itu Program VIP O9win?</h2>
                                 <p>
-                                    <a href="https://lpk-777.com/vip"><strong>Program VIP LPK777</strong></a> ialah sistem ganjaran berperingkat yang memberi akses kepada kelebihan yang meningkat berdasarkan aktiviti permainan dan deposit anda. Lagi banyak anda main, makin tinggi status VIP anda – dan makin banyak faedah yang akan dibuka. 
+                                    <a href="https://o9win.org/vip"><strong>Program VIP O9win</strong></a> ialah sistem ganjaran berperingkat yang memberi akses kepada kelebihan yang meningkat berdasarkan aktiviti permainan dan deposit anda. Lagi banyak anda main, makin tinggi status VIP anda – dan makin banyak faedah yang akan dibuka. 
                                 </p>
                                 <p>&nbsp;</p>
                                 <p>
@@ -448,7 +448,7 @@ include '../inc/functions.php';
 
                                 <h2>Kenapa Sertai Program VIP?</h2>
                                 <P>
-                                    Status VIP bukan sekadar nama mewah macam "Dato Seri", tapi ganjaran yang anda patut dapat. Antara sebab kenapa pemain LPK777 kejar status VIP:
+                                    Status VIP bukan sekadar nama mewah macam "Dato Seri", tapi ganjaran yang anda patut dapat. Antara sebab kenapa pemain O9win kejar status VIP:
                                 </P>
                                 <ul>
                                     <li>Kadar <strong>cashback lebih tinggi</strong> untuk kurangkan kerugian</li>
@@ -456,7 +456,7 @@ include '../inc/functions.php';
                                     <li><strong>Pengeluaran lebih pantas</strong> melalui sistem keutamaan</li>
                                     <li><strong>Sokongan VIP</strong> khas dari ejen berpengalaman</li>
                                     <li>Hadiah ulang tahun & ganjaran musim perayaan terus ke akaun</li>
-                                    <li>Jemputan ke acara khas & <a href="https://lpk-777.com/bonus-promosi"><strong>kejohanan slot VIP</strong></a></li>
+                                    <li>Jemputan ke acara khas & <a href="https://o9win.org/bonus-promosi"><strong>kejohanan slot VIP</strong></a></li>
                                 </ul>
                                 <p>&nbsp;</p>
                                 <p>Kesetiaan anda membawa faedah sebenar, bukan sekadar cakap kosong atau tipu.</p>
@@ -525,7 +525,7 @@ include '../inc/functions.php';
                                     Ikuti langkah ini untuk melihat status semasa:
                                 </p>
                                 <ol>
-                                    <li>Log masuk akaun <a href="https://lpk-777.com"><strong>LPK777</strong></a></li>
+                                    <li>Log masuk akaun <a href="https://o9win.org"><strong>O9win</strong></a></li>
                                     <li>Pergi ke “Profil Saya”</li>
                                     <li>Klik tab “Status VIP” atau “Kesetiaan”</li>
                                 </ol>
@@ -553,13 +553,13 @@ include '../inc/functions.php';
 
                                 <h2>Sokongan Peralihan VIP: Kekalkan Status Anda</h2>
                                 <p>
-                                    Bagi pemain yang sudah bergelar VIP di platform lain, LPK777 menawarkan <strong>sokongan peralihan status</strong> yang membolehkan anda terus menikmati keistimewaan VIP tanpa perlu mula dari bawah. Anda hanya perlu buktikan status VIP anda terdahulu kepada pasukan sokongan, dan kami akan menyesuaikan tahap anda agar setanding atau lebih baik. Ini adalah cara kami menghargai pemain berpengalaman dan memastikan peralihan ke <a href="https://lpk-777.com/slot"><strong>platform slot LPK777</strong></a> lebih lancar dan berbaloi.
+                                    Bagi pemain yang sudah bergelar VIP di platform lain, O9win menawarkan <strong>sokongan peralihan status</strong> yang membolehkan anda terus menikmati keistimewaan VIP tanpa perlu mula dari bawah. Anda hanya perlu buktikan status VIP anda terdahulu kepada pasukan sokongan, dan kami akan menyesuaikan tahap anda agar setanding atau lebih baik. Ini adalah cara kami menghargai pemain berpengalaman dan memastikan peralihan ke <a href="https://o9win.org/slot"><strong>platform slot O9win</strong></a> lebih lancar dan berbaloi.
                                 </p>
                                 <p>&nbsp;</p>
 
                                 <h2>Jangan Tunggu – Mulakan Perjalanan VIP Anda Sekarang</h2>
                                 <p>
-                                    Setiap pusingan membawa anda lebih dekat kepada ganjaran hebat. Tak kira main hari-hari atau sekali-sekala, kesetiaan anda akan dihargai. <a href="https://lpk-777.com/vip"><strong>Program VIP LPK777</strong></a> dibina untuk memberi ganjaran sebenar – bukan sekadar gelaran kosong.
+                                    Setiap pusingan membawa anda lebih dekat kepada ganjaran hebat. Tak kira main hari-hari atau sekali-sekala, kesetiaan anda akan dihargai. <a href="https://o9win.org/vip"><strong>Program VIP O9win</strong></a> dibina untuk memberi ganjaran sebenar – bukan sekadar gelaran kosong.
                                 </p>
                                 <p>&nbsp;</p>
                                 <p>Log masuk, main, dan naik ke tahap yang anda layak!</p>
@@ -578,7 +578,7 @@ include '../inc/functions.php';
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                            Bagaimana nak jadi ahli VIP di LPK777?
+                                            Bagaimana nak jadi ahli VIP di O9win?
                                         </button>
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
@@ -674,7 +674,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Biasanya sebagai bonus kredit atau <a href="https://lpk-777.com/slot"><strong>putaran percuma slot</strong></a>, bergantung kepada tawaran.
+                                            Biasanya sebagai bonus kredit atau <a href="https://o9win.org/slot"><strong>putaran percuma slot</strong></a>, bergantung kepada tawaran.
                                         </div>
                                     </div>
                                 </div>
@@ -700,7 +700,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Ya! <a href="https://lpk-777.com/bonus-promosi"><strong>Promosi VIP</strong></a> lebih tinggi nilainya dan lebih eksklusif.
+                                            Ya! <a href="https://o9win.org/bonus-promosi"><strong>Promosi VIP</strong></a> lebih tinggi nilainya dan lebih eksklusif.
                                         </div>
                                     </div>
                                 </div>

@@ -9,35 +9,35 @@ include '../inc/functions.php';
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta itemprop="image" content="">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta property="og:site_name" content="LPK777">
+        <meta property="og:url" content="https://o9win.org/">
+        <meta property="og:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
+        <meta property="article:tag" content="O9win">
+        <meta property="article:tag" content="O9win slot">
+        <meta property="article:tag" content="O9win login">
+        <meta property="article:tag" content="O9win app">
+        <meta property="article:tag" content="O9win apk">
+        <meta property="article:tag" content="O9win casino">
+        <meta property="article:tag" content="O9win apk download">
         <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
+        <meta property="article:tag" content="O9win casino">
+        <link rel="canonical" href="https://o9win.org/">
+        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
+        <link rel="alternate" hreflang="en" href="https://o9win.org/">
         <base href="<?php echo $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -97,31 +97,31 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Dapatkan Sehingga RM500 Bersama Bonus & Promosi LPK777</h1>
+                                <h1>Dapatkan Sehingga RM500 Bersama Bonus & Promosi O9win</h1>
                                 <p>
-                                    Di <a href="https://lpk-777.com"><strong>LPK777</strong></a>, bonus buat untuk memberikan lebih nilai, lebih masa bermain dan lebih peluang menang, dari saat pertama anda mula spin. Promosi kami adalah telus, adil dan senang untuk dituntut, sama ada anda pemain baru atau lama.
+                                    Di <a href="https://o9win.org"><strong>O9win</strong></a>, bonus buat untuk memberikan lebih nilai, lebih masa bermain dan lebih peluang menang, dari saat pertama anda mula spin. Promosi kami adalah telus, adil dan senang untuk dituntut, sama ada anda pemain baru atau lama.
                                 </p>
                                 <p>❌ Tiada syarat tersembunyi.</p>
                                 <p>❌ Tiada helah.</p>
                                 <p>✅ Hanya ganjaran sebenar yang beri lebih setiap kali anda main.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Kenapa Promosi LPK777 Berbaloi Untuk Cuba</h2>
+                                <h2>Kenapa Promosi O9win Berbaloi Untuk Cuba</h2>
                                 <p>
-                                    Kami bukan sekadar tawarkan bonus untuk menarik perhatian – bonus kami bantu anda bermain lebih lama dan lebih bijak. Inilah yang membezakan <a href="https://lpk-777.com/bonus-promosi"><strong>promosi LPK777</strong></a> dengan platform lain:
+                                    Kami bukan sekadar tawarkan bonus untuk menarik perhatian – bonus kami bantu anda bermain lebih lama dan lebih bijak. Inilah yang membezakan <a href="https://o9win.org/bonus-promosi"><strong>promosi O9win</strong></a> dengan platform lain:
                                 </p>
                                 <ul>
                                     <li>Terma jelas dan mudah faham</li>
                                     <li>Ganjaran harian, mingguan & bermusim</li>
                                     <li>Sesuai untuk pemain bajet rendah dan tinggi</li>
-                                    <li>Boleh dituntut terus melalui <a href="https://lpk-777.com/muat-turun-apk"><strong>aplikasi LPK777</strong></a> atau pelayar mudah alih</li>
+                                    <li>Boleh dituntut terus melalui <a href="https://o9win.org/muat-turun-apk"><strong>aplikasi O9win</strong></a> atau pelayar mudah alih</li>
                                 </ul>
                                 <p>Anda boleh pilih jenis bonus yang sesuai dengan gaya permainan anda.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Bonus Syok Untuk Pemain Baru</h2>
                                 <p>
-                                    Setiap pemain baru di LPK777 akan dapat bonus alu-aluan untuk tambah nilai deposit pertama anda.
+                                    Setiap pemain baru di O9win akan dapat bonus alu-aluan untuk tambah nilai deposit pertama anda.
                                 </p>
                                 <ul>
                                     <li><strong>Bonus Padanan</strong>: Sehingga 100% tambahan untuk deposit pertama</li>
@@ -129,7 +129,7 @@ include '../inc/functions.php';
                                     <li><strong>Tuntutan Mudah</strong>: Daftar, deposit & terus main</li>
                                 </ul>
                                 <p>
-                                    Tawaran ini tersedia serta-merta selepas pendaftaran – sempurna untuk pemain baru mula teroka <a href="https://lpk-777.com/slot"><strong>slot dalam talian Malaysia</strong></a>.
+                                    Tawaran ini tersedia serta-merta selepas pendaftaran – sempurna untuk pemain baru mula teroka <a href="https://o9win.org/slot"><strong>slot dalam talian Malaysia</strong></a>.
                                 </p>
                                 <p>&nbsp;</p>
 
@@ -137,12 +137,12 @@ include '../inc/functions.php';
                                 <p>Pengguna baru juga mungkin layak menerima bonus tanpa deposit – hanya daftar akaun sahaja.</p>
                                 <ul>
                                     <li>Tak perlu deposit untuk tuntut</li>
-                                    <li>Baik untuk uji <strong>platform LPK777</strong> sebelum guna duit sendiri</li>
+                                    <li>Baik untuk uji <strong>platform O9win</strong> sebelum guna duit sendiri</li>
                                     <li>Satu akaun seorang sahaja</li>
                                     <li>Tertakluk kepada syarat taruhan asas</li>
                                 </ul>
                                 <p>
-                                    Bonus tanpa deposit ini biasanya bernilai antara RM5 hingga RM20 – cukup untuk mencuba <strong>slot popular LPK777</strong> tanpa sebarang risiko kewangan. Ia juga bebas caj tersembunyi, dan semua klaim dibuat melalui sistem yang selamat dan mudah kawal dari papan pemuka anda.
+                                    Bonus tanpa deposit ini biasanya bernilai antara RM5 hingga RM20 – cukup untuk mencuba <strong>slot popular O9win</strong> tanpa sebarang risiko kewangan. Ia juga bebas caj tersembunyi, dan semua klaim dibuat melalui sistem yang selamat dan mudah kawal dari papan pemuka anda.
                                 </p>
                                 <p>&nbsp;</p>
 
@@ -158,7 +158,7 @@ include '../inc/functions.php';
 
                                 <h2>Putaran Percuma Untuk Permainan Terpilih</h2>
                                 <p>
-                                    Kami sering beri putaran percuma pada permainan terpilih seperti <a href="https://lpk-777.com/slot"><strong>Wolf Gold dan Big Bass Bonanza</strong></a>.
+                                    Kami sering beri putaran percuma pada permainan terpilih seperti <a href="https://o9win.org/slot"><strong>Wolf Gold dan Big Bass Bonanza</strong></a>.
                                 </p>
                                 <ul>
                                     <li>Terhad pada slot tertentu</li>
@@ -170,21 +170,21 @@ include '../inc/functions.php';
 
                                 <h2>Bonus Cashback & Reload</h2>
                                 <p>
-                                    Kalau tak menang pun, LPK777 tetap cover sikit kerugian anda melalui <strong>cashback</strong>:
+                                    Kalau tak menang pun, O9win tetap cover sikit kerugian anda melalui <strong>cashback</strong>:
                                 </p>
                                 <ul>
                                     <li><strong>Cashback Mingguan</strong>: Dapat balik peratus daripada kerugian</li>
-                                    <li>Tiada had untuk <a href="https://lpk-777.com/vip"><strong>ahli VIP Platinum</strong></a></li>
+                                    <li>Tiada had untuk <a href="https://o9win.org/vip"><strong>ahli VIP Platinum</strong></a></li>
                                     <li>Dikreditkan automatik atau boleh dituntut dari dompet anda</li>
                                 </ul>
                                 <p><strong>Bonus reload</strong> juga ditawarkan untuk terus berikan kredit tambahan selepas deposit pertama anda.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Promosi Bermusim & Acara Khas</h2>
-                                <p>Sepanjang tahun, LPK777 tawarkan promosi berdasarkan:</p>
+                                <p>Sepanjang tahun, O9win tawarkan promosi berdasarkan:</p>
                                 <ul>
                                     <li>Acara perayaan seperti Raya, Deepavali, Merdeka</li>
-                                    <li><a href="https://lpk-777.com/bonus-promosi"><strong>Pertandingan slot atau kejohanan</strong></a></li>
+                                    <li><a href="https://o9win.org/bonus-promosi"><strong>Pertandingan slot atau kejohanan</strong></a></li>
                                     <li>Hadiah cabutan bertuah seperti iPhone 16 Pro Max</li>
                                     <li>Kod promo masa terhad</li>
                                 </ul>
@@ -193,7 +193,7 @@ include '../inc/functions.php';
                                     Promosi ini dikemas kini hampir setiap bulan mengikut musim dan pelancaran permainan baharu. Untuk pastikan anda tak terlepas:
                                 </p>
                                 <ul>
-                                    <li>Aktifkan <strong>notifikasi push</strong> dari <a href="https://lpk-777.com/muat-turun-apk"><strong>aplikasi LPK777</strong></a></li>
+                                    <li>Aktifkan <strong>notifikasi push</strong> dari <a href="https://o9win.org/muat-turun-apk"><strong>aplikasi O9win</strong></a></li>
                                     <li>Semak tab <strong>Promosi</strong> di laman web setiap minggu</li>
                                     <li>Pastikan <strong>akaun anda aktif & log masuk kerap</strong> untuk layak automatik</li>
                                 </ul>
@@ -211,7 +211,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Polisi Anti-Penyalahgunaan Bonus & Peraturan Adil</h2>
-                                <p>Kami mahu semua pemain LPK777 rasa adil dan seronok. Polisi kami menetapkan:</p>
+                                <p>Kami mahu semua pemain O9win rasa adil dan seronok. Polisi kami menetapkan:</p>
                                 <ul>
                                     <li>Satu bonus untuk satu pengguna / IP / peranti</li>
                                     <li>Larangan akaun berganda</li>
@@ -228,7 +228,7 @@ include '../inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
-                            <h2>Soalan Lazim (FAQ) Tentang Bonus LPK777</h2>
+                            <h2>Soalan Lazim (FAQ) Tentang Bonus O9win</h2>
                             <div class="accordion" id="accordionExample">
                                 <div class="accordion-item">
                                     <h3 class="accordion-header">
@@ -264,7 +264,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Ya. <a href="https://lpk-777.com/muat-turun-apk"><strong>Promosi aplikasi LPK777</strong></a> dihantar melalui notifikasi atau disenaraikan dalam app.
+                                            Ya. <a href="https://o9win.org/muat-turun-apk"><strong>Promosi aplikasi O9win</strong></a> dihantar melalui notifikasi atau disenaraikan dalam app.
                                         </div>
                                     </div>
                                 </div>
@@ -316,7 +316,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Hubungi <a href="https://lpk-777.com/hubungi-kami"><strong>sokongan live chat LPK777</strong></a>. Ada masa bonus tertangguh disebabkan kaedah bayaran atau isu teknikal.
+                                            Hubungi <a href="https://o9win.org/hubungi-kami"><strong>sokongan live chat O9win</strong></a>. Ada masa bonus tertangguh disebabkan kaedah bayaran atau isu teknikal.
                                         </div>
                                     </div>
                                 </div>
@@ -342,7 +342,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Tidak. Sesetengah permainan menyumbang lebih/kurang kepada taruhan. <a href="https://lpk-777.com/slot"><strong>Permainan slot</strong></a> biasanya 100%.
+                                            Tidak. Sesetengah permainan menyumbang lebih/kurang kepada taruhan. <a href="https://o9win.org/slot"><strong>Permainan slot</strong></a> biasanya 100%.
                                         </div>
                                     </div>
                                 </div>
@@ -355,7 +355,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Ya! <a href="https://lpk-777.com/vip"><strong>Ahli VIP</strong></a> dapat bonus lebih tinggi, cashback premium, dan promosi eksklusif.
+                                            Ya! <a href="https://o9win.org/vip"><strong>Ahli VIP</strong></a> dapat bonus lebih tinggi, cashback premium, dan promosi eksklusif.
                                         </div>
                                     </div>
                                 </div>

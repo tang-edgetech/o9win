@@ -40,7 +40,7 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
                                 $is_active = str_contains($current_url, $item['url']) ? ' active' : '';
                             ?>
                                 <li class="nav-item <?php echo $url;?> nav-item-<?php echo $index;?>">
-                                    <a href="<?php echo $site_base_url.$url;?>" target="<?php echo $target;?>" class="nav-link<?php echo $is_active;?>"><?php echo $title;?></a>
+                                    <a href="<?php echo $site_base_url.'/'.$url;?>" target="<?php echo $target;?>" class="nav-link<?php echo $is_active;?>"><?php echo $title;?></a>
                                 </li>
                             <?php
                             }
