@@ -1,7 +1,7 @@
 <?php
-$page_name = "Terms & Conditions";
-$page_slug = 'terms-conditions';
-$page_index = 9;
+$page_name = "Dasar Privasi";
+$page_slug = 'dasar-privasi';
+$page_index = 8;
 $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
@@ -43,10 +43,10 @@ include '../inc/functions.php';
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
-            "@type": "WebPage",
-            "url": "https://lpk-777.comg/terma-syarat",
-            "name": "Terma & Syarat",
-            "description": "Syarat penggunaan LPK777 termasuk pendaftaran, kategori pengguna, bonus, aktiviti akaun, dan polisi keselamatan.",
+            "@type": "PrivacyPolicy",
+            "url": "https://lpk-777.com/dasar-privasi",
+            "name": "Dasar Privasi",
+            "description": "Dasar Privasi LPK777 menerangkan jenis data yang dikumpul, penggunaan, keselamatan dan hak pengguna berkaitan data peribadi.",
             "publisher": {
                 "@type": "Organization",
                 "name": "LPK777",
@@ -64,46 +64,52 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Terma & Syarat di LPK777</h1>
+                                <h1>Dasar Privasi untuk LPK777</h1>
                                 <ol>
-                                    <li><p><strong>Penerimaan Terma</strong></p>
-                                        <p>Dengan menggunakan LPK777, pengguna dianggap bersetuju dengan semua Terma & Syarat serta peraturan yang berkaitan</p>
+                                    <li><p><strong>Komitmen Kami Terhadap Privasi Anda</strong></p>
+                                        <p>LPK777 komited untuk melindungi maklumat peribadi semua pengguna yang berdaftar di platform kami. Privasi anda adalah tanggungjawab utama kami.</p>
                                         <p>&nbsp;</p>
                                     </li>
-                                    <li><p><strong>Kelayakan Pengguna</strong></p>
-                                        <p>Pengguna mestilah berumur 18 tahun ke atas dan dibenarkan berjudi mengikut undang-undang di kawasan mereka.</p>
+                                    <li><p><strong>Jenis Maklumat yang Dikumpul</strong></p>
+                                        <p>Kami mengumpul maklumat seperti nama, alamat emel, nombor telefon, butiran transaksi, dan maklumat peranti bagi tujuan keselamatan dan perkhidmatan yang diperibadikan.</p>
                                         <p>&nbsp;</p>
                                     </li>
-                                    <li><p><strong>Pendaftaran Akaun</strong></p>
-                                        <p>Setiap pemain hanya dibenarkan satu akaun. Akaun berganda adalah dilarang sama sekali.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Tanggungjawab Pengguna</strong></p>
-                                        <p>Pemain bertanggungjawab menjaga kerahsiaan akaun dan melaporkan sebarang penggunaan tanpa kebenaran.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Deposit & Pengeluaran</strong></p>
-                                        <p>Semua aktiviti pembayaran perlu mematuhi <a href="https://lpk-777.com/kaedah-pembayaran"><strong>kaedah pembayaran rasmi LPK777</strong></a>. Proses pengesahan mungkin diperlukan.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Bonus & Promosi</strong></p>
-                                        <p>Bonus tertakluk kepada syarat tertentu termasuk keperluan pertaruhan dan tempoh sah. Penyalahgunaan boleh menyebabkan pembatalan bonus.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Permainan Adil</strong></p>
-                                        <p>Semua permainan menggunakan perisian RNG yang disahkan dan diaudit. Sebarang cubaan manipulasi permainan adalah dilarang.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Tingkah Laku Terlarang</strong></p>
-                                        <p>Kolusi, penggunaan bot, akaun berganda atau manipulasi sistem tidak dibenarkan.</p>
-                                        <p>&nbsp;</p>
-                                    </li>
-                                    <li><p><strong>Penggantungan atau Penamatan Akaun</strong></p>
-                                        <p>LPK777 berhak menggantung atau menamatkan akaun jika terdapat pelanggaran polisi atau penipuan.</p>
+                                    <li><p><strong>Tujuan Penggunaan Data Peribadi</strong></p>
+                                        <p>Data anda digunakan untuk:</p>
+                                        <ul>
+                                            <li>Mengurus akaun dan transaksi anda</li>
+                                            <li>Menghantar promosi & notifikasi</li>
+                                            <li>Menambah baik pengalaman pengguna</li>
+                                            <li>Mencegah penipuan & aktiviti haram</li>
+                                        </ul>
                                         <p>&nbsp;</p>
                                     </li>
                                     <li><p><strong>Pengesahan Identiti (KYC)</strong></p>
-                                        <p>Pengguna mungkin diminta memberikan dokumen pengenalan sebelum pengeluaran boleh diproses.</p>
+                                        <p>Kami mungkin memerlukan dokumen pengesahan seperti salinan kad pengenalan atau bil utiliti untuk proses KYC sebelum pengeluaran diluluskan.</p>
+                                        <p>&nbsp;</p>
+                                    </li>
+                                    <li><p><strong>Keselamatan Data Anda</strong></p>
+                                        <p>Data anda disimpan dalam pelayan selamat dan dilindungi melalui sistem penyulitan SSL serta firewall yang dikemaskini secara berkala.</p>
+                                        <p>&nbsp;</p>
+                                    </li>
+                                    <li><p><strong>Akses dan Kawalan Pengguna</strong></p>
+                                        <p>Anda boleh meminta akses, pembetulan, atau pemadaman data peribadi anda pada bila-bila masa melalui <a href="https://lpk-777.com/hubungi-kami"><strong>sokongan pelanggan</strong></a>.</p>
+                                        <p>&nbsp;</p>
+                                    </li>
+                                    <li><p><strong>Tempoh Simpanan Data</strong></p>
+                                        <p>Data peribadi disimpan hanya untuk tempoh yang diperlukan—biasanya sehingga 5 tahun—atau selagi anda masih aktif di platform.</p>
+                                        <p>&nbsp;</p>
+                                    </li>
+                                    <li><p><strong>Perkongsian Data dengan Pihak Ketiga</strong></p>
+                                        <p>Kami tidak menjual atau mendedahkan data anda kepada pihak ketiga kecuali jika diperlukan oleh undang-undang atau untuk tujuan pemprosesan perkhidmatan.</p>
+                                        <p>&nbsp;</p>
+                                    </li>
+                                    <li><p><strong>Dasar Kuki & Penjejakann</strong></p>
+                                        <p>Kami menggunakan kuki untuk menjejaki tingkah laku pengguna bagi menambah baik navigasi dan promosi. Anda boleh menukar tetapan kuki di pelayar anda.</p>
+                                        <p>&nbsp;</p>
+                                    </li>
+                                    <li><p><strong>Kemas Kini Dasar Privasi</strong></p>
+                                        <p>Kami berhak untuk mengubah dasar ini dari semasa ke semasa. Sebarang perubahan akan dimaklumkan melalui emel atau papan pemuka akaun anda.</p>
                                     </li>
                                 </ol>
                             </div>
