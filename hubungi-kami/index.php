@@ -66,30 +66,26 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Hubungi Kami – Kami Sedia Membantu</h1>
-                                <p>Di <strong>O9win</strong>, kepuasan pelanggan dan sokongan yang boleh dipercayai adalah keutamaan kami. Sama ada anda baru dalam permainan slot dalam talian atau ahli VIP berpengalaman, kami bersedia membantu dalam apa jua perkara—daripada pertanyaan akaun, penjelasan bonus, sokongan teknikal hinggalah isu transaksi yang selamat.</p>
-                                <p>&nbsp;</p>
-                                <p>Pasukan <strong>khidmat pelanggan kami tersedia 24/7</strong>, dan kami menyediakan pelbagai saluran komunikasi supaya anda tidak dibiarkan menunggu ketika memerlukan bantuan.</p>
-                                <p>&nbsp;</p>
-                                <p>Sila hubungi kami melalui mana-mana saluran berikut:</p>
-                                <p>&nbsp;</p>
-                                <h4>Telegram</h4>
-                                <p><a href="https://t.me/Win4uasia"><strong>@Win4uasia<strong></a></p>
-                                <p>&nbsp;</p>
-                                <h4>Live Chat</h4>
+                                <h1>Hubungi Kami</h1>
+                                <p>Hubungi pasukan sokongan <a href="https://o9win.org/">o9win</strong></a>  untuk bantuan pantas dan penyelesaian kepada sebarang soalan atau masalah yang anda hadapi di tapak kasino dalam talian yang dipercayai di Malaysia. Jangan ragu untuk menghubungi kami!</p>
+
+                                <h4>Telegram:</h4>
                                 <p>(Akan datang...)</p>
                                 <p>&nbsp;</p>
-                                <h4>Facebook</h4>
+                                <h4>Live Chat:</h4>
+                                <p>(Akan datang...)</p>
+                                <p>&nbsp;</p>
+                                <h4>Facebook:</h4>
                                 <p><a href="https://bit.ly/44A4vJ9" class="social-icon facebook"><span class="d-none">Facebook</span><i class="fa fa-facebook-official"></i></a></p>
                                 <p>&nbsp;</p>
-                                <h4>Lokasi</h4>
-                                <p>Level 33A, The Intermark, 348 Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia</p>
+                                <h4>O9win Headquarter</h4>
+                                <p>Tingkat 9, Menara Mni 2, No. 11 Jalan Pinang, 50450, Wilayah Persekutuan, Kuala Lumpur</p>
                                 <p>&nbsp;</p>
-                                <h4>Emel</h4>
-                                <p><a href="mailto:win4u66@gmail.com"><strong>win4u66@gmail.com</strong></a></p>
+                                <h4>Email:</h4>
+                                <p><a href="mailto:o9win@gmail.com">o9win@gmail.com</a></p>
                                 <p>&nbsp;</p>
-                                <h4>Telefon</h4>
-                                <p><a href="tel:+60143507586"><strong>+6014-350 7586</strong></a></p>
+                                <h4>Telefon:</h4>
+                                <p><a href="tel:+6012-8547733">+6012-8547733</a></p>
                             </div>
                         </div>
                     </div>

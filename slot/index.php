@@ -178,7 +178,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1 class="text-center heading-block">Slot di O9WIN</h1>
-                                <p>Temui dunia yang penuh keseronokan dengan koleksi <strong><a href="https://o9win.org/">slot o9win</a></strong>. Sama ada anda mengejar mesin buah klasik atau slot video terkini, perpustakaan kami menawarkan tajuk untuk setiap citarasa dan tahap pengalaman, semuanya menampilkan grafik berkualiti tinggi, permainan yang menarik, dan pembayaran yang boleh dipercayai.</p>
+                                <p>Temui dunia yang penuh keseronokan dengan koleksi <a href="https://o9win.org/">slot o9win</strong></a> . Sama ada anda mengejar mesin buah klasik atau slot video terkini, perpustakaan kami menawarkan tajuk untuk setiap citarasa dan tahap pengalaman, semuanya menampilkan grafik berkualiti tinggi, permainan yang menarik, dan pembayaran yang boleh dipercayai.</p>
                                 <p>&nbsp;</p>
                                 <h3>Pelbagai Permainan Slot</h3>
                                 <p>Dari slot tiga gulungan yang abadi hingga slot video yang kaya dengan ciri, o9win memenuhi setiap pilihan. Tema pengembaraan membawa anda ke tamadun kuno sementara tajuk moden menawarkan gulungan bertumpuk dan pusingan bonus. Untuk keseronokan bersama, kejohanan slot menyatukan pemain. Bertanding di papan pendahulu dan peroleh ganjaran tambahan.</p>
@@ -189,7 +189,7 @@ include '../inc/functions.php';
                                 <h3>Memahami RTP dan Volatiliti</h3>
                                 <p>Pemain pemula sering tertanya-tanya bagaimana untuk memilih slot yang sesuai. Kadar Pulangan kepada Pemain (RTP) menunjukkan pulangan teoritis dari masa ke masa, sementara volatiliti menunjukkan kekerapan dan saiz kemenangan. Slot dengan volatiliti rendah memberikan kemenangan kecil yang kerap, sesuai untuk permainan yang berhati-hati. Tajuk dengan volatiliti tinggi memberikan kemenangan yang kurang kerap tetapi menawarkan jackpot yang lebih besar. Konsep mudah ini membantu anda memilih permainan yang sesuai dengan gaya peribadi anda.</p>
                                 <h3>Pengalaman Slot Mudah Alih</h3>
-                                <p>Semua slot di O9WIN dioptimumkan untuk permainan mudah alih. Sama ada anda mengakses laman kami di iOS atau Android, gulungan berputar dengan lancar tanpa memerlukan muat turun. Pengguna Android boleh <strong><a href=”https://o9win.org/muat-turun-apk”>muat turun APK o9win</a></strong>untuk antara muka seperti aplikasi dan membawa permainan kegemaran di mana-mana sahaja.</p>
+                                <p>Semua slot di O9WIN dioptimumkan untuk permainan mudah alih. Sama ada anda mengakses laman kami di iOS atau Android, gulungan berputar dengan lancar tanpa memerlukan muat turun. Pengguna Android boleh <a href=”https://o9win.org/muat-turun-apk”>muat turun APK o9win</strong></a> untuk antara muka seperti aplikasi dan membawa permainan kegemaran di mana-mana sahaja.</p>
                                 <p>&nbsp;</p>
                                 <h3>Permainan Adil yang Boleh Dibuktikan</h3>
                                 <p>Ketelusan adalah penting. Setiap putaran menggunakan penjana nombor rawak yang disahkan dan audit bebas menjamin keadilan. Anda boleh menyemak sijil audit untuk melihat peratusan RTP yang disahkan dalam persekitaran sebenar.</p>
@@ -201,162 +201,7 @@ include '../inc/functions.php';
                                 <p>Tukar sebarang slot kepada mod latihan dengan segera, tanpa memerlukan pendaftaran. Ini membolehkan anda meneroka simbol liar, pencetus putaran percuma dan permainan bonus tanpa mempertaruhkan baki anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>Mula Bermain</h3>
-                                <p>Sedia untuk memutar gulungan di O9WIN? Cipta akaun, buat deposit pertama anda dan teruskan ke lobi slot kami. Pemain baru juga boleh <strong><a href=https://o9win.org/bonus-promosi”>tuntut putaran percuma alu-aluan </a></strong?>untuk meningkatkan bankroll awal mereka.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section class="d-none" id="faq">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 px-4">
-                            <h2>Soalan Lazim (FAQ)</h2>
-                            <div class="accordion" id="accordionFAQ">
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse01" aria-expanded="true" aria-controls="collapse01">
-                                        Adakah permainan slot di O9win adil?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Ya, semua permainan menggunakan RNG (Random Number Generator) yang telah disahkan untuk memastikan keputusan rawak dan adil. Ketelusan dijaga melalui <a href="https://o9win.orgg/terma-syarat"><strong>dasar privasi dan audit platform</strong></a>.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse02" aria-expanded="false" aria-controls="collapse02">
-                                        Perlu muat turun untuk bermain?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Tak wajib. Korang boleh main terus dari pelayar atau muat turun <a href="https://o9win.org/muat-turun-apk"><strong>APK rasmi O9win</strong></a> untuk pengalaman lebih pantas dan smooth.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse03" aria-expanded="false" aria-controls="collapse03">
-                                        Ada pilihan bermain percuma?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Ya. Hampir semua permainan menyokong mod demo, sesuai untuk pemain baru yang mahu mencuba tanpa risiko.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse04" aria-expanded="false" aria-controls="collapse04">
-                                        Bagaimana memilih permainan slot yang sesuai?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Gunakan penapis pintar untuk semak mengikut tema, jenis ciri atau RTP. Pilih ikut gaya anda – klasik, cinematic atau aksi Megaways.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse05" aria-expanded="false" aria-controls="collapse05">
-                                        Apa maksud RTP dan kenapa penting?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse05" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        RTP (Return to Player) adalah peratusan purata pulangan kepada pemain. Lagi tinggi RTP, lagi besar peluang korang dapat semula nilai pertaruhan dalam jangka masa panjang.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse06" aria-expanded="false" aria-controls="collapse06">
-                                        Apa beza garis pembayaran dan cara menang (ways to win)?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Garis pembayaran ialah corak tetap untuk menang. Slot Megaways guna “ways to win” – tak perlu ikut garis, cukup simbol dari kiri ke kanan.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse07" aria-expanded="false" aria-controls="collapse07">
-                                        Kenapa sesetengah permainan lebih kerap bayar?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse07" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Ia bergantung pada volatility. Volatility rendah beri kemenangan kecil tapi kerap. Yang tinggi pula bayar besar tapi jarang.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse08" aria-expanded="false" aria-controls="collapse08">
-                                        Berapa pertaruhan minimum untuk main?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Serendah RM0.20 hingga RM100++. Bergantung pada tetapan setiap permainan. Boleh rujuk terus dalam <a href="https://o9win.org/slot"><strong>slot pilihan anda</strong></a>.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse09" aria-expanded="false" aria-controls="collapse09">
-                                        Adakah semua slot menyumbang kepada syarat bonus?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Kebanyakannya ya, tapi ada pengecualian. Sila semak <a href="https://o9win.orgg/terma-syarat"><strong>terma & syarat promosi</strong></a> untuk kepastian.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                        Ada kejohanan slot atau pertandingan?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Ya! O9win menganjurkan <a href="https://o9win.org/bonus-promosi"><strong>kejohanan slot berkala</strong></a> dengan hadiah wang tunai. Semak laman promosi untuk info terkini.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                        Di mana nak cari permainan baru atau trending?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Bahagian “Disyorkan” atau permainan yang ditandakan “Baru” di halaman slot utama.
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h3 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                        Apa perlu dibuat jika permainan tersekat?
-                                    </button>
-                                    </h3>
-                                    <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body">
-                                        Cuba refresh laman atau buka semula aplikasi. Jika masih gagal, hubungi <a href="https://o9win.org/hubungi-kami"><strong>sokongan pelanggan 24/7</strong></a>.
-                                    </div>
-                                    </div>
-                                </div>
+                                <p>Sedia untuk memutar gulungan di O9WIN? Cipta akaun, buat deposit pertama anda dan teruskan ke lobi slot kami. Pemain baru juga boleh <a href=https://o9win.org/bonus-promosi”>tuntut putaran percuma alu-aluan </strong></a> untuk meningkatkan bankroll awal mereka.</p>
                             </div>
                         </div>
                     </div>

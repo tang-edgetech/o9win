@@ -63,42 +63,25 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Perjudian Bertanggungjawab di O9win</h1>
+                                <h1>Perjudian Bertanggungjawab di O9WIN</h1>
+                                <p>Di o9win, kami percaya bahawa permainan yang selamat dan bertanggungjawab adalah asas kepada pengalaman permainan yang positif. Komitmen kami melangkaui penyediaan permainan berkualiti tinggi dengan memastikan setiap pemain mempunyai alat dan sokongan yang diperlukan untuk mengekalkan kawalan dan menikmati permainan dengan cara yang sihat dan seimbang. Anda boleh mengetahui lebih lanjut mengenai pendekatan kami di <a href="https://o9win.org/">o9win</strong></a> .</p>
                                 <p>&nbsp;</p>
-                                <h2>Komitmen Kami Terhadap Permainan Selamat & Bertanggungjawab</h2>
-                                <p>Di O9win, kami percaya bahawa perjudian haruslah menyeronokkan, adil, dan berada dalam kawalan anda. Kami komited untuk menggalakkan amalan perjudian bertanggungjawab serta menyediakan alat dan sokongan untuk membantu pemain mengurus aktiviti mereka dengan sihat.</p>
-                                <p>&nbsp;</p>
-
-                                <h2>Prinsip Perjudian Bertanggungjawab</h2>
+                                <p>Kami menawarkan pelbagai alat bantuan diri yang direka dengan jelas dan mudah digunakan:</p>
                                 <ul>
-                                    <li>Perjudian adalah untuk hiburan, bukan cara menjana pendapatan</li>
-                                    <li>Kenali had anda, tetapkan had masa dan perbelanjaan</li>
-                                    <li>Jangan kejar kerugian atau berjudi untuk melupakan masalah</li>
-                                    <li>Ambil rehat berkala dan pantau tingkah laku anda</li>
-                                    <li>Elakkan berjudi ketika stres atau di bawah pengaruh alkohol</li>
+                                    <li>Had deposit yang anda pilih sendiri, pada setiap hari, minggu atau bulan</li>
+                                    <li>Tempoh rehat yang menghentikan keupayaan anda untuk log masuk selama 24 jam hingga 30 hari</li>
+                                    <li>Pilihan pengecualian diri untuk menyekat akses dari 6 bulan hingga pengecualian kekal</li>
                                 </ul>
                                 <p>&nbsp;</p>
-
-                                <h2>Alat Pengurusan Diri yang Disediakan</h2>
-                                <p>Kami menyediakan beberapa alat pengurusan diri untuk membantu anda kekal dalam kawalan:</p>
-                                <ul>
-                                    <li><strong>Had Deposit:</strong> Tetapkan had deposit harian, mingguan atau bulanan</li>
-                                    <li><strong>Tempoh Rehat: </strong> Gantung akaun sementara jika perl</li>
-                                    <li><strong>Pengecualian Diri:</strong> Sekat akses secara kekal atas permintaan</li>
-                                    <li><strong>Peringatan Masa Bermain:</strong> Tetapkan notifikasi masa sesi</li>
-                                </ul>
+                                <p>Ciri-ciri ini tersedia terus dalam tetapan akaun anda. Melaksanakan had atau mengambil rehat adalah segera dan mudah, memberi anda kawalan sepenuhnya terhadap permainan anda.</p>
                                 <p>&nbsp;</p>
-                                <p>Untuk mengaktifkan mana-mana alat ini, sila hubungi <a href="https://o9win.org/hubungi-kami"><strong>Sokongan Pelanggan O9win</strong></a>.</p>
+                                <p>Selain daripada alat di laman, o9win bekerjasama dengan organisasi sokongan utama yang pakar dalam perjudian bermasalah. Jika anda rasa permainan anda memberi kesan kepada aspek kehidupan lain, anda boleh mengakses talian bantuan sulit dan perkhidmatan kaunseling dalam talian melalui pautan di laman kami.</p>
                                 <p>&nbsp;</p>
-
-                                <h2>Sokongan Untuk Isu Ketagihan Judi</h2>
-                                <p>Jika anda atau seseorang yang anda kenali menghadapi masalah perjudian, pertimbangkan untuk menghubungi organisasi berikut:</p>
-                                <ul>
-                                    <li>Be Gamble Aware (<a href="http://www.begambleaware.org"><strong>www.begambleaware.org</strong></a>)</li>
-                                    <li>GamCare (<a href="http://www.gamcare.org.uk"><strong>www.gamcare.org.uk</strong></a>)</li>
-                                </ul>
+                                <p>Kami juga menggunakan analisis tingkah laku yang canggih untuk mengesan corak permainan berisiko lebih awal. Jika sistem kami mengesan tren yang membimbangkan, pasukan sokongan kami yang berdedikasi akan menghubungi anda secara proaktif dengan sumber dan panduan. Pendekatan proaktif ini membantu kami memastikan kesejahteraan setiap pemain dilindungi.</p>
                                 <p>&nbsp;</p>
-                                <p>O9win menggalakkan persekitaran yang selamat dan tidak bertujuan sebagai sumber pendapatan. Sila berjudi secara bertanggungjawab.</p>
+                                <p>Keamanan dan ketelusan adalah asas kepada polisi perjudian bertanggungjawab kami. Semua permainan dijalankan dengan penjana nombor rawak yang disahkan dan diaudit oleh badan bebas. Anda boleh melihat laporan audit pada bila-bila masa untuk mengesahkan bahawa setiap putaran dan tawaran kad memenuhi piawaian integriti tertinggi.</p>
+                                <p>&nbsp;</p>
+                                <p>Jika anda mempunyai sebarang soalan mengenai langkah perjudian bertanggungjawab kami atau memerlukan bantuan untuk mengaktifkan sebarang alat, sila lawati <a href="https://o9win.org/">https://o9win.org/</strong></a>  atau hubungi pasukan sokongan 24/7 kami. Keselamatan dan keseronokan anda adalah keutamaan tertinggi kami.</p>
                             </div>
                         </div>
                     </div>

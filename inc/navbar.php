@@ -56,7 +56,7 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
                                 $dis_active = str_contains($current_url, $ditem['url']) ? ' active' : '';
                             ?>
                                 <li class="nav-item <?php echo $durl;?>">
-                                    <a href="<?php echo $site_base_url.$durl;?>" target="<?php echo $dtarget;?>" class="nav-link<?php echo $dis_active;?>"><?php echo $dtitle;?></a>
+                                    <a href="<?php echo $site_base_url.'/'.$durl;?>" target="<?php echo $dtarget;?>" class="nav-link<?php echo $dis_active;?>"><?php echo $dtitle;?></a>
                                 </li>
                             <?php
                             }
