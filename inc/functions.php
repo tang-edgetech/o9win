@@ -398,6 +398,11 @@ $gameProviders = [
     ],
 ];
 $top_brands = [
+    "o9win" => [
+        "title" => "O9win",
+        "description" => "150% Welcome Bonus",
+        "url" => "https://on9win.fun/",
+    ],
     "win4u" => [
         "title" => "WIN4U",
         "description" => "120% First Deposit Bonus",
