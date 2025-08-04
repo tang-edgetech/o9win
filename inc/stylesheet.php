@@ -1,4 +1,5 @@
 <meta name="robots" content="noindex, nofollow">
+<meta name="google-site-verification" content="R-WL0U6YUTZDfnTBv_yn--84pCFDGDzVR4fPIPeyfr4" />
 <link rel="icon" type="image/png" href="<?php echo $site_base_url.'images/o9win_favicon.png';?>" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -11,3 +12,12 @@
 
 <link rel="stylesheet" type="text/css" href="<?php echo $site_base_url;?>/css/style.css?v=<?php echo $version;?>"/>
 <link rel="stylesheet" type="text/css" href="<?php echo $site_base_url;?>/css/media.css?v=<?php echo $version;?>"/>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8HDWHX6R9P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8HDWHX6R9P');
+</script>
