@@ -1,12 +1,12 @@
 <?php
 $localhost = array('127,0,0,1', 'localhost', '::1');
 if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
-    $site_base_url = 'https://o9win.org';
-    $site_base_url_en = 'https://o9win.org/en';
+    $site_base_url = 'https://o9win.org/';
+    $site_base_url_en = 'https://o9win.org/en/';
 }
 else {
-    $site_base_url = 'http://localhost/o9win';
-    $site_base_url_en = 'http://localhost/o9win/en';
+    $site_base_url = 'http://localhost/o9win/';
+    $site_base_url_en = 'http://localhost/o9win/en/';
 }
 $site_title = 'O9Win';
 if( !empty($page_name) ) {
@@ -400,8 +400,8 @@ $gameProviders = [
 $top_brands = [
     "winbebas" => [
         "title" => "WINBEBAS",
-        "description" => "First Deposit Bonus 150%",
-        "url" => "https://www.winbebas.com/register/?affiliateCode=wbbseo4",
+        "description" => "Welcome Bonus Up to 250%",
+        "url" => "https://www.winbebas.com/register/?affiliateCode=wbbseo5",
     ],
     "win4u" => [
         "title" => "WIN4U",
