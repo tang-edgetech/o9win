@@ -13,7 +13,6 @@ include '../inc/functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
@@ -33,12 +32,12 @@ include '../inc/functions.php';
         <meta property="article:tag" content="O9win apk">
         <meta property="article:tag" content="O9win casino">
         <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download LPK888 apk">
+        <meta property="article:tag" content="download o9win apk">
         <meta property="article:tag" content="O9win casino">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
         <link rel="alternate" hreflang="en" href="https://o9win.org/">
-        <base href="<?php echo $site_base_url;?>/">
+        <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
@@ -189,7 +188,7 @@ include '../inc/functions.php';
                                 <h3>Memahami RTP dan Volatiliti</h3>
                                 <p>Pemain pemula sering tertanya-tanya bagaimana untuk memilih slot yang sesuai. Kadar Pulangan kepada Pemain (RTP) menunjukkan pulangan teoritis dari masa ke masa, sementara volatiliti menunjukkan kekerapan dan saiz kemenangan. Slot dengan volatiliti rendah memberikan kemenangan kecil yang kerap, sesuai untuk permainan yang berhati-hati. Tajuk dengan volatiliti tinggi memberikan kemenangan yang kurang kerap tetapi menawarkan jackpot yang lebih besar. Konsep mudah ini membantu anda memilih permainan yang sesuai dengan gaya peribadi anda.</p>
                                 <h3>Pengalaman Slot Mudah Alih</h3>
-                                <p>Semua slot di O9WIN dioptimumkan untuk permainan mudah alih. Sama ada anda mengakses laman kami di iOS atau Android, gulungan berputar dengan lancar tanpa memerlukan muat turun. Pengguna Android boleh <a href=”https://o9win.org/muat-turun-apk”>muat turun APK o9win</strong></a> untuk antara muka seperti aplikasi dan membawa permainan kegemaran di mana-mana sahaja.</p>
+                                <p>Semua slot di O9WIN dioptimumkan untuk permainan mudah alih. Sama ada anda mengakses laman kami di iOS atau Android, gulungan berputar dengan lancar tanpa memerlukan muat turun. Pengguna Android boleh <a href="https://o9win.org/muat-turun-apk/">muat turun APK o9win</strong></a> untuk antara muka seperti aplikasi dan membawa permainan kegemaran di mana-mana sahaja.</p>
                                 <p>&nbsp;</p>
                                 <h3>Permainan Adil yang Boleh Dibuktikan</h3>
                                 <p>Ketelusan adalah penting. Setiap putaran menggunakan penjana nombor rawak yang disahkan dan audit bebas menjamin keadilan. Anda boleh menyemak sijil audit untuk melihat peratusan RTP yang disahkan dalam persekitaran sebenar.</p>
@@ -201,7 +200,7 @@ include '../inc/functions.php';
                                 <p>Tukar sebarang slot kepada mod latihan dengan segera, tanpa memerlukan pendaftaran. Ini membolehkan anda meneroka simbol liar, pencetus putaran percuma dan permainan bonus tanpa mempertaruhkan baki anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>Mula Bermain</h3>
-                                <p>Sedia untuk memutar gulungan di O9WIN? Cipta akaun, buat deposit pertama anda dan teruskan ke lobi slot kami. Pemain baru juga boleh <a href=https://o9win.org/bonus-promosi”>tuntut putaran percuma alu-aluan </strong></a> untuk meningkatkan bankroll awal mereka.</p>
+                                <p>Sedia untuk memutar gulungan di O9WIN? Cipta akaun, buat deposit pertama anda dan teruskan ke lobi slot kami. Pemain baru juga boleh <a href="https://o9win.org/bonus-promosi/">tuntut putaran percuma alu-aluan </strong></a> untuk meningkatkan bankroll awal mereka.</p>
                             </div>
                         </div>
                     </div>

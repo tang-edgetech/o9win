@@ -704,6 +704,7 @@ a, button, .btn, a.button, button.btn {
     counter-reset: brand-counter;
 }
 .top-brand .top-brand-item {
+    width: 100%;
     counter-increment: brand-counter;
     background-color: #272727;
     border: 1px solid #ececec;

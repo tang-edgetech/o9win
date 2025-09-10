@@ -13,7 +13,6 @@ include '../inc/functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
@@ -33,12 +32,12 @@ include '../inc/functions.php';
         <meta property="article:tag" content="O9win apk">
         <meta property="article:tag" content="O9win casino">
         <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download LPK888 apk">
+        <meta property="article:tag" content="download o9win apk">
         <meta property="article:tag" content="O9win casino">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
         <link rel="alternate" hreflang="en" href="https://o9win.org/">
-        <base href="<?php echo $site_base_url;?>/">
+        <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
@@ -428,7 +427,7 @@ include '../inc/functions.php';
                             <div class="text-editor">
                                 <h1>Nikmati Ganjaran Eksklusif Bersama Program VIP O9win</h1>
                                 <p>
-                                    Di <a href="https://o9win.org"><strong>O9win</strong></a>, kesetiaan anda dihargai melebihi sekadar permainan. Program VIP kami direka untuk memberi ganjaran kepada pemain yang paling aktif dengan keistimewaan peribadi, servis pantas dan pakej eksklusif. Tak kisah anda main sikit atau banyak, setiap pusingan membawa anda lebih dekat dengan layanan VIP.
+                                    Di <a href="https://o9win.org/"><strong>O9win</strong></a>, kesetiaan anda dihargai melebihi sekadar permainan. Program VIP kami direka untuk memberi ganjaran kepada pemain yang paling aktif dengan keistimewaan peribadi, servis pantas dan pakej eksklusif. Tak kisah anda main sikit atau banyak, setiap pusingan membawa anda lebih dekat dengan layanan VIP.
                                 </p>
                                 <p>&nbsp;</p>
                                 <p>
@@ -525,7 +524,7 @@ include '../inc/functions.php';
                                     Ikuti langkah ini untuk melihat status semasa:
                                 </p>
                                 <ol>
-                                    <li>Log masuk akaun <a href="https://o9win.org"><strong>O9win</strong></a></li>
+                                    <li>Log masuk akaun <a href="https://o9win.org/"><strong>O9win</strong></a></li>
                                     <li>Pergi ke “Profil Saya”</li>
                                     <li>Klik tab “Status VIP” atau “Kesetiaan”</li>
                                 </ol>

@@ -13,7 +13,6 @@ include '../inc/functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="title" content="O9win – Muat Turun Aplikasi O9win">
         <meta name="description" content="Muat turun O9win aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="O9win – Muat Turun Aplikasi O9win">
         <meta itemprop="description" content="Muat turun O9win aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
@@ -33,12 +32,12 @@ include '../inc/functions.php';
         <meta property="article:tag" content="O9win apk">
         <meta property="article:tag" content="O9win casino">
         <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download LPK888 apk">
+        <meta property="article:tag" content="download o9win apk">
         <meta property="article:tag" content="O9win casino">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
         <link rel="alternate" hreflang="en" href="https://o9win.org/">
-        <base href="<?php echo $site_base_url;?>/">
+        <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {

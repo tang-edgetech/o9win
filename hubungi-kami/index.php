@@ -13,7 +13,6 @@ include '../inc/functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
@@ -33,12 +32,12 @@ include '../inc/functions.php';
         <meta property="article:tag" content="O9win apk">
         <meta property="article:tag" content="O9win casino">
         <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download LPK888 apk">
+        <meta property="article:tag" content="download o9win apk">
         <meta property="article:tag" content="O9win casino">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
         <link rel="alternate" hreflang="en" href="https://o9win.org/">
-        <base href="<?php echo $site_base_url;?>/">
+        <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
@@ -50,7 +49,7 @@ include '../inc/functions.php';
             "contactPoint": {
                 "@type": "ContactPoint",
                 "contactType": "customer support",
-                "email": "support@lpk777.org",
+                "email": "support@o9win.org",
                 "telephone": "+6014-3507586",
                 "availableLanguage": ["ms","en"]
             },
@@ -70,10 +69,10 @@ include '../inc/functions.php';
                                 <p>Hubungi pasukan sokongan <a href="https://o9win.org/">o9win</strong></a>  untuk bantuan pantas dan penyelesaian kepada sebarang soalan atau masalah yang anda hadapi di tapak kasino dalam talian yang dipercayai di Malaysia. Jangan ragu untuk menghubungi kami!</p>
 
                                 <h4>Telegram:</h4>
-                                <p>(Akan datang...)</p>
+                                <p>@o9win</p>
                                 <p>&nbsp;</p>
                                 <h4>Live Chat:</h4>
-                                <p>(Akan datang...)</p>
+                                <p>Kami tersedia 24/7 untuk respon pantas dan penyelesaian segera.</p>
                                 <p>&nbsp;</p>
                                 <h4>Facebook:</h4>
                                 <p><a href="https://bit.ly/44A4vJ9" class="social-icon facebook"><span class="d-none">Facebook</span><i class="fa fa-facebook-official"></i></a></p>
@@ -82,7 +81,7 @@ include '../inc/functions.php';
                                 <p>Tingkat 9, Menara Mni 2, No. 11 Jalan Pinang, 50450, Wilayah Persekutuan, Kuala Lumpur</p>
                                 <p>&nbsp;</p>
                                 <h4>Email:</h4>
-                                <p><a href="mailto:o9win@gmail.com">o9win@gmail.com</a></p>
+                                <p><a href="mailto:support@o9win.org">support@o9win.org</a></p>
                                 <p>&nbsp;</p>
                                 <h4>Telefon:</h4>
                                 <p><a href="tel:+6012-8547733">+6012-8547733</a></p>

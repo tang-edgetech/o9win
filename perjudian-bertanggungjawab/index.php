@@ -13,7 +13,6 @@ include '../inc/functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
@@ -33,12 +32,12 @@ include '../inc/functions.php';
         <meta property="article:tag" content="O9win apk">
         <meta property="article:tag" content="O9win casino">
         <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download LPK888 apk">
+        <meta property="article:tag" content="download o9win apk">
         <meta property="article:tag" content="O9win casino">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
         <link rel="alternate" hreflang="en" href="https://o9win.org/">
-        <base href="<?php echo $site_base_url;?>/">
+        <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
@@ -64,7 +63,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Perjudian Bertanggungjawab di O9WIN</h1>
-                                <p>Di o9win, kami percaya bahawa permainan yang selamat dan bertanggungjawab adalah asas kepada pengalaman permainan yang positif. Komitmen kami melangkaui penyediaan permainan berkualiti tinggi dengan memastikan setiap pemain mempunyai alat dan sokongan yang diperlukan untuk mengekalkan kawalan dan menikmati permainan dengan cara yang sihat dan seimbang. Anda boleh mengetahui lebih lanjut mengenai pendekatan kami di <a href="https://o9win.org/">o9win</strong></a> .</p>
+                                <p>Di o9win, kami percaya bahawa permainan yang selamat dan bertanggungjawab adalah asas kepada pengalaman permainan yang positif. Komitmen kami melangkaui penyediaan permainan berkualiti tinggi dengan memastikan setiap pemain mempunyai alat dan sokongan yang diperlukan untuk mengekalkan kawalan dan menikmati permainan dengan cara yang sihat dan seimbang. Anda boleh mengetahui lebih lanjut mengenai pendekatan kami di <a href="https://o9win.org/">o9win</strong></a>.</p>
                                 <p>&nbsp;</p>
                                 <p>Kami menawarkan pelbagai alat bantuan diri yang direka dengan jelas dan mudah digunakan:</p>
                                 <ul>
@@ -81,7 +80,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
                                 <p>Keamanan dan ketelusan adalah asas kepada polisi perjudian bertanggungjawab kami. Semua permainan dijalankan dengan penjana nombor rawak yang disahkan dan diaudit oleh badan bebas. Anda boleh melihat laporan audit pada bila-bila masa untuk mengesahkan bahawa setiap putaran dan tawaran kad memenuhi piawaian integriti tertinggi.</p>
                                 <p>&nbsp;</p>
-                                <p>Jika anda mempunyai sebarang soalan mengenai langkah perjudian bertanggungjawab kami atau memerlukan bantuan untuk mengaktifkan sebarang alat, sila lawati <a href="https://o9win.org/">https://o9win.org/</strong></a>  atau hubungi pasukan sokongan 24/7 kami. Keselamatan dan keseronokan anda adalah keutamaan tertinggi kami.</p>
+                                <p>Jika anda mempunyai sebarang soalan mengenai langkah perjudian bertanggungjawab kami atau memerlukan bantuan untuk mengaktifkan sebarang alat, sila lawati <a href="https://o9win.org/">https://o9win.org/</strong></a> atau hubungi pasukan sokongan 24/7 kami. Keselamatan dan keseronokan anda adalah keutamaan tertinggi kami.</p>
                             </div>
                         </div>
                     </div>

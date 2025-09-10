@@ -14,7 +14,7 @@ $language = 'en';
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <meta name="keywords" content="o9win, o9win slot, o9win login, o9win pro, o9win app, o9win apk, o9win casino, o9win apk download, o9win muat turun, Download apk o9win, o9win bonus, o9win promosi">
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
@@ -22,7 +22,7 @@ $language = 'en';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk777.org/">
+        <meta property="og:url" content="https://o9win.org/">
         <meta property="og:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta property="og:site_name" content="O9win">
@@ -34,19 +34,19 @@ $language = 'en';
         <meta property="article:tag" content="O9win apk">
         <meta property="article:tag" content="O9win casino">
         <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download LPK888 apk">
+        <meta property="article:tag" content="download o9win apk">
         <meta property="article:tag" content="O9win casino">
-        <link rel="canonical" href="https://lpk777.org/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk777.org/">
-        <link rel="alternate" hreflang="en" href="https://lpk777.org/">
-        <base href="<?php echo $site_base_url;?>/">
+        <link rel="canonical" href="https://o9win.org/">
+        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
+        <link rel="alternate" hreflang="en" href="https://o9win.org/">
+        <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
         "@context": "https://schema.org",
         "@type": "Organization",
         "name": "O9win",
-        "url": "https://o9win.org",
+        "url": "https://o9win.org/",
         "logo": "",
         "description": "Permainan slot terbaik di O9win - daftar, login & muat turun app rasmi. Dapatkan bonus harian, pengeluaran pantas & akses ke ratusan game dari provider ternama.",
         "address": {
@@ -73,8 +73,8 @@ $language = 'en';
             {
             "@type": "ListItem",
             "position": 1,
-            "name": "lpk777",
-            "item": "https://o9win.org"
+            "name": "o9win",
+            "item": "https://o9win.org/"
             }
         ]
         }
@@ -210,8 +210,8 @@ $language = 'en';
                         <div class="col-12 px-4">
                             <div class="d-flex flex-wrap p-3 userprofile-container w-100 mt-3" id="userProfileModule">
                                 <div class="d-flex flex-wrap p-0 m-0 w-100 justify-content-between mb-3">
-                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="<?php echo $site_base_url;?>/">Join</a>
-                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="<?php echo $site_base_url;?>/">Login</a>
+                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="<?= $site_base_url;?>/">Join</a>
+                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="<?= $site_base_url;?>/">Login</a>
                                 </div>
                                 <div class="d-flex m-0 p-0 w-100">
                                     <div class="col-7 px-0 pe-2">
@@ -230,13 +230,13 @@ $language = 'en';
                                         <div class="row m-0 p-0 w-100">
                                             <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://kayabet888.com/my-wallet?tab=deposit">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 " src="<?php echo $site_base_url;?>/images/icon-deposit.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 " src="<?= $site_base_url;?>/images/icon-deposit.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
                                                 </div>
                                             </a>
                                             <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://kayabet888.com/my-wallet?tab=withdraw">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>/images/icon-withdrawal.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-withdrawal.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
                                                     <div class="sequence-line">
                                                         <span> </span>
@@ -249,7 +249,7 @@ $language = 'en';
                                             
                                             <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://kayabet888.com/login">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>/images/icon-refresh.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-refresh.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Refresh</span>
                                                 </div>
                                             </a>
@@ -327,7 +327,7 @@ $language = 'en';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>O9win - Laman Slot Online & Pengeluaran Cepat di Malaysia</h1>
-                                <p>O9win ialah platform di mana permainan slot dalam talian menjadi mudah, selamat, dan menguntungkan. Sama ada anda baru mencuba permainan slot atau sedang mencari platform yang lagi best, <a href="https://o9win.org"><strong>O9win</strong></a> direka untuk memberikan pengalaman terbaik sebaik sahaja anda mula bermain.</p>
+                                <p>O9win ialah platform di mana permainan slot dalam talian menjadi mudah, selamat, dan menguntungkan. Sama ada anda baru mencuba permainan slot atau sedang mencari platform yang lagi best, <a href="https://o9win.org/"><strong>O9win</strong></a> direka untuk memberikan pengalaman terbaik sebaik sahaja anda mula bermain.</p>
                                 <p>&nbsp;</p>
                                 <p>Platform ini menawarkan pelbagai permainan slot, navigasi yang lancar di semua peranti, transaksi pantas, dan promosi tetap yang benar-benar memberi faedah. Jom terokai mengapa O9win menjadi pilihan utama dalam dunia <a href="https://o9win.org/slot"><strong>permainan slot dalam talian</strong></a></p>
                                 <p>&nbsp;</p>
@@ -401,7 +401,7 @@ $language = 'en';
                                 <h2>Mudah untuk Mula Bermain</h2>
                                 <p>Tidak perlu kemahiran teknikal yang tinggi. Proses pendaftaran dan mula bermain amat mudah:</p>
                                 <ol>
-                                    <li>Klik “Daftar” kat <a href="https://o9win.org"><strong>lpk777 homepage</strong></a></li>
+                                    <li>Klik “Daftar” kat <a href="https://o9win.org/"><strong>o9win homepage</strong></a></li>
                                     <li>Pilih kaedah pembayaran dan buat deposit</li>
                                     <li>Terus boleh akses dan main permainan slot kegemaran</li>
                                 </ol>
@@ -459,7 +459,7 @@ $language = 'en';
                                     </h3>
                                     <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Boleh. <a href="https://o9win.org"><strong>O9win</strong></a> berfungsi di semua pelayar mudah alih atau lagi senang, install je aplikasi dia untuk mainan lebih lancar.
+                                        Boleh. <a href="https://o9win.org/"><strong>O9win</strong></a> berfungsi di semua pelayar mudah alih atau lagi senang, install je aplikasi dia untuk mainan lebih lancar.
                                     </div>
                                     </div>
                                 </div>

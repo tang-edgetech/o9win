@@ -14,7 +14,6 @@ include 'inc/functions.php';
         <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
         <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
@@ -34,7 +33,7 @@ include 'inc/functions.php';
         <meta property="article:tag" content="O9win apk">
         <meta property="article:tag" content="O9win casino">
         <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download LPK888 apk">
+        <meta property="article:tag" content="download o9win apk">
         <meta property="article:tag" content="O9win casino">
         <!-- Twitter Card -->
         <meta name="twitter:card" content="summary_large_image"/>
@@ -44,14 +43,14 @@ include 'inc/functions.php';
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
         <link rel="alternate" hreflang="en" href="https://o9win.org/">
-        <base href="<?php echo $site_base_url;?>/">
+        <base href="<?php echo $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
         "@context": "https://schema.org",
         "@type": "Organization",
         "name": "O9win",
-        "url": "https://o9win.org",
+        "url": "https://o9win.org/",
         "logo": "",
         "description": "Permainan slot terbaik di O9win - daftar, login & muat turun app rasmi. Dapatkan bonus harian, pengeluaran pantas & akses ke ratusan game dari provider ternama.",
         "address": {
@@ -78,8 +77,8 @@ include 'inc/functions.php';
             {
             "@type": "ListItem",
             "position": 1,
-            "name": "lpk777",
-            "item": "https://o9win.org"
+            "name": "o9win",
+            "item": "https://o9win.org/"
             }
         ]
         }
@@ -225,7 +224,7 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
-                            <img class="w-100" src="images/o9win_welcome-bonus-250-percent-online-casino-malaysia.webp" alt="promo banner">
+                            <img class="w-100" src="<?= $site_base_url;?>/images/o9win_welcome-bonus-250-percent-online-casino-malaysia.webp" alt="o9win-promo-banner">
                         </div>
                     </div>
                 </div>
@@ -236,8 +235,8 @@ include 'inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="d-flex flex-wrap p-3 userprofile-container w-100 mt-3" id="userProfileModule">
                                 <div class="d-flex flex-wrap p-0 m-0 w-100 justify-content-between mb-3">
-                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5">Daftar</a>
-                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5">Log Masuk</a>
+                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="https://tinyurl.com/mry89ren" rel= “nofollow noopener noreferrer”>Daftar</a>
+                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="https://tinyurl.com/mry89ren" rel= “nofollow noopener noreferrer”>Log Masuk</a>
                                 </div>
                                 <div class="d-flex m-0 p-0 w-100">
                                     <div class="col-7 px-0 pe-2">
@@ -254,15 +253,15 @@ include 'inc/functions.php';
                                     </div>
                                     <div class="col-5 px-0 ">
                                         <div class="row m-0 p-0 w-100">
-                                            <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5" target="_blank" rel="nofollow noreferrer noopener">
+                                            <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://tinyurl.com/mry89ren" rel= “nofollow noopener noreferrer” target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-deposit.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-deposit.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
                                                 </div>
                                             </a>
-                                            <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5" target="_blank" rel="nofollow noreferrer noopener">
+                                            <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://tinyurl.com/mry89ren" rel= “nofollow noopener noreferrer” target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-withdrawal.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-withdrawal.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
                                                     <div class="sequence-line">
                                                         <span> </span>
@@ -273,9 +272,9 @@ include 'inc/functions.php';
                                                 </div>
                                             </a>
                                             
-                                            <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5" target="_blank" rel="nofollow noreferrer noopener">
+                                            <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://tinyurl.com/mry89ren" rel= “nofollow noopener noreferrer” target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-refresh.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-refresh.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Segar Semula</span>
                                                 </div>
                                             </a>

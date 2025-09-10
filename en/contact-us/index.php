@@ -12,7 +12,7 @@ include '../../inc/functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <meta name="keywords" content="o9win, o9win slot, o9win login, o9win pro, o9win app, o9win apk, o9win casino, o9win apk download, o9win muat turun, Download apk o9win, o9win bonus, o9win promosi">
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
@@ -20,7 +20,7 @@ include '../../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk777.org/">
+        <meta property="og:url" content="https://o9win.org/">
         <meta property="og:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta property="og:site_name" content="O9win">
@@ -32,24 +32,24 @@ include '../../inc/functions.php';
         <meta property="article:tag" content="O9win apk">
         <meta property="article:tag" content="O9win casino">
         <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download LPK888 apk">
+        <meta property="article:tag" content="download o9win apk">
         <meta property="article:tag" content="O9win casino">
-        <link rel="canonical" href="https://lpk777.org/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk777.org/">
-        <link rel="alternate" hreflang="en" href="https://lpk777.org/">
+        <link rel="canonical" href="https://o9win.org/">
+        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
+        <link rel="alternate" hreflang="en" href="https://o9win.org/">
         <base href="<?php echo $site_base_url_en;?>">
         <?php include '../../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "url": "https://lpk777.org/hubungi-kami",
+            "url": "https://o9win.org/hubungi-kami",
             "name": "Hubungi Kami",
             "description": "Halaman untuk menghubungi sokongan pelanggan O9win melalui e-mel, telefon, Telegram, atau sembang langsung.",
             "contactPoint": {
                 "@type": "ContactPoint",
                 "contactType": "customer support",
-                "email": "support@lpk777.org",
+                "email": "support@o9win.org",
                 "telephone": "+6014-3507586",
                 "availableLanguage": ["ms","en"]
             },
@@ -84,7 +84,7 @@ include '../../inc/functions.php';
                                 <p>Level 33A, The Intermark, 348 Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia</p>
                                 <p>&nbsp;</p>
                                 <h4>Email</h4>
-                                <p><a href="mailto:support@lpk777.org"><strong>support@lpk777.org</strong></a></p>
+                                <p><a href="mailto:support@o9win.org"><strong>support@o9win.org</strong></a></p>
                                 <p>&nbsp;</p>
                                 <h4>Telephone</h4>
                                 <p><a href="tel:+60 11-1234 5678"><strong>+60 11-1234 5678</strong></a></p>
