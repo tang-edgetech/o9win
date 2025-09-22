@@ -17,7 +17,7 @@ include 'inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta itemprop="image" content="">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
