@@ -16,7 +16,7 @@ include '../inc/functions.php';
         <!-- Schema.org for Google -->
         <meta itemprop="name" content="O9win – Muat Turun Aplikasi O9win">
         <meta itemprop="description" content="Muat turun O9win aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
-        <meta itemprop="image" content="">
+        <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
@@ -24,7 +24,7 @@ include '../inc/functions.php';
         <meta property="og:title" content="O9win – Muat Turun Aplikasi O9win">
         <meta property="og:description" content="Muat turun O9win aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
         <meta property="og:site_name" content="O9win">
-        <meta property="og:image" content="">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <meta property="article:tag" content="O9win">
         <meta property="article:tag" content="O9win slot">
         <meta property="article:tag" content="O9win login">

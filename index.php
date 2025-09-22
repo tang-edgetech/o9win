@@ -25,7 +25,7 @@ include 'inc/functions.php';
         <meta property="og:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta property="og:site_name" content="O9win">
-        <meta property="og:image" content="">
+        <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <meta property="article:tag" content="O9win">
         <meta property="article:tag" content="O9win slot">
         <meta property="article:tag" content="O9win login">
@@ -39,7 +39,7 @@ include 'inc/functions.php';
         <meta name="twitter:card" content="summary_large_image"/>
         <meta name="twitter:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia"/>
         <meta name="twitter:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti."/>
-        <meta name="twitter:image" content="https://o9win.org/images/o9win_logo.webp"/>
+        <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp"/>
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
         <link rel="alternate" hreflang="en" href="https://o9win.org/">
@@ -224,7 +224,7 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
-                            <img class="w-100" src="<?= $site_base_url;?>/images/o9win_welcome-bonus-250-percent-online-casino-malaysia.webp" alt="o9win-promo-banner">
+                            <img class="w-100" src="<?= $site_base_url;?>/images/o9win_welcome-bonus-250-percent-online-casino-malaysia.webp" alt="o9win-welcome-bonus">
                         </div>
                     </div>
                 </div>
