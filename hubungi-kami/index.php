@@ -52,7 +52,7 @@ include '../inc/functions.php';
                 "email": "support@o9win.org",
                 "telephone": "+6014-3507586",
                 "availableLanguage": ["ms","en"]
-            },
+            }
         }
         </script>
     </head>

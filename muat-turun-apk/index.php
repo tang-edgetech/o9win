@@ -46,7 +46,7 @@ include '../inc/functions.php';
             "name": "Muat Turun Aplikasi O9win",
             "url": "https://o9win.org/muat-turun-apk",
             "inLanguage": "ms",
-            "description": "Muat turun O9win aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.",
+            "description": "Muat turun O9win aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS."
         }
         </script>
 

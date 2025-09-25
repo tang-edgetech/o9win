@@ -49,7 +49,7 @@ include '../inc/functions.php';
             "about": {
             "@type": "Topic",
             "name": "Perjudian Bertanggungjawab"
-            },
+            }
         }
         </script>
     </head>
