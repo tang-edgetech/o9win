@@ -6,22 +6,24 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
+        <link rel="canonical" href="https://o9win.org/">
+        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
         <meta charset="UTF-8">
-        <title>O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>Nikmati Ganjaran Eksklusif Bersama Program VIP O9win</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta name="title" content="Nikmati Ganjaran Eksklusif Bersama Program VIP O9win">
         <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta itemprop="name" content="Nikmati Ganjaran Eksklusif Bersama Program VIP O9win">
         <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://o9win.org/">
-        <meta property="og:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta property="og:title" content="Nikmati Ganjaran Eksklusif Bersama Program VIP O9win">
         <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
@@ -34,9 +36,6 @@ include '../inc/functions.php';
         <meta property="article:tag" content="O9win apk download">
         <meta property="article:tag" content="download o9win apk">
         <meta property="article:tag" content="O9win casino">
-        <link rel="canonical" href="https://o9win.org/">
-        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
-        <link rel="alternate" hreflang="en" href="https://o9win.org/">
         <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -159,37 +158,21 @@ include '../inc/functions.php';
         <?php include '../inc/navbar.php';?>
         <main class="pt-0" id="">
             <?php include '../inc/marquee.php';?>
-            <section class="" id="">
+            <section class="" id="top_brand">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
                             <div class="top-brand">
-                            <?php
-                            if( $top_brands ) {
-                                foreach( $top_brands as $key => $brand ) {
-                                    $brand_title = $brand['title'];
-                                    $brand_desc = $brand['description'];
-                                    $brand_thumbnail = $site_base_url.'/images/top_brand/top_brand_'.$key.'.png';
-                                    $brand_link = $brand['url'];
-                            echo '<div class="top-brand-item '.$key.' p-2">
-                                <div class="top-brand-inner d-flex align-items-center justify-content-start">
-                                    <div class="col col-header pt-3">
-                                        <div class="col-image"><img src="'.$brand_thumbnail.'"/></div>
-                                        <div class="col-title">'.$brand_title.'</div>
-                                    </div>
-                                    <div class="col col-desc pt-3">
-                                        <p class="mb-0">'.$brand_desc.'</p>
-                                    </div>
-                                    <div class="col col-cta pt-3">
-                                        <a href="'.$brand_link.'"><span>VISIT</span></a>
-                                    </div>
-                                </div>
-                            </div>';
-                                }
-                            }
-                            ?>
+                            <?php include 'inc/top-brand.php';?>
                             </div>
-
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 px-3">
                             <div class="userprofile-container p-3 mt-3 w-100">
                                 <div class="row mx-0">
                                     <div class="col-5 px-0 text-center">

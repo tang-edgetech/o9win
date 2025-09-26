@@ -6,9 +6,11 @@ $page_thumbnail = "https://example.com/image.jpg";
 include 'inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
+        <link rel="canonical" href="https://o9win.org/">
+        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
         <title>O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
@@ -40,9 +42,6 @@ include 'inc/functions.php';
         <meta name="twitter:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia"/>
         <meta name="twitter:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti."/>
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp"/>
-        <link rel="canonical" href="https://o9win.org/">
-        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
-        <link rel="alternate" hreflang="en" href="https://o9win.org/">
         <base href="<?php echo $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
         <script type="application/ld+json">

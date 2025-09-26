@@ -6,22 +6,24 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <link rel="canonical" href="https://o9win.org/">
+        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
+        <title>Perjudian Bertanggungjawab di O9WIN</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta name="title" content="Perjudian Bertanggungjawab di O9WIN">
         <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta itemprop="name" content="Perjudian Bertanggungjawab di O9WIN">
         <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://o9win.org/">
-        <meta property="og:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
+        <meta property="og:title" content="Perjudian Bertanggungjawab di O9WIN">
         <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
@@ -34,9 +36,6 @@ include '../inc/functions.php';
         <meta property="article:tag" content="O9win apk download">
         <meta property="article:tag" content="download o9win apk">
         <meta property="article:tag" content="O9win casino">
-        <link rel="canonical" href="https://o9win.org/">
-        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
-        <link rel="alternate" hreflang="en" href="https://o9win.org/">
         <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
