@@ -11,20 +11,20 @@ include '../inc/functions.php';
         <meta charset="UTF-8">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
-        <title>Dasar Privasi untuk O9WIN</title>
+        <title>Dasar Privasi O9WIN: Data Pengguna Sentiasa Dilindungi</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="Dasar Privasi untuk O9WIN">
-        <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="Dasar Privasi O9WIN: Data Pengguna Sentiasa Dilindungi">
+        <meta name="description" content="Lihat cara O9WIN mengumpul, menggunakan dan melindungi data peribadi anda. Kami komited untuk memastikan data dan privasi pemain kami sentiasa dilindungi. ">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Dasar Privasi untuk O9WIN">
-        <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="Dasar Privasi O9WIN: Data Pengguna Sentiasa Dilindungi">
+        <meta itemprop="description" content="Lihat cara O9WIN mengumpul, menggunakan dan melindungi data peribadi anda. Kami komited untuk memastikan data dan privasi pemain kami sentiasa dilindungi. ">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://o9win.org/">
-        <meta property="og:title" content="Dasar Privasi untuk O9WIN">
-        <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:title" content="Dasar Privasi O9WIN: Data Pengguna Sentiasa Dilindungi">
+        <meta property="og:description" content="Lihat cara O9WIN mengumpul, menggunakan dan melindungi data peribadi anda. Kami komited untuk memastikan data dan privasi pemain kami sentiasa dilindungi. ">
         <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <meta property="article:tag" content="O9win">
@@ -50,6 +50,26 @@ include '../inc/functions.php';
                 "name": "O9win",
                 "url": "https://o9win.org/"
             }
+        }
+        </script>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "O9WIN",
+                    "item": "https://o9win.org/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Dasar Privasi",
+                    "item": "https://o9win.org/dasar-privasi/"
+                }
+            ]
         }
         </script>
     </head>

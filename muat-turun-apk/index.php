@@ -11,31 +11,31 @@ include '../inc/functions.php';
         <meta charset="UTF-8">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
-        <title>O9win – Muat Turun Aplikasi O9win</title>
+        <title>O9WIN APK Rasmi | Muat Turun Versi Terkini Android dan iOS</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="O9win – Muat Turun Aplikasi O9win">
+        <meta name="title" content="O9WIN APK Rasmi | Muat Turun Versi Terkini Android dan iOS">
         <meta name="description" content="Muat turun O9win aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="O9win – Muat Turun Aplikasi O9win">
+        <meta itemprop="name" content="O9WIN APK Rasmi | Muat Turun Versi Terkini Android dan iOS">
         <meta itemprop="description" content="Muat turun O9win aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://o9win.org/">
-        <meta property="og:title" content="O9win – Muat Turun Aplikasi O9win">
+        <meta property="og:title" content="O9WIN APK Rasmi | Muat Turun Versi Terkini Android dan iOS">
         <meta property="og:description" content="Muat turun O9win aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
         <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
-        <meta property="article:tag" content="O9win">
-        <meta property="article:tag" content="O9win slot">
-        <meta property="article:tag" content="O9win login">
-        <meta property="article:tag" content="O9win app">
-        <meta property="article:tag" content="O9win apk">
-        <meta property="article:tag" content="O9win casino">
-        <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download o9win apk">
-        <meta property="article:tag" content="O9win casino">
+        <meta property="og:site_name" content="O9WIN">
+        <meta property="article:tag" content="muat turun O9WIN apk">
+        <meta property="article:tag" content="O9WIN app download">
+        <meta property="article:tag" content="O9WIN mudah alih">
+        <meta property="article:tag" content="O9WIN android apk">
+        <meta property="article:tag" content="O9WIN ios app">
+        <meta property="article:tag" content="O9WIN slot mobile malaysia">
+        <meta property="article:tag" content="O9WIN apk slot percuma">
+
         <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">

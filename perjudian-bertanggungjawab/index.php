@@ -11,20 +11,20 @@ include '../inc/functions.php';
         <meta charset="UTF-8">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
-        <title>Perjudian Bertanggungjawab di O9WIN</title>
+        <title>Perjudian Bertanggungjawab | O9WIN</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="Perjudian Bertanggungjawab di O9WIN">
-        <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="Perjudian Bertanggungjawab | O9WIN">
+        <meta name="description" content="O9WIN komited untuk perjudian yang selamat. Untuk memastikan permainan anda selamat dan sihat, baca garis panduan, alat kawalan diri dan sokongan.">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Perjudian Bertanggungjawab di O9WIN">
-        <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="Perjudian Bertanggungjawab | O9WIN">
+        <meta itemprop="description" content="O9WIN komited untuk perjudian yang selamat. Untuk memastikan permainan anda selamat dan sihat, baca garis panduan, alat kawalan diri dan sokongan.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://o9win.org/">
-        <meta property="og:title" content="Perjudian Bertanggungjawab di O9WIN">
-        <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:title" content="Perjudian Bertanggungjawab | O9WIN">
+        <meta property="og:description" content="O9WIN komited untuk perjudian yang selamat. Untuk memastikan permainan anda selamat dan sihat, baca garis panduan, alat kawalan diri dan sokongan.">
         <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <meta property="article:tag" content="O9win">
@@ -49,6 +49,27 @@ include '../inc/functions.php';
             "@type": "Topic",
             "name": "Perjudian Bertanggungjawab"
             }
+        }
+        </script>
+        <!-- Schema Markup -->
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "O9WIN",
+                    "item": "https://o9win.org/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Perjudian Bertanggungjawab",
+                    "item": "https://o9win.org/perjudian-bertanggungjawab/"
+                }
+            ]
         }
         </script>
     </head>

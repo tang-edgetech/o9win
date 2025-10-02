@@ -5,8 +5,17 @@ if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
     $site_base_url_en = 'https://o9win.org/en';
 }
 else {
-    $site_base_url = 'http://localhost/o9win';
-    $site_base_url_en = 'http://localhost/o9win/en';
+    if (
+        (isset($_SERVER['HTTP_HOST']) && $_SERVER['HTTP_HOST'] === 'localhost:8080') ||
+        (isset($_SERVER['SERVER_NAME']) && $_SERVER['SERVER_NAME'] === 'localhost' && $_SERVER['SERVER_PORT'] == 8080)
+    ) {
+        $site_base_url = 'http://localhost:8080/o9win.org';
+        $site_base_url_en = 'http://localhost:8080/o9win.org/en';
+    }
+    else {
+        $site_base_url = 'http://localhost/o9win.org';
+        $site_base_url_en = 'http://localhost/o9win.org/en';
+    }
 }
 $site_title = 'O9Win';
 if( !empty($page_name) ) {

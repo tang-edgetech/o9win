@@ -11,196 +11,210 @@ include 'inc/functions.php';
         <meta charset="UTF-8">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
-        <title>O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>O9WIN | Bonus 250% & Pulangan Terbaik di Malaysia</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
-        <meta name="title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="O9WIN | Bonus 250% & Pulangan Terbaik di Malaysia">
+        <meta name="description" content="O9WIN ialah platform slot atas talian dengan koleksi permainan luas, cadangan bijak berasaskan AI, program VIP, dan putaran percuma setiap hari.">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="O9WIN | Bonus 250% & Pulangan Terbaik di Malaysia">
+        <meta itemprop="description" content="O9WIN ialah platform slot atas talian dengan koleksi permainan luas, cadangan bijak berasaskan AI, program VIP, dan putaran percuma setiap hari.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://o9win.org/">
-        <meta property="og:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:title" content="O9WIN | Bonus 250% & Pulangan Terbaik di Malaysia">
+        <meta property="og:description" content="O9WIN ialah platform slot atas talian dengan koleksi permainan luas, cadangan bijak berasaskan AI, program VIP, dan putaran percuma setiap hari.">
         <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
-        <meta property="article:tag" content="O9win">
-        <meta property="article:tag" content="O9win slot">
-        <meta property="article:tag" content="O9win login">
-        <meta property="article:tag" content="O9win app">
-        <meta property="article:tag" content="O9win apk">
-        <meta property="article:tag" content="O9win casino">
-        <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download o9win apk">
-        <meta property="article:tag" content="O9win casino">
+        <meta property="article:tag" content="O9WIN">
+        <meta property="article:tag" content="O9WIN slot">
+        <meta property="article:tag" content="O9WIN login">
+        <meta property="article:tag" content="O9WIN aplikasi">
+        <meta property="article:tag" content="O9WIN apk">
+        <meta property="article:tag" content="O9WIN casino">
+        <meta property="article:tag" content="O9WIN apk download">
+        <meta property="article:tag" content="Download O9WIN apk">
+        <meta property="article:tag" content="O9WIN register">
+
         <!-- Twitter Card -->
         <meta name="twitter:card" content="summary_large_image"/>
-        <meta name="twitter:title" content="O9win – Laman Slot Online & Pengeluaran Cepat di Malaysia"/>
-        <meta name="twitter:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti."/>
+        <meta name="twitter:title" content="O9WIN | Bonus 250% & Pulangan Terbaik di Malaysia"/>
+        <meta name="twitter:description" content="O9WIN ialah platform slot atas talian dengan koleksi permainan luas, cadangan bijak berasaskan AI, program VIP, dan putaran percuma setiap hari."/>
         <meta name="twitter:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp"/>
         <base href="<?php echo $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
+        <!-- Schema Markup -->
         <script type="application/ld+json">
         {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "O9win",
-        "url": "https://o9win.org/",
-        "logo": "",
-        "description": "Permainan slot terbaik di O9win - daftar, login & muat turun app rasmi. Dapatkan bonus harian, pengeluaran pantas & akses ke ratusan game dari provider ternama.",
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Level 23, Menara Hap Seng 2, Jalan P. Ramlee",
-            "addressLocality": "Kuala Lumpur",
-            "postalCode": "50250",
-            "addressCountry": "MY"
-        },
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "contactType": "khidmat pelanggan",
-            "email": "support@o9win.org",
-            "telephone": "+6014-3507586",
-            "availableLanguage": ["Malay", "English"]
-        }
-        }
-        </script>
-        <script type="application/ld+json">
-        {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-            {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "o9win",
-            "item": "https://o9win.org/"
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "O9WIN",
+            "url": "https://o9win.org/",
+            "logo": "https://o9win.org/images/o9win_logo.webp",
+            "description": "O9win ialah platform slot atas talian dengan koleksi permainan luas, cadangan bijak berasaskan AI, program VIP, dan putaran percuma setiap hari.",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "3, Jalan Stesen Sentral, Kuala Lumpur Sentral",
+                "addressLocality": "Kuala Lumpur",
+                "postalCode": "50470",
+                "addressCountry": "MY"
+            },
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "Customer Service",
+                "email": "support@o9win.org",
+                "telephone": "+6017-3097506",
+                "availableLanguage": [
+                    "Malay",
+                    "English"
+                ]
             }
-        ]
         }
         </script>
 
         <script type="application/ld+json">
         {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-            {
-            "@type": "Question",
-            "name": "O9win ni apa sebenarnya?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Platform dalam talian yang menawarkan pelbagai permainan slot yang adil dan menyeronokkan dari provider yang boleh percaya."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Aplikasi O9win selamat ke guna?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. Data peribadi dan kewangan anda dilindungi dengan penyulitan, dan semua permainan guna teknologi RNG yang disahkan."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Boleh main guna telefon?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Boleh. O9win berfungsi di semua pelayar mudah alih atau lagi senang, install je aplikasi dia untuk mainan lebih lancar."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Apakah kaedah pembayaran yang disokong?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Boleh pakai bank tempatan dan e-wallet seperti Touch ’n Go, Boost dan GrabPay."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Macam mana nak tuntut bonus?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Bonus disenaraikan dalam papan pemuka atau bahagian promosi. Ikuti arahan untuk terus aktif."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Adakah sokongan pelanggan tersedia setiap masa?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya, live chat bukak 24 jam. Takde tinggal korang tergantung, memang ada orang jaga."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Kalau saya lupa kata laluan, camne?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Klik “Lupa Kata Laluan” di skrin log masuk dan ikut arahan melalui e-mel atau telefon WhatsApp / Telegram."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Ada had minimum/maksimum deposit?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya, setiap cara bayar tu ada had minimum & maksimum. Boleh check dalam akaun sendiri, kat bahagian pembayaran."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Boleh batalkan permintaan pengeluaran?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Kalau transaksi belum diproses, boleh. Pergi kat sejarah transaksi atau terus chat dengan support."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Bagaimana nak tahu bonus aktif?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Masuk akaun, pergi ke “Bonus Saya” untuk lihat bonus semasa, yang tengah jalan, yang belum claim, dan progress pertaruhan."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Apakah maksud keperluan pertaruhan (wagering)?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ia menunjukkan berapa kali anda perlu bertaruh sebelum boleh mengeluarkan bonus. Contoh: bonus RM100 dengan 10x wager, maksudnya kena main RM1000 dulu sebelum boleh cash out."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Ada program VIP ke?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. O9win tawarkan program VIP bertingkat, makin banyak main, makin banyak hadiah. Lawati bahagian VIP untuk maklumat lanjut."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Boleh buat lebih dari satu akaun?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Tidak. Setiap pemain hanya dibenarkan satu akaun. Lebih dari satu akaun akan kena penggantungan."
-            }
-            },
-            {
-            "@type": "Question",
-            "name": "Adakah keputusan permainan betul-betul rawak?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ya. Setiap putaran ditentukan oleh RNG yang disahkan untuk memastikan keadilan."
-            }
-            }
-        ]
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "O9WIN",
+                    "item": "https://o9win.org/"
+                }
+            ]
+        }
+        </script>
+
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Bagaimana saya mendaftar untuk akaun O9win?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Cuma klik butang Daftar, isi borang pendaftaran, dan sahkan alamat e-mel anda. Anda akan bersedia untuk mendeposit dan bermain dalam beberapa minit."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Apakah jumlah deposit minimum?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Deposit minimum ialah RM10 atau yang setara. Had yang lebih tinggi mungkin dikenakan untuk kaedah pembayaran tertentu."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Bolehkah saya mencuba permainan secara percuma sebelum bertaruh wang sebenar?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya. Banyak slot dan permainan meja menawarkan mod demo supaya anda boleh mempelajari peraturan dan menguji ciri tanpa risiko."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Berapa lama masa yang diambil untuk pengeluaran?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Kebanyakan pengeluaran diproses dalam masa 24 jam selepas diluluskan. Masa pemprosesan mungkin berbeza bergantung pada kaedah yang dipilih."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Adakah o9win berlesen dan dikawal selia?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya. Kami beroperasi di bawah lesen permainan yang terkenal dan menjalani audit berkala untuk memastikan keadilan dan keselamatan."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Apa yang perlu saya lakukan jika saya terlupa kata laluan saya?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Klik “Lupa Kata Laluan” di halaman log masuk, masukkan e-mel yang didaftarkan dan ikuti arahan tetapan semula."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Adakah terdapat keperluan pertaruhan untuk bonus?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya. Terma bonus menyatakan keperluan pertaruhan, biasanya 20–35 kali jumlah bonus. Semak butiran setiap promosi sebelum menuntut."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Bolehkah saya menetapkan had pada akaun saya?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Anda boleh menetapkan had deposit harian, mingguan, atau bulanan atau meminta pengecualian diri melalui tetapan akaun anda atau dengan menghubungi sokongan."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Adakah anda menyokong deposit mata wang kripto?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Kami menerima Bitcoin dan Ethereum. Deposit kripto dijelaskan serta-merta dengan kadar pertukaran yang kompetitif."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Apa yang berlaku jika permainan terhenti semasa bermain?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Sistem kami akan memulihkan keadaan permainan yang terakhir diketahui. Jika anda mengalami masalah, hubungi sokongan dengan butiran permainan untuk penyelesaian segera."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Adakah terdapat program kesetiaan untuk pemain biasa?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ya. Program VIP kami memberi ganjaran kepada setiap taruhan dengan mata yang membuka tahap dengan manfaat eksklusif."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Bagaimana saya menyertai kejohanan?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Sertai melalui halaman Promosi. Setiap kejohanan mempunyai peraturan dan keperluan penyertaan sendiri."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Bolehkah saya bermain pada banyak peranti serentak?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Untuk sebab keselamatan, hanya satu sesi dibenarkan untuk setiap akaun pada satu masa."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Apa yang perlu dilakukan jika saya mengesyaki aktiviti penipuan pada akaun saya?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Hubungi sokongan dengan segera. Kami akan membekukan akaun anda dan menyiasat sebarang transaksi yang mencurigakan."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Adakah terdapat ciri unik yang tidak anda temui di tempat lain?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Cadangan permainan berkuasa AI kami mempelajari pilihan anda, mencadangkan tajuk baru yang anda mungkin suka."
+                    }
+                }
+            ]
         }
         </script>
     </head>

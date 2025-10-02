@@ -11,31 +11,31 @@ include '../inc/functions.php';
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
         <meta charset="UTF-8">
-        <title>Nikmati Ganjaran Eksklusif Bersama Program VIP O9win</title>
+        <title>O9WIN VIP | Keistimewaan Slot, Bonus dan Akses Percuma</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="Nikmati Ganjaran Eksklusif Bersama Program VIP O9win">
-        <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="O9WIN VIP | Keistimewaan Slot, Bonus dan Akses Percuma">
+        <meta name="description" content="O9WIN VIP menawarkan pengalaman premium, ganjaran dan layanan eksklusif untuk pemain setia. Nikmati keistimewaan yang tiada tandingan dengan menyertai sekarang.">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Nikmati Ganjaran Eksklusif Bersama Program VIP O9win">
-        <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="O9WIN VIP | Keistimewaan Slot, Bonus dan Akses Percuma">
+        <meta itemprop="description" content="O9WIN VIP menawarkan pengalaman premium, ganjaran dan layanan eksklusif untuk pemain setia. Nikmati keistimewaan yang tiada tandingan dengan menyertai sekarang.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://o9win.org/">
-        <meta property="og:title" content="Nikmati Ganjaran Eksklusif Bersama Program VIP O9win">
-        <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:title" content="O9WIN VIP | Keistimewaan Slot, Bonus dan Akses Percuma">
+        <meta property="og:description" content="O9WIN VIP menawarkan pengalaman premium, ganjaran dan layanan eksklusif untuk pemain setia. Nikmati keistimewaan yang tiada tandingan dengan menyertai sekarang.">
         <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
-        <meta property="article:tag" content="O9win">
-        <meta property="article:tag" content="O9win slot">
-        <meta property="article:tag" content="O9win login">
-        <meta property="article:tag" content="O9win app">
-        <meta property="article:tag" content="O9win apk">
-        <meta property="article:tag" content="O9win casino">
-        <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download o9win apk">
-        <meta property="article:tag" content="O9win casino">
+        <meta property="og:site_name" content="O9WIN">
+        <meta property="article:tag" content="O9WIN vip">
+        <meta property="article:tag" content="O9WIN kasino">
+        <meta property="article:tag" content="ganjaran eksklusif">
+        <meta property="article:tag" content="O9WIN bonus">
+        <meta property="article:tag" content="vip O9WIN">
+        <meta property="article:tag" content="O9WIN slot vip">
+        <meta property="article:tag" content="O9WIN VIP Malaysia">
+
         <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -149,6 +149,27 @@ include '../inc/functions.php';
                 "@type": "Answer",
                 "text": "Ya. Anda akan dapat keutamaan atau pengurus khas jika tahap Gold/Platinum."
             }
+            }
+        ]
+        }
+        </script>
+        <!-- Schema Markup -->
+        <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "O9WIN",
+            "item": "https://o9win.org/"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "VIP",
+            "item": "https://o9win.org/vip/"
             }
         ]
         }

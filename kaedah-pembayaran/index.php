@@ -11,31 +11,31 @@ include '../inc/functions.php';
         <meta charset="UTF-8">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
-        <title>O9win – Kaedah Pembayaran O9win</title>
+        <title>Kaedah Pembayaran yang Selamat | O9WIN</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="O9win – Kaedah Pembayaran O9win">
-        <meta name="description" content="Ketahui cara deposit & withdraw di O9win dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
+        <meta name="title" content="Kaedah Pembayaran yang Selamat | O9WIN">
+        <meta name="description" content="Ketahui O9WIN kaedah pembayaran menggunakan eWallet, FPX, kad kredit dan kripto. Transaksi anda adalah selamat, cepat dan tanpa caj tersembunyi. Bersenang-senang dengan slot!">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="O9win – Kaedah Pembayaran O9win">
-        <meta itemprop="description" content="Ketahui cara deposit & withdraw di O9win dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
+        <meta itemprop="name" content="Kaedah Pembayaran yang Selamat | O9WIN">
+        <meta itemprop="description" content="Ketahui O9WIN kaedah pembayaran menggunakan eWallet, FPX, kad kredit dan kripto. Transaksi anda adalah selamat, cepat dan tanpa caj tersembunyi. Bersenang-senang dengan slot!">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://o9win.org/">
-        <meta property="og:title" content="O9win – Kaedah Pembayaran O9win">
-        <meta property="og:description" content="Ketahui cara deposit & withdraw di O9win dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
+        <meta property="og:title" content="Kaedah Pembayaran yang Selamat | O9WIN">
+        <meta property="og:description" content="Ketahui O9WIN kaedah pembayaran menggunakan eWallet, FPX, kad kredit dan kripto. Transaksi anda adalah selamat, cepat dan tanpa caj tersembunyi. Bersenang-senang dengan slot!">
         <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
-        <meta property="article:tag" content="O9win">
-        <meta property="article:tag" content="O9win slot">
-        <meta property="article:tag" content="O9win login">
-        <meta property="article:tag" content="O9win app">
-        <meta property="article:tag" content="O9win apk">
-        <meta property="article:tag" content="O9win casino">
-        <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download o9win apk">
-        <meta property="article:tag" content="O9win casino">
+        <meta property="og:site_name" content="O9WIN">
+        <meta property="article:tag" content="O9WIN kaedah pembayaran"> 
+        <meta property="article:tag" content="O9WIN deposit">
+        <meta property="article:tag" content=" O9WIN pengeluaran">
+        <meta property="article:tag" content="O9WIN ewallet Malaysia"> 
+        <meta property="article:tag" content="O9WIN kripto"> 
+        <meta property="article:tag" content="O9WIN FPX transfer">  
+        <meta property="article:tag" content="Mata wang kripto O9WIN">
+
         <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?><script type="application/ld+json">
         {
@@ -44,7 +44,7 @@ include '../inc/functions.php';
             "name": "Kaedah Pembayaran O9win",
             "url": "https://o9win.org/kaedah-pembayaran",
             "inLanguage": "ms",
-            "description": "Ketahui cara deposit & withdraw di O9win dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!"
+            "description": "Ketahui O9WIN kaedah pembayaran menggunakan eWallet, FPX, kad kredit dan kripto. Transaksi anda adalah selamat, cepat dan tanpa caj tersembunyi. Bersenang-senang dengan slot!"
         }
         </script>
 
@@ -148,6 +148,27 @@ include '../inc/functions.php';
                         "@type": "Answer",
                         "text": "Kebanyakan pengeluaran diproses dalam masa 1 hingga 2 hari bekerja, bergantung kepada kaedah yang digunakan. Kripto dan TNG mungkin lebih cepat, terutamanya jika anda pengguna VIP O9win."
                     }
+                }
+            ]
+        }
+        </script>
+        <!-- Schema Markup -->
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "O9WIN",
+                    "item": "https://o9win.org/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Kaedah Pembayaran",
+                    "item": "https://o9win.org/kaedah-pembayaran/"
                 }
             ]
         }

@@ -11,31 +11,31 @@ include '../inc/functions.php';
         <meta charset="UTF-8">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
-        <title>Bonus & Promosi di O9WIN - Maksimumkan Potensi Kemenangan Anda</title>
+        <title>O9WIN Bonus & Promosi | Naikkan Potensi Kemenangan Anda</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="Bonus & Promosi di O9WIN - Maksimumkan Potensi Kemenangan Anda">
-        <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="O9WIN Bonus & Promosi | Naikkan Potensi Kemenangan Anda">
+        <meta name="description" content="O9WIN bonus & promosi direka untuk pemain pintar yang inginkan nilai yang lebih besar.  Untuk meningkatkan kemenangan anda, dapatkan hadiah lumayan, bonus deposit dan promosi berterusan.">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Bonus & Promosi di O9WIN - Maksimumkan Potensi Kemenangan Anda">
-        <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="O9WIN Bonus & Promosi | Naikkan Potensi Kemenangan Anda">
+        <meta itemprop="description" content="O9WIN bonus & promosi direka untuk pemain pintar yang inginkan nilai yang lebih besar.  Untuk meningkatkan kemenangan anda, dapatkan hadiah lumayan, bonus deposit dan promosi berterusan.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://o9win.org/">
-        <meta property="og:title" content="Bonus & Promosi di O9WIN - Maksimumkan Potensi Kemenangan Anda">
-        <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:title" content="O9WIN Bonus & Promosi | Naikkan Potensi Kemenangan Anda">
+        <meta property="og:description" content="O9WIN bonus & promosi direka untuk pemain pintar yang inginkan nilai yang lebih besar.  Untuk meningkatkan kemenangan anda, dapatkan hadiah lumayan, bonus deposit dan promosi berterusan.">
         <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
-        <meta property="article:tag" content="O9win">
-        <meta property="article:tag" content="O9win slot">
-        <meta property="article:tag" content="O9win login">
-        <meta property="article:tag" content="O9win app">
-        <meta property="article:tag" content="O9win apk">
-        <meta property="article:tag" content="O9win casino">
-        <meta property="article:tag" content="O9win apk download">
-        <meta property="article:tag" content="download o9win apk">
-        <meta property="article:tag" content="O9win casino">
+        <meta property="og:site_name" content="O9WIN">
+        <meta property="article:tag" content="Bonus O9WIN">
+        <meta property="article:tag" content="O9WIN promosi kasino">
+        <meta property="article:tag" content="O9WIN cashback harian">
+        <meta property="article:tag" content="Tawaran hebat O9WIN">
+        <meta property="article:tag" content="Bonus pemain baru O9WIN">
+        <meta property="article:tag" content="O9WIN bonus selamat datang">
+        <meta property="article:tag" content="bonus slot malaysia">
+
         <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -70,6 +70,27 @@ include '../inc/functions.php';
                     "item": "https://winmyr.online/bonus-promosi"
                     }
                 ]
+                }
+            ]
+        }
+        </script>
+        <!-- Schema Markup -->
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "O9WIN",
+                    "item": "https://o9win.org/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Bonus & Promosi",
+                    "item": "https://o9win.org/bonus-promosi/"
                 }
             ]
         }

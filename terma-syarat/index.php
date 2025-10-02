@@ -11,20 +11,20 @@ include '../inc/functions.php';
         <meta charset="UTF-8">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
-        <title>Terma & Syarat untuk O9WIN</title>
+        <title>Terma & Syarat | O9WIN</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="Terma & Syarat untuk O9WIN">
-        <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="Terma & Syarat | O9WIN">
+        <meta name="description" content="Sebelum anda menggunakan laman O9WIN, pastikan anda membaca terma dan syarat kami. Fahami hak, tanggungjawab, dan peraturan penting yang berkaitan dengan penggunaan platform kami.">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="Terma & Syarat untuk O9WIN">
-        <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="Terma & Syarat | O9WIN">
+        <meta itemprop="description" content="Sebelum anda menggunakan laman O9WIN, pastikan anda membaca terma dan syarat kami. Fahami hak, tanggungjawab, dan peraturan penting yang berkaitan dengan penggunaan platform kami.">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://o9win.org/">
-        <meta property="og:title" content="Terma & Syarat untuk O9WIN">
-        <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:title" content="Terma & Syarat | O9WIN">
+        <meta property="og:description" content="Sebelum anda menggunakan laman O9WIN, pastikan anda membaca terma dan syarat kami. Fahami hak, tanggungjawab, dan peraturan penting yang berkaitan dengan penggunaan platform kami.">
         <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <meta property="article:tag" content="O9win">
@@ -42,7 +42,7 @@ include '../inc/functions.php';
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "url": "https://o9win.orgg/terma-syarat",
+            "url": "https://o9win.orgg/terma-syarat/",
             "name": "Terma & Syarat",
             "description": "Syarat penggunaan O9win termasuk pendaftaran, kategori pengguna, bonus, aktiviti akaun, dan polisi keselamatan.",
             "publisher": {
@@ -50,6 +50,26 @@ include '../inc/functions.php';
                 "name": "O9win",
                 "url": "https://o9win.org/"
             }
+        }
+        </script>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "O9WIN",
+                    "item": "https://o9win.org/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Terma & Syarat",
+                    "item": "https://o9win.org/terma-syarat/"
+                }
+            ]
         }
         </script>
     </head>
@@ -62,7 +82,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Terma & Syarat untuk O9WIN</h1>
+                                <h1>Terma & Syarat | O9WIN</h1>
                                 <p>Selamat datang ke o9win. Dengan mengakses atau menggunakan perkhidmatan kami di <a href="https://o9win.org/">https://o9win.org/</strong></a> , anda bersetuju dengan Terma & Syarat ini. Sila baca dengan teliti. Jika anda tidak bersetuju, jangan daftar atau bermain.</p>
                                 <ol>
                                     <li class="mb-4"><p><strong>Kelayakan</strong></p>

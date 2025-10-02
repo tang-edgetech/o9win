@@ -11,20 +11,20 @@ include '../inc/functions.php';
         <meta charset="UTF-8">
         <link rel="canonical" href="https://o9win.org/">
         <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
-        <title>O9win – Hubungi Kami</title>
+        <title>Hubungi O9WIN | Customer Support 24/7 </title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="O9win – Hubungi Kami">
-        <meta name="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta name="title" content="Hubungi O9WIN | Customer Support 24/7 ">
+        <meta name="description" content="Hubungi O9WIN customer support kami melalui WhatsApp atau Telegram pada bila-bila masa. Kami sentiasa bersedia untuk membantu sebarang isu. ">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="O9win – Hubungi Kami">
-        <meta itemprop="description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta itemprop="name" content="Hubungi O9WIN | Customer Support 24/7 ">
+        <meta itemprop="description" content="Hubungi O9WIN customer support kami melalui WhatsApp atau Telegram pada bila-bila masa. Kami sentiasa bersedia untuk membantu sebarang isu. ">
         <meta itemprop="image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://o9win.org/">
-        <meta property="og:title" content="O9win – Hubungi Kami">
-        <meta property="og:description" content="Download O9win apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
+        <meta property="og:title" content="Hubungi O9WIN | Customer Support 24/7 ">
+        <meta property="og:description" content="Hubungi O9WIN customer support kami melalui WhatsApp atau Telegram pada bila-bila masa. Kami sentiasa bersedia untuk membantu sebarang isu. ">
         <meta property="og:site_name" content="O9win">
         <meta property="og:image" content="<?php echo $site_base_url;?>/images/o9win_logo.webp">
         <meta property="article:tag" content="O9win">
@@ -52,6 +52,27 @@ include '../inc/functions.php';
                 "telephone": "+6014-3507586",
                 "availableLanguage": ["ms","en"]
             }
+        }
+        </script>
+        <!-- Schema Markup -->
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "O9WIN",
+                    "item": "https://o9win.org/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Hubungi Kami",
+                    "item": "https://o9win.org/hubungi-kami/"
+                }
+            ]
         }
         </script>
     </head>
