@@ -148,7 +148,7 @@ include '../inc/functions.php';
                                         </ul>
                                     </li>
                                     <li><p><strong>Perubahan Terma</strong></p>
-                                        <p>O9win boleh mengemas kini Terma & Syarat ini pada bila-bila masa. Perubahan akan berkuat kuasa setelah diterbitkan di <a href="https://o9win.org/terma-syarat/">Terma & Syarat</strong></a> . Kami menggalakkan anda untuk menyemak halaman ini secara berkala untuk kekal dimaklumkan.</p>
+                                        <p>O9win boleh mengemas kini Terma & Syarat ini pada bila-bila masa. Perubahan akan berkuat kuasa setelah diterbitkan di <a href="https://o9win.org/terma-syarat/"><strong>Terma & Syarat</strong></a> . Kami menggalakkan anda untuk menyemak halaman ini secara berkala untuk kekal dimaklumkan.</p>
                                         <p>&nbsp;</p>
                                         <p>Jika anda mempunyai sebarang soalan mengenai Terma & Syarat ini, sila hubungi kami di o9win@gmail.com atau melalui saluran komunikasi lain di laman web kami.</p>
                                     </li>
