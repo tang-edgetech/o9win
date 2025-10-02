@@ -87,8 +87,8 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
                                 <p>Kami menawarkan pelbagai alat bantuan diri yang direka dengan jelas dan mudah digunakan:</p>
                                 <ul>
-                                    <li>Had deposit yang anda pilih sendiri, pada setiap hari, minggu atau bulan</li>
-                                    <li>Tempoh rehat yang menghentikan keupayaan anda untuk log masuk selama 24 jam hingga 30 hari</li>
+                                    <li class="mb-2">Had deposit yang anda pilih sendiri, pada setiap hari, minggu atau bulan</li>
+                                    <li class="mb-2">Tempoh rehat yang menghentikan keupayaan anda untuk log masuk selama 24 jam hingga 30 hari</li>
                                     <li>Pilihan pengecualian diri untuk menyekat akses dari 6 bulan hingga pengecualian kekal</li>
                                 </ul>
                                 <p>&nbsp;</p>

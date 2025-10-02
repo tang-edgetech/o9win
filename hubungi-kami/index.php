@@ -97,7 +97,7 @@ include '../inc/functions.php';
                                 <h4>Facebook:</h4>
                                 <p><a href="https://bit.ly/44A4vJ9" class="social-icon facebook"><span class="d-none">Facebook</span><i class="fa fa-facebook-official"></i></a></p>
                                 <p>&nbsp;</p>
-                                <h4>O9win Headquarter</h4>
+                                <h4>O9WIN Headquarter</h4>
                                 <p>Tingkat 9, Menara Mni 2, No. 11 Jalan Pinang, 50450, Wilayah Persekutuan, Kuala Lumpur</p>
                                 <p>&nbsp;</p>
                                 <h4>Email:</h4>

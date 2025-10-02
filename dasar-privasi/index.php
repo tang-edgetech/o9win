@@ -89,20 +89,20 @@ include '../inc/functions.php';
                                     <li class="mb-4"><p><strong>Maklumat yang Kami Kumpul</strong></p>
                                         <p>Kami hanya mengumpul data yang diperlukan untuk menyediakan perkhidmatan permainan yang selamat dan diperibadikan:</p>
                                         <ul>
-                                            <li><strong>Butiran Akaun: </strong>Nama, tarikh lahir, alamat e-mel dan negara tempat tinggal yang diberikan semasa pendaftaran.</li>
-                                            <li><strong>Dokumen Pengesahan: </strong>Salinan ID atau bukti alamat untuk mematuhi keperluan undang-undang dan peraturan.</li>
-                                            <li><strong>Rekod Permainan: </strong>Taruhan yang dibuat, kemenangan, kerugian dan mata kesetiaan yang diperoleh untuk menyokong sejarah aktiviti anda dan tawaran yang diperibadikan.</li>
-                                            <li><strong>Data Pembayaran: </strong>Rekod transaksi dan pengenal dompet. Nombor kad kredit atau akaun bank tidak disimpan sepenuhnya di pelayan kami.</li>
+                                            <li class="mb-2"><strong>Butiran Akaun: </strong>Nama, tarikh lahir, alamat e-mel dan negara tempat tinggal yang diberikan semasa pendaftaran.</li>
+                                            <li class="mb-2"><strong>Dokumen Pengesahan: </strong>Salinan ID atau bukti alamat untuk mematuhi keperluan undang-undang dan peraturan.</li>
+                                            <li class="mb-2"><strong>Rekod Permainan: </strong>Taruhan yang dibuat, kemenangan, kerugian dan mata kesetiaan yang diperoleh untuk menyokong sejarah aktiviti anda dan tawaran yang diperibadikan.</li>
+                                            <li class="mb-2"><strong>Data Pembayaran: </strong>Rekod transaksi dan pengenal dompet. Nombor kad kredit atau akaun bank tidak disimpan sepenuhnya di pelayan kami.</li>
                                             <li><strong>Butiran Teknikal: </strong>Alamat IP, jenis peranti dan tetapan pelayar untuk memastikan keserasian, keselamatan dan pencegahan penipuan.</li>
                                         </ul>
                                     </li>
                                     <li class="mb-4"><p><strong>Penggunaan Maklumat Anda</strong></p>
                                         <p>Data anda membolehkan kami untuk:</p>
                                         <ul>
-                                            <li>Mengesahkan identiti dan umur anda, memastikan hanya pengguna yang layak menyertai.</li>
-                                            <li>Memproses deposit, pengeluaran dan pemberian bonus dengan tepat dan pantas.</li>
-                                            <li>Memperibadikan cadangan permainan, tawaran promosi dan faedah VIP.</li>
-                                            <li>Mengesan dan mencegah aktiviti penipuan atau pengubahan wang haram.</li>
+                                            <li class="mb-2">Mengesahkan identiti dan umur anda, memastikan hanya pengguna yang layak menyertai.</li>
+                                            <li class="mb-2">Memproses deposit, pengeluaran dan pemberian bonus dengan tepat dan pantas.</li>
+                                            <li class="mb-2">Memperibadikan cadangan permainan, tawaran promosi dan faedah VIP.</li>
+                                            <li class="mb-2">Mengesan dan mencegah aktiviti penipuan atau pengubahan wang haram.</li>
                                             <li>Mengumpul analisis tanpa nama untuk meningkatkan prestasi laman dan pengalaman pengguna.</li>
                                         </ul>
                                     </li>
@@ -112,8 +112,8 @@ include '../inc/functions.php';
                                     <li class="mb-4"><p><strong>Perkongsian Data dan Pihak Ketiga</strong></p>
                                         <p>Kami hanya berkongsi data peribadi di bawah keadaan berikut:</p>
                                         <ul>
-                                            <li><strong>Penyedia Perkhidmatan: </strong>Dengan rakan kongsi yang dipercayai yang menyokong pemprosesan pembayaran, pengesahan identiti dan sokongan pelanggan, semuanya di bawah perjanjian kerahsiaan yang ketat.</li>
-                                            <li><strong>Pihak Berkuasa Pengawalseliaan: </strong>Apabila dikehendaki oleh undang-undang, peraturan atau perintah mahkamah.</li>
+                                            <li class="mb-2"><strong>Penyedia Perkhidmatan: </strong>Dengan rakan kongsi yang dipercayai yang menyokong pemprosesan pembayaran, pengesahan identiti dan sokongan pelanggan, semuanya di bawah perjanjian kerahsiaan yang ketat.</li>
+                                            <li class="mb-2"><strong>Pihak Berkuasa Pengawalseliaan: </strong>Apabila dikehendaki oleh undang-undang, peraturan atau perintah mahkamah.</li>
                                             <li><strong>Pemeriksa dan Badan Pematuhi: </strong>Untuk mengesahkan keadilan permainan kami dan pematuhan terhadap keperluan lesen.</li>
                                         </ul>
                                         <p>Kami tidak pernah menjual maklumat peribadi anda kepada pemasar atau pengiklan.</p>
@@ -127,9 +127,9 @@ include '../inc/functions.php';
                                     <li class="mb-4"><p><strong>Hak dan Pilihan Anda</strong></p>
                                         <p>Di bawah undang-undang perlindungan data yang berkenaan, anda boleh:</p>
                                         <ul>
-                                            <li>Meminta akses kepada data peribadi yang kami simpan tentang anda.</li>
-                                            <li>Meminta pembetulan untuk sebarang maklumat yang tidak tepat.</li>
-                                            <li>Meminta pemadaman data anda, tertakluk kepada keperluan penahanan undang-undang.</li>
+                                            <li class="mb-2">Meminta akses kepada data peribadi yang kami simpan tentang anda.</li>
+                                            <li class="mb-2">Meminta pembetulan untuk sebarang maklumat yang tidak tepat.</li>
+                                            <li class="mb-2">Meminta pemadaman data anda, tertakluk kepada keperluan penahanan undang-undang.</li>
                                             <li>Membantah atau mengehadkan jenis pemprosesan tertentu, seperti pemasaran langsung.</li>
                                         </ul>
                                         <p>Untuk melaksanakan mana-mana hak ini, sila e-mel ke o9win@gmail.com atau hubungi pasukan sokongan kami melalui laman web.</p>
