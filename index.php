@@ -9,8 +9,8 @@ include 'inc/functions.php';
 <html lang="ms-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <link rel="canonical" href="https://o9win.org/">
-        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
+        <link rel="canonical" href="<?= $site_base_url;?>/">
+        <link rel="alternate" hreflang="x-default" href="<?= $site_base_url;?>/">
         <title>O9WIN | Bonus 250% & Pulangan Terbaik di Malaysia</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
@@ -23,7 +23,7 @@ include 'inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://o9win.org/">
+        <meta property="og:url" content="<?= $site_base_url;?>/">
         <meta property="og:title" content="O9WIN | Bonus 250% & Pulangan Terbaik di Malaysia">
         <meta property="og:description" content="O9WIN ialah platform slot atas talian dengan koleksi permainan luas, cadangan bijak berasaskan AI, program VIP, dan putaran percuma setiap hari.">
         <meta property="og:site_name" content="O9win">
@@ -51,8 +51,8 @@ include 'inc/functions.php';
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "O9WIN",
-            "url": "https://o9win.org/",
-            "logo": "https://o9win.org/images/o9win_logo.webp",
+            "url": "<?= $site_base_url;?>/",
+            "logo": "<?= $site_base_url;?>/images/o9win_logo.webp",
             "description": "O9win ialah platform slot atas talian dengan koleksi permainan luas, cadangan bijak berasaskan AI, program VIP, dan putaran percuma setiap hari.",
             "address": {
                 "@type": "PostalAddress",
@@ -83,7 +83,7 @@ include 'inc/functions.php';
                     "@type": "ListItem",
                     "position": 1,
                     "name": "O9WIN",
-                    "item": "https://o9win.org/"
+                    "item": "<?= $site_base_url;?>/"
                 }
             ]
         }
@@ -364,46 +364,47 @@ include 'inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1 class="text-center heading-block">O9WIN: Destinasi Permainan Dalam Talian Terbaik Anda</h1>
+                                <h1 class="text-center heading-block">O9WIN | Bonus 250% & Pulangan Terbaik di Malaysia</h1>
                                 <p>Selamat datang ke o9win, di mana keseronokan bertemu dengan keselamatan. Sama ada anda seorang pemain baru atau berpengalaman, o9win direka untuk menawarkan pengalaman permainan yang lancar. Dari perpustakaan slot yang luas hingga ke program VIP yang menguntungkan, semuanya disesuaikan untuk memastikan anda terhibur dan selamat.</p>
                                 <p>&nbsp;</p>
-                                <h2>Mengapa Memilih O9WIN?</h2>
-                                <p>Di <a href="https://o9win.org/"><strong>O9WIN</strong></a> , kepercayaan diperoleh melalui operasi yang telus dan pembayaran yang pantas serta boleh dipercayai. Pasukan sokongan kami tersedia 24/7 untuk membantu anda. Dengan penyulitan canggih dan audit pihak ketiga yang berkala, data dan dana anda berada dalam tangan yang selamat.</p>
+                                <h2>Mengapa O9WIN Jadikan Pilihan Slot #1</h2>
+                                <p>Di <a href="<?= $site_base_url;?>/"><strong>O9WIN</strong></a>, kepercayaan diperoleh melalui operasi yang telus dan pembayaran yang pantas serta boleh dipercayai. Customer service 24/7 kami memastikan bantuan sentiasa tersedia, manakala penyulitan canggih dan audit pihak ketiga yang kerap melindungi data dan dana pengguna pada setiap masa.</p>
                                 <p>&nbsp;</p>
-                                <h2>Perpustakaan Permainan yang Pelbagai</h2>
-                                <p>Jelajahi ratusan tajuk, dari slot klasik hingga meja dealer langsung yang mengasyikkan. Jika anda ingin memutar gulungan, <a href="https://o9win.org/slot"><strong>terokai koleksi slot kami</strong></a> . Pemain meja akan mendapati keseronokan tanpa had dengan blackjack, rolet, dan baccarat, sementara kasino langsung kami memberikan aksi secara langsung dengan dealer profesional.</p>
+                                <h2>Koleksi Permainan Slot Menarik</h2>
+                                <p>Jelajahi ratusan tajuk, dari slot klasik hingga meja dealer langsung yang mengasyikkan. Jika anda ingin memutar gulungan, <a href="<?= $site_base_url;?>/slot/"><strong>terokai koleksi slot kami</strong></a>. Pemain meja akan mendapati keseronokan tanpa had dengan blackjack, rolet, dan baccarat, sementara live casino kami memberikan aksi secara langsung dengan dealer profesional.</p>
                                 <p>&nbsp;</p>
                                 <h3>Tips Permainan Mesra Pemula</h3>
-                                <p>Baru dalam permainan dalam talian? o9win menawarkan panduan langkah demi langkah yang jelas dan mod demo supaya anda dapat berlatih tanpa mempertaruhkan sesen pun. Sumber-sumber ini membolehkan anda bermain dengan keyakinan sebelum meletakkan taruhan sebenar.</p>
+                                <p>Baru dalam permainan dalam talian? O9win menawarkan panduan langkah demi langkah yang jelas dan mod demo supaya anda dapat berlatih tanpa mempertaruhkan sesen pun. Sumber-sumber ini membolehkan anda bermain dengan keyakinan sebelum meletakkan taruhan sebenar.</p>
                                 <p>&nbsp;</p>
-                                <h3>Cadangan Permainan Berdasarkan AI</h3>
-                                <p>Sistem pintar kami menganalisis corak permainan anda untuk mencadangkan permainan yang mungkin anda suka. Sentuhan peribadi ini memastikan anda menghabiskan lebih sedikit masa mencari dan lebih banyak masa menang.</p>
-                                <p>&nbsp;</p>
-                                <h3>Program VIP & Kesetiaan</h3>
-                                <p>Program VIP o9win dibina untuk memberi ganjaran kepada kesetiaan anda dari hari pertama. Semasa anda bermain, anda akan mengumpul mata yang membuka tahap yang lebih tinggi, masing-masing menawarkan faedah eksklusif seperti pengeluaran yang lebih pantas, hadiah ulang tahun, dan pengurus akaun peribadi. Sedia untuk menaikkan pengalaman anda? <a href="https://o9win.org/vip"><strong>Menjadi VIP o9win</strong></a>  dan temui ganjaran yang berkembang bersama anda.</p>
+                                <h3>Ganjaran untuk VIP dan Pengguna Setia</h3>
+                                <p class="mb-3">Program kami memberi ganjaran kepada kesetiaan anda dari hari pertama. Kumpul mata semasa anda bermain untuk naikkan tahap VIP yang lebih tinggi, pengeluaran yang lebih pantas, ganjaran hari lahir, dan pengurus akaun khusus anda sendiri. Semakin banyak anda bermain, semakin banyak manfaat eksklusif yang anda nikmati.</p>
+                                <p>Sedia untuk menaikkan pengalaman anda? <a href="<?= $site_base_url;?>/vip/"><strong>Sertai program VIP O9win</strong></a> dan temui ganjaran yang berkembang bersama anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>Permainan Mudah Alih di Mana Saja</h3>
-                                <p>Permainan kegemaran anda tidak seharusnya hanya tertumpu di atas meja. Dengan <a href="https://o9win.org/muat-turun-apk"><strong>muat turun APK o9win</strong></a> , pengguna Android boleh menikmati akses tanpa gangguan ke seluruh katalog kami. Pemain iOS boleh menanda buku laman mudah alih kami yang dioptimumkan untuk pengalaman yang sama lancar. Sama ada anda sedang menunggu bas atau berehat di rumah, akaun, baki, dan kemajuan anda sentiasa di hujung jari.</p>
+                                <p>Permainan kegemaran anda tidak seharusnya hanya tertumpu di atas meja. Dengan dapatkan <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>aplikasi O9win rasmi</strong></a>, pengguna Android boleh menikmati akses tanpa gangguan ke seluruh katalog kami. Pemain iOS boleh menanda buku laman mudah alih kami yang dioptimumkan untuk pengalaman yang sama lancar. </p>
+                                <p>&nbsp;</p>
                                 <h3>Kaedah Pembayaran yang Selamat</h3>
-                                <p>Setiap transaksi di o9win dilindungi dengan penyulitan piawaian industri. Pilih daripada kad kredit, e-dompet seperti Skrill dan Neteller, atau bahkan mata wang kripto untuk privasi yang lebih tinggi. Deposit dijelaskan serta-merta supaya anda boleh mula bermain tanpa kelewatan, dan pengeluaran diproses dalam masa 24 jam untuk kebanyakan kaedah. <a href="https://o9win.org/kaedah-pembayaran"><strong>Selamatkan deposit anda</strong></a>  dengan mana-mana pilihan pembayaran yang dipercayai hari ini.</p>
+                                <p class="mb-3">Setiap transaksi O9win dilindungi oleh pemantauan seluruh industri. Pilih daripada kad kredit, e-wallet seperti Skrill dan Neteller, atau kripto untuk privasi yang lebih tinggi. Deposit dijelaskan serta-merta supaya anda boleh mula bermain tanpa kelewatan, dan pengeluaran diproses dalam masa 24 jam untuk kebanyakan kaedah. </p>
+                                <p><a href="<?= $site_base_url;?>/kaedah-pembayaran/"><strong>Pilih bayaran deposit</strong></a> yang selamat dengan mana-mana bank tempatan atau ewallet yang dipercayai hari ini.</p>
                                 <p>&nbsp;</p>
                                 <h3>Bonus & Promosi</h3>
-                                <p>Dapatkan lebih banyak permainan untuk wang anda dengan bonus yang direka untuk meningkatkan bankroll anda. Ahli baru layak mendapat pakej alu-aluan yang murah hati, sementara promosi berkala termasuk putaran percuma, bonus tambah nilai, dan tawaran cashback. Sentiasa ikuti acara terhad dan kempen bermusim. <a href="https://o9win.org/bonus-promosi"><strong>Tuntut bonus anda</strong></a>  dan maksimakan peluang anda di setiap sesi.</p>
+                                <p>Dapatkan lebih banyak permainan untuk wang anda dengan bonus yang direka untuk meningkatkan bankroll anda. Ahli baru layak mendapat pakej alu-aluan yang murah hati, sementara promosi berkala termasuk putaran percuma, bonus tambah nilai, dan tawaran cashback. Sentiasa ikuti acara terhad dan kempen bermusim. <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>Dapatkan bonus 250%</strong></a> anda dan maksimakan peluang anda di setiap sesi.</p>
                                 <p>&nbsp;</p>
                                 <h3>Komitmen Permainan Bertanggungjawab</h3>
-                                <p>o9win mengutamakan kesejahteraan pemain dengan menawarkan alat untuk menetapkan had deposit, mengecualikan diri, atau mengambil tempoh rehat. <a href="https://o9win.org/perjudian-bertanggungjawab"><strong>Laman Perjudian Bertanggungjawab</strong></a>  kami menyediakan panduan untuk memastikan permainan kekal menyeronokkan dan selamat, serta menghubungkan anda dengan perkhidmatan sokongan profesional. Kami menggalakkan setiap pemain untuk menikmati permainan dalam had peribadi dan mendapatkan bantuan jika pengalaman itu menjadi terlalu mengganggu.</p>
+                                <p class="mb-3">O9win mengutamakan kebajikan pemain dengan menawarkan alat untuk menetapkan had deposit, mengecualikan diri, atau mengambil masa rehat.  Panduan yang disediakan oleh <a href="<?= $site_base_url;?>/perjudian-bertanggungjawab/"><strong>laman Perjudian Bertanggungjawab</strong></a> kami membolehkan anda memastikan bahawa permainan anda bukan sahaja selamat tetapi juga menyeronokkan, tetapi juga membantu anda mendapatkan sokongan profesional.</p>
+                                <p>Setiap pemain digalakkan untuk menikmati permainan dalam batas mereka sendiri dan mendapatkan bantuan jika ia menjadi terlalu mengganggu.</p>
                                 <p>&nbsp;</p>
                                 <h3>Keselamatan & Privasi</h3>
-                                <p>Menjaga kerahsiaan maklumat anda adalah perkara yang tidak boleh dirundingkan. Kami menggunakan penyulitan SSL yang canggih dan sentiasa menjalankan audit keselamatan. <a href="https://o9win.org/dasar-privasi"><strong>Dasar Privasi</strong></a>  kami menerangkan bagaimana data dikumpul, disimpan, dan digunakan semata-mata untuk meningkatkan pengalaman anda. Baca Dasar Privasi kami untuk butiran penuh mengenai bagaimana kami melindungi maklumat peribadi anda.</p>
+                                <p>Menjaga kerahsiaan maklumat anda adalah perkara yang tidak boleh dirundingkan. Kami menggunakan penyulitan SSL yang canggih dan sentiasa menjalankan audit keselamatan. <a href="<?= $site_base_url;?>/dasar-privasi/"><strong>Dasar Privasi</strong></a> kami menerangkan bagaimana data dikumpul, disimpan, dan digunakan semata-mata untuk meningkatkan pengalaman anda. Baca Dasar Privasi kami untuk butiran penuh mengenai bagaimana kami melindungi maklumat peribadi anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>Terma & Syarat</h3>
-                                <p>Peraturan yang telus membentuk asas permainan yang adil. <a href="https://o9win.org/terma-syarat"><strong>Terma & Syarat</strong></a>  kami merangkumi pendaftaran akaun, kelayakan bonus, keperluan pertaruhan, dan prosedur penyelesaian pertikaian. Kami mengesyorkan anda untuk mengkaji garis panduan ini bagi memastikan pemahaman yang jelas mengenai hak dan tanggungjawab anda.</p>
+                                <p>Peraturan yang telus membentuk asas permainan yang adil. <a href="<?= $site_base_url;?>/terma-syarat"><strong>Terma & Syarat</strong></a>  kami merangkumi pendaftaran akaun, kelayakan bonus, keperluan pertaruhan, dan prosedur penyelesaian pertikaian. Kami mengesyorkan anda untuk mengkaji garis panduan ini bagi memastikan pemahaman yang jelas mengenai hak dan tanggungjawab anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>Komuniti & Kejohanan</h3>
                                 <p>Di o9win, anda tidak pernah bermain sendirian. Sertai kejohanan mingguan untuk bersaing memperebutkan hadiah di papan pendahulu dan hak berbangga. Sertai bilik sembang untuk berkongsi tips, meraikan kemenangan besar, atau bertanya soalan. Acara bertema secara berkala menjadikan komuniti lebih meriah dan menarik, menambah dimensi sosial kepada perjalanan permainan anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>Sokongan Pelanggan & Hubungi Kami</h3>
-                                <p>Ada soalan atau kebimbangan? Pasukan sokongan kami tersedia 24/7 melalui sembang langsung dan e-mel. Untuk jawapan cepat, terokai seksyen FAQ kami di bawah. Jika anda memerlukan bantuan yang lebih peribadi, <a href="https://o9win.org/hubungi-kami"><strong>hubungi kami</strong></a>  dan harapkan respons yang pantas dan mesra daripada profesional terlatih kami.</p>
+                                <p>Ada soalan atau kebimbangan? Pasukan sokongan kami tersedia 24/7 melalui sembang langsung dan e-mel. Untuk jawapan cepat, terokai seksyen FAQ kami di bawah. Jika anda memerlukan bantuan yang lebih peribadi, <a href="<?= $site_base_url;?>/hubungi-kami"><strong>hubungi kami</strong></a>  dan harapkan respons yang pantas dan mesra daripada profesional terlatih kami.</p>
                             </div>
                         </div>
                     </div>

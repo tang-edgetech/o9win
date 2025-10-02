@@ -196,31 +196,78 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1 class="text-center heading-block">Slot di O9WIN</h1>
-                                <p>Temui dunia yang penuh keseronokan dengan koleksi <a href="https://o9win.org/">slot o9win</strong></a> . Sama ada anda mengejar mesin buah klasik atau slot video terkini, perpustakaan kami menawarkan tajuk untuk setiap citarasa dan tahap pengalaman, semuanya menampilkan grafik berkualiti tinggi, permainan yang menarik, dan pembayaran yang boleh dipercayai.</p>
+                                <h1 class="text-center heading-block">O9WIN | Slot Online Percuma & Kadar RTP Tinggi</h1>
+                                <p><a href="<?= $site_base_url;?>/"><strong>O9win</strong></a> ialah laman slot popular di Malaysia yang menawarkan pelbagai permainan slot yang menarik dengan tema yang unik serta kadar RTP tinggi. Perpustakaan kami mempunyai tajuk untuk setiap citarasa dan tahap pengalaman, sama ada anda mencari mesin buah klasik atau slot video terkini. Semua tajuk ini mempunyai grafik berkualiti tinggi, permainan yang menarik, dan pembayaran yang boleh dipercayai.</p>
                                 <p>&nbsp;</p>
-                                <h3>Pelbagai Permainan Slot</h3>
-                                <p>Dari slot tiga gulungan yang abadi hingga slot video yang kaya dengan ciri, o9win memenuhi setiap pilihan. Tema pengembaraan membawa anda ke tamadun kuno sementara tajuk moden menawarkan gulungan bertumpuk dan pusingan bonus. Untuk keseronokan bersama, kejohanan slot menyatukan pemain. Bertanding di papan pendahulu dan peroleh ganjaran tambahan.</p>
+                                <h3>Koleksi Gaya Slot yang Selalu Dikemas Kini</h3>
+                                <p class="mb-2">O9win menawarkan koleksi <a href="<?= $site_base_url;?>/slot/"><strong>permainan slot yang baru</strong></a> untuk memenuhi setiap jenis pengguna, daripada slot classic kepada slot video moden. Dengan pelbagai tema dan ciri bonus yang menarik, setiap putaran membawa hiburan baharu.</p>
+                                <ul class="mb-3">
+                                    <li class="mb-2">Slot 3 gulung klasik yang tidak pernah ketinggalan zaman</li>
+                                    <li class="mb-2">Slot video moden dengan gulungan bertindan & pusingan bonus</li>
+                                    <li class="mb-2">Tema pengembaraan bersama tajuk-tajuk terbaru</li>
+                                    <li>Pertandingan slot dengan papan pendahulu & ganjaran tambahan</li>
+                                </ul>
+                                <p>Tidak kira pilihan anda, kami menawarkan keseronokan tanpa henti dan peluang yang menguntungkan.</p>
                                 <p>&nbsp;</p>
                                 <h3>Antara Muka Pengguna yang Mesra dan Ciri-ciri</h3>
-                                <p>Lobi intuitif kami membolehkan anda menapis permainan mengikut tema, volatiliti atau penyedia. Label yang jelas menunjukkan taruhan minimum dan maksimum supaya anda dapat mengawal bajet dengan mudah. Dengan satu klik, anda boleh beralih antara permainan wang sebenar dan mod demo, menjadikannya mudah untuk mencuba tajuk baru tanpa risiko.</p>
+                                <p class="mb-3">Pengguna boleh mengawal permainan mengikut penyedia, tema atau volatiliti dengan menggunakan lobi intuitif kami. Label yang jelas menunjukkan taruhan minimum dan maksimum untuk memudahkan pengurusan perbelanjaan anda. </p>
+                                <p>Selain itu, pengguna boleh beralih antara mod demo dan permainan wang sebenar dengan satu klik. Ini menjadikannya mudah untuk mencuba tajuk baru tanpa mengambil risiko.</p>
                                 <p>&nbsp;</p>
-                                <h3>Memahami RTP dan Volatiliti</h3>
-                                <p>Pemain pemula sering tertanya-tanya bagaimana untuk memilih slot yang sesuai. Kadar Pulangan kepada Pemain (RTP) menunjukkan pulangan teoritis dari masa ke masa, sementara volatiliti menunjukkan kekerapan dan saiz kemenangan. Slot dengan volatiliti rendah memberikan kemenangan kecil yang kerap, sesuai untuk permainan yang berhati-hati. Tajuk dengan volatiliti tinggi memberikan kemenangan yang kurang kerap tetapi menawarkan jackpot yang lebih besar. Konsep mudah ini membantu anda memilih permainan yang sesuai dengan gaya peribadi anda.</p>
+                                
+                                <h3>Memahami Slot RTP dan Volatility</h3>
+                                <p>RTP (Return to Player) menunjukkan pembayaran teori dari masa ke masa, manakala turun naik menunjukkan kekerapan dan saiz kemenangan. Kedua-dua faktor ini membantu anda memilih slot yang sesuai dengan gaya permainan anda.</p>
+                                <ul class="mb-3">
+                                    <li class="mb-2"><strong>RTP = </strong>Peratusan pembayaran jangka panjang</li>
+                                    <li><strong>Volatility = </strong>Kekerapan & saiz kemenangan</li>
+                                </ul>
+                                <div class="table-wrapper mb-3">
+                                    <table class="table table-striped">
+                                        <thead>
+                                            <tr>
+                                                <th>Tahap Volatility</th>
+                                                <th>Kekerapan Menang</th>
+                                                <th>Saiz Menang</th>
+                                                <th>Kesesuaian</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th>Volatility Rendah</th>
+                                                <td>Kerap</td>
+                                                <td>Kemenangan yang lebih kecil</td>
+                                                <td>Permainan yang lebih selamat dan stabil</td>
+                                            </tr>
+                                            <tr>
+                                                <th>Sederhana</th>
+                                                <td>Seimbang</td>
+                                                <td>Kemenangan sederhana</td>
+                                                <td>Campuran keseronokan & ganjaran</td>
+                                            </tr>
+                                            <tr>
+                                                <th>Volatility Tinggi</th>
+                                                <td>Kurang kerap</td>
+                                                <td>Jackpot yang lebih besar</td>
+                                                <td>Pengambil risiko, ganjaran besar</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <p>👉 Tips: Pemain baharu sering lebih suka volatiliti rendah-sederhana, manakala pemain berpengalaman mungkin menikmati keseronokan jackpot volatiliti tinggi.</p>
+                                <p>&nbsp;</p>
                                 <h3>Pengalaman Slot Mudah Alih</h3>
-                                <p>Semua slot di O9WIN dioptimumkan untuk permainan mudah alih. Sama ada anda mengakses laman kami di iOS atau Android, gulungan berputar dengan lancar tanpa memerlukan muat turun. Pengguna Android boleh <a href="https://o9win.org/muat-turun-apk/">muat turun APK o9win</strong></a> untuk antara muka seperti aplikasi dan membawa permainan kegemaran di mana-mana sahaja.</p>
+                                <p>Semua slot di platform kami dioptimumkan untuk permainan mudah alih. Sama ada anda mengakses laman kami di iOS atau Android, gulungan berputar dengan lancar tanpa memerlukan muat turun. Pengguna Android boleh <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>muat turun APK o9win</strong></a> untuk antara muka seperti aplikasi dan membawa permainan kegemaran di mana-mana sahaja.</p>
                                 <p>&nbsp;</p>
                                 <h3>Permainan Adil yang Boleh Dibuktikan</h3>
-                                <p>Ketelusan adalah penting. Setiap putaran menggunakan penjana nombor rawak yang disahkan dan audit bebas menjamin keadilan. Anda boleh menyemak sijil audit untuk melihat peratusan RTP yang disahkan dalam persekitaran sebenar.</p>
+                                <p>Ketelusan adalah penting. Setiap putaran menggunakan penjana nombor rawak yang disahkan dan audit bebas menjamin keadilan. Anda boleh menyemak sijil audit untuk melihat <a href="<?= $site_base_url;?>/slot/"><strong>peratusan RTP</strong></a> yang disahkan dalam persekitaran sebenar.</p>
                                 <p>&nbsp;</p>
-                                <h3>Tips untuk Pemain Baru</h3>
+                                <h3>Panduan Mudah Pemula Slot </h3>
                                 <p>Mulakan dengan taruhan kecil untuk mempelajari ciri-ciri yang berbeza. Pilih tajuk yang menawarkan pusingan bonus yang kerap untuk melanjutkan masa bermain. Gunakan mod demo untuk mengkaji jadual pembayaran dan simbol khas sebelum bertaruh dengan dana sebenar. Menetapkan had deposit membantu memastikan permainan tetap menyeronokkan dan berada dalam bajet.</p>
                                 <p>&nbsp;</p>
-                                <h3>Cuba Sebelum Anda Bertaruh dengan Mod Demo</h3>
+                                <h3>Cuba Sebelum Bertaruh dengan Mod Demo</h3>
                                 <p>Tukar sebarang slot kepada mod latihan dengan segera, tanpa memerlukan pendaftaran. Ini membolehkan anda meneroka simbol liar, pencetus putaran percuma dan permainan bonus tanpa mempertaruhkan baki anda.</p>
                                 <p>&nbsp;</p>
                                 <h3>Mula Bermain</h3>
-                                <p>Sedia untuk memutar gulungan di O9WIN? Cipta akaun, buat deposit pertama anda dan teruskan ke lobi slot kami. Pemain baru juga boleh <a href="https://o9win.org/bonus-promosi/">tuntut putaran percuma alu-aluan </strong></a> untuk meningkatkan bankroll awal mereka.</p>
+                                <p>Sedia untuk memutar gulungan di O9win? Cipta akaun, buat deposit pertama anda dan teruskan ke lobi slot kami. Pemain baru juga boleh meminta <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>tuntut putaran percuma alu-aluan</strong></a> untuk menambah bankroll awal mereka.</p>
                             </div>
                         </div>
                     </div>

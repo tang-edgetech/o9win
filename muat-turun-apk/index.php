@@ -174,24 +174,24 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Muat Turun APK O9WIN</h1>
-                                <p>Alami <a href="https://o9win.org/">o9win</strong></a>  di Android dengan APK khas kami. Nikmati masa muat yang lebih pantas, navigasi lancar, dan akses segera ke permainan kegemaran anda tanpa bergantung pada pelayar.</p>
+                                <h1>O9WIN APK Rasmi | Muat Turun Versi Terkini Android dan iOS</h1>
+                                <p>Alami <a href="<?= $site_base_url;?>/"><strong>O9win</strong></a> di Android dengan <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>APK khas kami</strong></a>. Nikmati masa muat yang lebih pantas, navigasi lancar, dan akses segera ke permainan kegemaran anda tanpa bergantung pada pelayar.</p>
                                 <p>&nbsp;</p>
-                                <h2>Faedah APK O9WIN</h2>
-                                <p>Muat turun APK membolehkan anda:</p>
-                                <ul>
-                                    <li>Melancarkan permainan dengan satu ketukan dan mengelakkan skrin pemuatan</li>
-                                    <li>Menerima pemberitahuan masa nyata untuk promosi dan kejohanan baru</li>
-                                    <li>Akses tawaran eksklusif hanya untuk aplikasi untuk meningkatkan permainan anda</li>
+                                <h2>Faedah Muat Turun Aplikasi O9WIN</h2>
+                                <p class="mb-3">Muat turun APK membolehkan anda:</p>
+                                <ul class="mb-0">
+                                    <li class="mb-2">Melancarkan permainan dengan satu ketukan dan mengelakkan skrin pemuatan</li>
+                                    <li class="mb-2">Menerima pemberitahuan masa nyata untuk promosi dan kejohanan baru</li>
+                                    <li class="mb-2">Akses tawaran eksklusif hanya untuk aplikasi untuk meningkatkan permainan anda</li>
                                     <li>Menikmati antara muka pengguna yang dioptimumkan untuk skrin mudah alih</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <h2>Cara Memasang APK O9WIN</h2>
+                                <h2>Cara Pasang APK O9WIN</h2>
                                 <p>Ikuti langkah mudah ini untuk mula bermain dalam beberapa minit:</p>
                                 <ol>
-                                    <li>Benarkan pemasangan aplikasi dari sumber yang tidak dikenali dalam tetapan peranti anda</li>
-                                    <li>Muat turun fail APK o9win terus ke peranti anda</li>
-                                    <li>Buka fail yang dimuat turun dan ketuk Pasang</li>
+                                    <li class="mb-2">Benarkan pemasangan aplikasi dari sumber yang tidak dikenali dalam tetapan peranti anda</li>
+                                    <li class="mb-2">Muat turun fail APK O9win terus ke peranti anda</li>
+                                    <li class="mb-2">Buka fail yang dimuat turun dan ketuk Pasang</li>
                                     <li>Lancarkan aplikasi, log masuk atau daftar, dan buat deposit pertama anda</li>
                                 </ol>
                                 <p>&nbsp;</p>

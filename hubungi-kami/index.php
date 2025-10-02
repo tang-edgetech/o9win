@@ -86,10 +86,10 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Hubungi Kami</h1>
-                                <p>Hubungi pasukan sokongan <a href="https://o9win.org/">o9win</strong></a>  untuk bantuan pantas dan penyelesaian kepada sebarang soalan atau masalah yang anda hadapi di tapak kasino dalam talian yang dipercayai di Malaysia. Jangan ragu untuk menghubungi kami!</p>
+                                <p>Hubungi pasukan sokongan <a href="https://o9win.org/"><strong>O9win</strong></a>  untuk bantuan pantas dan penyelesaian kepada sebarang soalan atau masalah yang anda hadapi di tapak kasino dalam talian yang dipercayai di Malaysia. Jangan ragu untuk menghubungi kami!</p>
 
                                 <h4>Telegram:</h4>
-                                <p>@o9win</p>
+                                <p>@O9win</p>
                                 <p>&nbsp;</p>
                                 <h4>Live Chat:</h4>
                                 <p>Kami tersedia 24/7 untuk respon pantas dan penyelesaian segera.</p>

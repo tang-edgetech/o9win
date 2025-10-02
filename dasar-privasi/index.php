@@ -82,8 +82,8 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Dasar Privasi untuk O9WIN</h1>
-                                <p>Di o9win, melindungi data peribadi anda adalah keutamaan kami. Dasar Privasi ini menerangkan bagaimana kami mengumpul, menggunakan dan melindungi maklumat anda apabila anda melawat <a href="https://o9win.org/">https://o9win.org/</strong></a>  atau menggunakan perkhidmatan kami. Dengan mengakses o9win, anda bersetuju dengan amalan yang diterangkan di sini.</p>
+                                <h1>Dasar Privasi O9WIN: Data Pengguna Sentiasa Dilindungi</h1>
+                                <p>Kami sentiasa melindungi data peribadi anda adalah keutamaan kami. Dasar Privasi ini menerangkan bagaimana kami mengumpul, menggunakan dan melindungi maklumat anda apabila anda melawat <a href="https://o9win.org/"><strong>laman rasmi O9win</strong></a> atau menggunakan perkhidmatan kami. Dengan mengakses O9win, anda bersetuju dengan amalan yang diterangkan di sini.</p>
                                 <p>&nbsp;</p>
                                 <ol>
                                     <li class="mb-4"><p><strong>Maklumat yang Kami Kumpul</strong></p>
@@ -107,7 +107,7 @@ include '../inc/functions.php';
                                         </ul>
                                     </li>
                                     <li class="mb-4"><p><strong>Cookies dan Teknologi Penjejakan</strong></p>
-                                        <p>Kami menggunakan cookies dan alat serupa untuk mengingati pilihan anda, membolehkan fungsi laman yang penting dan menganalisis trafik. Anda boleh mengubah tetapan pelayar untuk menyekat cookies yang tidak penting tetapi perlu diingat bahawa ini mungkin mempengaruhi beberapa ciri di o9win.org.</p>
+                                        <p>Kami menggunakan cookies dan alat serupa untuk mengingati pilihan anda, membolehkan fungsi laman yang penting dan menganalisis trafik. Anda boleh mengubah tetapan pelayar untuk menyekat cookies yang tidak penting tetapi perlu diingat bahawa ini mungkin mempengaruhi beberapa ciri di O9win.org.</p>
                                     </li>
                                     <li class="mb-4"><p><strong>Perkongsian Data dan Pihak Ketiga</strong></p>
                                         <p>Kami hanya berkongsi data peribadi di bawah keadaan berikut:</p>
@@ -135,17 +135,17 @@ include '../inc/functions.php';
                                         <p>Untuk melaksanakan mana-mana hak ini, sila e-mel ke o9win@gmail.com atau hubungi pasukan sokongan kami melalui laman web.</p>
                                     </li>
                                     <li class="mb-4"><p><strong>Privasi Kanak-Kanak</strong></p>
-                                        <p>o9win ditujukan untuk orang dewasa sahaja. Kami tidak secara sengaja mengumpul maklumat peribadi daripada sesiapa yang di bawah umur perjudian yang sah. Jika kami mengetahui bahawa kami telah menerima data daripada seorang kanak-kanak, kami akan memadamkannya dengan segera.</p>
+                                        <p>O9win ditujukan untuk orang dewasa sahaja. Kami tidak secara sengaja mengumpul maklumat peribadi daripada sesiapa yang di bawah umur perjudian yang sah. Jika kami mengetahui bahawa kami telah menerima data daripada seorang kanak-kanak, kami akan memadamkannya dengan segera.</p>
                                     </li>
                                     <li class="mb-4"><p><strong>Perubahan kepada Dasar Ini</strong></p>
-                                        <p>Kami boleh mengemas kini Dasar Privasi ini untuk mencerminkan perkembangan undang-undang, teknikal atau perniagaan. Apabila perubahan berlaku, kami akan menyemak tarikh “Kemaskini Terakhir” dan, jika perlu, memberitahu anda melalui e-mel atau pemberitahuan yang jelas di o9win.org.</p>
+                                        <p>Kami boleh mengemas kini Dasar Privasi ini untuk mencerminkan perkembangan undang-undang, teknikal atau perniagaan. Apabila perubahan berlaku, kami akan menyemak tarikh “Kemaskini Terakhir” dan, jika perlu, memberitahu anda melalui e-mel atau pemberitahuan yang jelas di O9win.org.</p>
                                     </li>
                                     <li><p><strong>Maklumat Hubungi</strong></p>
                                         <p class="mb-3">Jika anda mempunyai sebarang soalan, kebimbangan atau permintaan mengenai dasar ini, sila hubungi:</p>
                                         <p><u>Pegawai Perlindungan Data</u></p>
-                                        <p>E-mel: o9win@gmail.com</p>
+                                        <p>E-mel: O9win@gmail.com</p>
                                         <p>Alamat: Tingkat 9, Menara Mni 2, No. 11 Jalan Pinang, 50450, Wilayah Persekutuan, Kuala Lumpur</p>
-                                        <p>Terima kasih kerana mempercayai o9win dengan maklumat peribadi anda. Kami komited untuk mengekalkan piawaian tertinggi dalam privasi dan keselamatan.</p>
+                                        <p>Terima kasih kerana mempercayai O9win dengan maklumat peribadi anda. Kami komited untuk mengekalkan piawaian tertinggi dalam privasi dan keselamatan.</p>
                                     </li>
                                 </ol>
                             </div>

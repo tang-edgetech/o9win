@@ -83,7 +83,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Terma & Syarat | O9WIN</h1>
-                                <p>Selamat datang ke o9win. Dengan mengakses atau menggunakan perkhidmatan kami di <a href="https://o9win.org/">https://o9win.org/</strong></a> , anda bersetuju dengan Terma & Syarat ini. Sila baca dengan teliti. Jika anda tidak bersetuju, jangan daftar atau bermain.</p>
+                                <p>Selamat datang ke o9win. Dengan mengakses atau menggunakan perkhidmatan kami di <a href="https://o9win.org/"><strong>O9win</strong></a>. Dengan mengakses atau menggunakan perkhidmatan kami, anda bersetuju dengan Terma & Syarat ini. Sila baca dengan teliti. Jika anda tidak bersetuju, jangan daftar atau bermain.</p>
                                 <ol>
                                     <li class="mb-4"><p><strong>Kelayakan</strong></p>
                                         <p>Anda mestilah berumur sekurang-kurangnya umur perjudian yang sah di bidang kuasa anda dan mampu untuk memasuki kontrak yang mengikat. Anda bersetuju bahawa semua maklumat yang anda berikan semasa pendaftaran adalah tepat dan terkini.</p>
@@ -92,7 +92,7 @@ include '../inc/functions.php';
                                         <ul>
                                             <li>Anda bertanggungjawab untuk menjaga kerahsiaan nama pengguna dan kata laluan anda.</li>
                                             <li>Anda bersetuju untuk memberitahu pasukan sokongan kami dengan segera jika anda mengesyaki penggunaan yang tidak sah pada akaun anda.</li>
-                                            <li>o9win berhak untuk menggantung atau menutup akaun dengan maklumat yang salah, mengelirukan atau penipuan.</li>
+                                            <li>O9win berhak untuk menggantung atau menutup akaun dengan maklumat yang salah, mengelirukan atau penipuan.</li>
                                         </ul>
                                     </li>
                                     <li class="mb-4"><p><strong>Deposit dan Pengeluaran</strong></p>
@@ -100,14 +100,14 @@ include '../inc/functions.php';
                                             <li>Semua deposit mesti memenuhi jumlah minimum yang ditetapkan dalam dompet anda.</li>
                                             <li>Permintaan pengeluaran diproses dalam masa 24 jam pada hari bekerja.</li>
                                             <li>Kami mungkin memerlukan dokumentasi pengesahan identiti sebelum pengeluaran pertama anda.</li>
-                                            <li>o9win tidak mengenakan caj tersembunyi untuk deposit atau pengeluaran. Sebarang caj perkhidmatan luar akan dipaparkan sebelum anda mengesahkan transaksi.</li>
+                                            <li>O9win tidak mengenakan caj tersembunyi untuk deposit atau pengeluaran. Sebarang caj perkhidmatan luar akan dipaparkan sebelum anda mengesahkan transaksi.</li>
                                         </ul>
                                     </li>
                                     <li class="mb-4"><p><strong>Bonus dan Promosi</strong></p>
                                         <ul>
                                             <li>Semua bonus mempunyai keperluan pertaruhan yang jelas dan tarikh luput.</li>
                                             <li>Kegagalan untuk memenuhi keperluan ini akan menyebabkan dana bonus dan kemenangan yang berkaitan dibatalkan.</li>
-                                            <li>o9win berhak untuk membatalkan atau menyesuaikan sebarang bonus dalam kes penyalahgunaan atau permainan yang tidak teratur.</li>
+                                            <li>O9win berhak untuk membatalkan atau menyesuaikan sebarang bonus dalam kes penyalahgunaan atau permainan yang tidak teratur.</li>
                                         </ul>
                                     </li>
                                     <li class="mb-4"><p><strong>Permainan Adil dan Integriti Permainan</strong></p>
@@ -125,20 +125,20 @@ include '../inc/functions.php';
                                     </li>
                                     <li class="mb-4"><p><strong>Harta Intelek</strong></p>
                                         <ul>
-                                            <li>Semua kandungan di o9win.org yang termasuk logo, reka bentuk, teks dan perisian—adalah milik atau dilesenkan oleh o9win.</li>
+                                            <li>Kami mempunyai hak cipta atau lesen untuk semua kandungan O9win, termasuk perisian, teks, reka bentuk dan logo.</li>
                                             <li>Anda tidak dibenarkan untuk menghasilkan semula, mengedarkan atau mencipta karya terbitan tanpa persetujuan bertulis kami terlebih dahulu.</li>
                                         </ul>
                                     </li>
                                     <li class="mb-4"><p><strong>Had Liabiliti</strong></p>
                                         <ul>
-                                            <li>o9win tidak bertanggungjawab terhadap kehilangan tidak langsung, sampingan atau berbangkit yang timbul daripada penggunaan laman ini.</li>
+                                            <li>O9win tidak bertanggungjawab terhadap kehilangan tidak langsung, sampingan atau berbangkit yang timbul daripada penggunaan laman ini.</li>
                                             <li>Liabiliti kami untuk sebarang tuntutan tidak akan melebihi jumlah yang telah anda depositkan dalam 30 hari sebelum kejadian yang menyebabkan tuntutan.</li>
                                         </ul>
                                     </li>
                                     <li class="mb-4"><p><strong>Penutupan Akaun</strong></p>
                                         <ul>
                                             <li>Anda boleh menutup akaun anda pada bila-bila masa dengan menghubungi sokongan.</li>
-                                            <li>o9win boleh menggantung atau menamatkan akaun anda atas pelanggaran Terma & Syarat ini, kecurangan yang disyaki atau keperluan undang-undang.</li>
+                                            <li>O9win boleh menggantung atau menamatkan akaun anda atas pelanggaran Terma & Syarat ini, kecurangan yang disyaki atau keperluan undang-undang.</li>
                                         </ul>
                                     </li>
                                     <li class="mb-4"><p><strong>Penyelesaian Pertikaian</strong></p>
@@ -148,7 +148,7 @@ include '../inc/functions.php';
                                         </ul>
                                     </li>
                                     <li><p><strong>Perubahan Terma</strong></p>
-                                        <p>o9win boleh mengemas kini Terma & Syarat ini pada bila-bila masa. Perubahan akan berkuat kuasa setelah diterbitkan di <a href="https://o9win.org/terma-syarat">Terma & Syarat</strong></a> . Kami menggalakkan anda untuk menyemak halaman ini secara berkala untuk kekal dimaklumkan.</p>
+                                        <p>O9win boleh mengemas kini Terma & Syarat ini pada bila-bila masa. Perubahan akan berkuat kuasa setelah diterbitkan di <a href="https://o9win.org/terma-syarat/">Terma & Syarat</strong></a> . Kami menggalakkan anda untuk menyemak halaman ini secara berkala untuk kekal dimaklumkan.</p>
                                         <p>&nbsp;</p>
                                         <p>Jika anda mempunyai sebarang soalan mengenai Terma & Syarat ini, sila hubungi kami di o9win@gmail.com atau melalui saluran komunikasi lain di laman web kami.</p>
                                     </li>

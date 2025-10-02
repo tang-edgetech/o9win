@@ -116,29 +116,29 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Bonus & Promosi di O9WIN - Maksimumkan Potensi Kemenangan Anda</h1>
-                                <p>Di o9win, kami percaya setiap pemain layak menerima ganjaran terbaik untuk meningkatkan pengalaman permainan mereka. Bonus dan promosi kami direka dengan teliti untuk memberikan nilai tambah kepada pemain baru dan setia, membantu anda bermain lebih lama dan meningkatkan peluang untuk menang.</p>
+                                <h1>O9WIN Bonus & Promosi | Naikkan Potensi Kemenangan Anda</h1>
+                                <p>Di <a href="https://o9win.org/"><strong>O9win</strong></a>, kami percaya setiap pemain layak menerima ganjaran terbaik untuk meningkatkan pengalaman permainan mereka. Bonus dan promosi kami direka dengan teliti untuk memberikan nilai tambah kepada pemain baru dan setia, membantu anda bermain lebih lama dan meningkatkan peluang untuk menang.</p>
                                 <p>&nbsp;</p>
                                 <h2>Bonus Selamat Datang untuk Pemain Baru</h2>
-                                <p>Ahli baru di o9win disambut dengan bonus selamat datang yang lumayan, termasuk tawaran padanan deposit dan putaran percuma pada <a href="https://o9win.org/slot">permainan slot</strong></a>  popular. Suntikan modal awal ini membantu anda meneroka pelbagai pilihan permainan kami dengan dana tambahan, sekali gus meningkatkan peluang anda untuk menang besar sejak awal.</p>
+                                <p>Ahli baru di o9win disambut dengan bonus selamat datang yang lumayan, termasuk tawaran padanan deposit dan putaran percuma pada <a href="https://o9win.org/slot/"><strong>permainan slot</strong></a>  popular. Suntikan modal awal ini membantu anda meneroka pelbagai pilihan permainan kami dengan dana tambahan, sekali gus meningkatkan peluang anda untuk menang besar sejak awal.</p>
                                 <p>&nbsp;</p>
                                 <h2>Promosi Berkala untuk Kekal Teruja</h2>
                                 <p>Kami mengekalkan keseronokan dengan promosi berterusan seperti bonus tambah nilai mingguan, tawaran cashback, dan acara putaran percuma khas. Promosi ini direka untuk menghargai permainan konsisten anda dan memastikan baki akaun anda sentiasa mencukupi untuk lebih banyak aksi tanpa gangguan.</p>
                                 <p>&nbsp;</p>
                                 <h2>Ganjaran Eksklusif VIP dan Program Kesetiaan</h2>
-                                <p><a href="https://o9win.org/vip">Program VIP</strong></a>  kami mengiktiraf kesetiaan anda dengan pelbagai manfaat eksklusif seperti pengeluaran lebih pantas, bonus peribadi, pengurus akaun khas, dan jemputan ke kejohanan istimewa. Mendaki tangga VIP membuka ganjaran yang semakin bernilai, menjadikan setiap taruhan anda lebih bermakna.</p>
+                                <p><a href="https://o9win.org/vip/"><strong>Program VIP</strong></a>  kami mengiktiraf kesetiaan anda dengan pelbagai manfaat eksklusif seperti pengeluaran lebih pantas, bonus peribadi, pengurus akaun khas, dan jemputan ke kejohanan istimewa. <a href="https://o9win.org/vip/"><strong>Naikkan tahap VIP</strong></a> membuka ganjaran yang semakin bernilai, menjadikan setiap taruhan anda lebih bermakna.</p>
                                 <p>&nbsp;</p>
                                 <h2>Promosi Musiman dan Acara Khas</h2>
                                 <p>Sepanjang tahun, o9win menganjurkan acara dan kejohanan bertema dengan hadiah wang tunai yang lumayan. Sama ada sempena perayaan atau acara sukan utama, promosi ini menambah keseronokan dan menawarkan peluang unik untuk memenangi hadiah besar.</p>
                                 <p>&nbsp;</p>
                                 <h2>Cara Menuntut dan Menggunakan Bonus di O9WIN</h2>
-                                <p>Untuk menikmati tawaran ini, pemain perlu memenuhi keperluan deposit minimum dan mematuhi syarat pertaruhan. Terma dan syarat penuh setiap promosi dijelaskan dengan jelas di halaman <a href="https://o9win.org/bonus-promosi">promosi</strong></a>  kami. Kami menggalakkan pemain menyemak secara berkala untuk mendapatkan tawaran terbaru dan eksklusif.</p>
+                                <p>Untuk menikmati tawaran ini, pemain perlu memenuhi keperluan deposit minimum dan mematuhi syarat pertaruhan. Terma dan syarat penuh setiap promosi dijelaskan dengan jelas di halaman <a href="https://o9win.org/bonus-promosi/"><strong>promosi</strong></a>  kami. Kami menggalakkan pemain menyemak secara berkala untuk mendapatkan tawaran terbaru dan eksklusif.</p>
                                 <p>&nbsp;</p>
                                 <h2>Bonus Tersedia di Mudah Alih dan Aplikasi APK</h2>
-                                <p>Kami memastikan semua bonus boleh diakses sama ada anda bermain di desktop, pelayar mudah alih, atau melalui <a href="https://o9win.org/">aplikasi APK o9win</strong></a>  rasmi. Pemain mudah alih juga menerima notifikasi segera mengenai promosi terkini supaya anda tidak terlepas sebarang peluang menarik.</p>
+                                <p>Kami memastikan semua bonus boleh diakses sama ada anda bermain di desktop, pelayar mudah alih, atau <a href="https://o9win.org/muat-turun-apk/"><strong>dapatkan APK rasmi O9win</strong></a>  rasmi. Pemain mudah alih juga menerima notifikasi segera mengenai promosi terkini supaya anda tidak terlepas sebarang peluang menarik.</p>
                                 <p>&nbsp;</p>
                                 <h2>Sokongan dan Panduan Mengenai Promosi</h2>
-                                <p>Pasukan sokongan kami sentiasa sedia membantu menjelaskan terma bonus atau menangani sebarang isu berkaitan promosi. Ketelusan dan kepuasan pemain adalah nilai teras di o9win.</p>
+                                <p>Pasukan sokongan kami sentiasa sedia membantu menjelaskan terma bonus atau menangani sebarang isu berkaitan promosi. Ketelusan dan kepuasan pemain adalah nilai teras di O9win.</p>
                             </div>
                         </div>
                     </div>

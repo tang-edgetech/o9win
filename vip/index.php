@@ -8,8 +8,8 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <link rel="canonical" href="https://o9win.org/">
-        <link rel="alternate" hreflang="x-default" href="https://o9win.org/">
+        <link rel="canonical" href="<?= $site_base_url;?>/">
+        <link rel="alternate" hreflang="x-default" href="<?= $site_base_url;?>/">
         <meta charset="UTF-8">
         <title>O9WIN VIP | Keistimewaan Slot, Bonus dan Akses Percuma</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -184,7 +184,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
                             <div class="top-brand">
-                            <?php include 'inc/top-brand.php';?>
+                            <?php include '../inc/top-brand.php';?>
                             </div>
                         </div>
                     </div>
@@ -233,7 +233,6 @@ include '../inc/functions.php';
                                         <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
                                         <div class="col-2 text-0-7 px-2 text-center">
                                             <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/regular.png?25071610" alt="vip_rank" class="w-50">
-                                            
                                         </div>
                                         <div class="col-2 text-0-7 px-2 text-center">
                                             -
@@ -254,7 +253,6 @@ include '../inc/functions.php';
                                         <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
                                         <div class="col-2 text-0-7 px-2 text-center">
                                             <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/vip1.png?25071610" alt="vip_rank" class="w-50">
-                                            
                                         </div>
                                         <div class="col-2 text-0-7 px-2 text-center">
                                             3,000
@@ -275,7 +273,6 @@ include '../inc/functions.php';
                                         <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
                                         <div class="col-2 text-0-7 px-2 text-center">
                                             <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/vip2.png?25071610" alt="vip_rank" class="w-50">
-                                            
                                         </div>
                                         <div class="col-2 text-0-7 px-2 text-center">
                                             5,000
@@ -296,7 +293,6 @@ include '../inc/functions.php';
                                         <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
                                         <div class="col-2 text-0-7 px-2 text-center">
                                             <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/vip3.png?25071610" alt="vip_rank" class="w-50">
-                                            
                                         </div>
                                         <div class="col-2 text-0-7 px-2 text-center">
                                             10,000
@@ -317,7 +313,6 @@ include '../inc/functions.php';
                                         <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
                                         <div class="col-2 text-0-7 px-2 text-center">
                                             <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/vip4.png?25071610" alt="vip_rank" class="w-50">
-                                            
                                         </div>
                                         <div class="col-2 text-0-7 px-2 text-center">
                                             30,000
@@ -429,143 +424,45 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Nikmati Ganjaran Eksklusif Bersama Program VIP O9win</h1>
-                                <p>
-                                    Di <a href="https://o9win.org/"><strong>O9win</strong></a>, kesetiaan anda dihargai melebihi sekadar permainan. Program VIP kami direka untuk memberi ganjaran kepada pemain yang paling aktif dengan keistimewaan peribadi, servis pantas dan pakej eksklusif. Tak kisah anda main sikit atau banyak, setiap pusingan membawa anda lebih dekat dengan layanan VIP.
-                                </p>
-                                <p>&nbsp;</p>
-                                <p>
-                                    Ini bukan sistem bonus biasa,  ia adalah perjalanan anda ke arah ganjaran lebih syok, sokongan peribadi dan pengalaman permainan premium.
-                                </p>
+                                <h1>O9WIN VIP: Keistimewaan Slot, Bonus dan Akses Percuma</h1>
+                                <p>Apabila anda menyertai komuniti <a href="<?= $site_base_url;?>/vip/"><strong>VIP O9win</strong></a>, anda akan dapat melihat faedah dan ganjaran yang tidak diberikan kepada orang lain.  Program kesetiaan kami mengiktiraf setiap taruhan yang anda letakkan, menjadikan permainan anda lebih bermanfaat yang semakin berkembang apabila anda meningkat ke tahap yang lebih tinggi.  O9win VIP menjadikan setiap putaran lebih menguntungkan, sama ada anda pemain baru atau berpengalaman.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Apa Itu Program VIP O9win?</h2>
-                                <p>
-                                    <a href="https://o9win.org/vip"><strong>Program VIP O9win</strong></a> ialah sistem ganjaran berperingkat yang memberi akses kepada kelebihan yang meningkat berdasarkan aktiviti permainan dan deposit anda. Lagi banyak anda main, makin tinggi status VIP anda – dan makin banyak faedah yang akan dibuka. 
-                                </p>
+                                <h2>Cara O9WIN Berfungsi</h2>
+                                <p class="mb-3">Pengguna akan memperoleh mata kesetiaan setiap kali anda bertaruh pada slot, permainan meja atau meja live dealer. Secara automatik, mata akan ditambah ke dalam akaun anda dan bergerak melalui enam peringkat: Gangsa, Perak, Emas, Platinum, Berlian dan Elite. </p>
+                                <p>Faedah baharu muncul di setiap peringkat, termasuk pengeluaran yang lebih pantas dan had deposit yang lebih tinggi, hadiah ulang tahun dan pengurus akaun peribadi.</p>
                                 <p>&nbsp;</p>
-                                <p>
-                                    Anda akan dipertimbangkan secara automatik untuk status VIP, tanpa perlu isi borang atau buat permintaan khas.
-                                </p>
-                                <p>&nbsp;</p>
-
-                                <h2>Kenapa Sertai Program VIP?</h2>
-                                <P>
-                                    Status VIP bukan sekadar nama mewah macam "Dato Seri", tapi ganjaran yang anda patut dapat. Antara sebab kenapa pemain O9win kejar status VIP:
-                                </P>
+                                
+                                <h2>Faedah Eksklusif VIP</h2>
+                                <p class="mb-2">Seiring anda meningkat, anda akan menikmati:</p>
                                 <ul>
-                                    <li>Kadar <strong>cashback lebih tinggi</strong> untuk kurangkan kerugian</li>
-                                    <li><strong>Bonus eksklusif</strong> yang disesuaikan dengan gaya permainan anda</li>
-                                    <li><strong>Pengeluaran lebih pantas</strong> melalui sistem keutamaan</li>
-                                    <li><strong>Sokongan VIP</strong> khas dari ejen berpengalaman</li>
-                                    <li>Hadiah ulang tahun & ganjaran musim perayaan terus ke akaun</li>
-                                    <li>Jemputan ke acara khas & <a href="https://o9win.org/bonus-promosi"><strong>kejohanan slot VIP</strong></a></li>
+                                    <li class="mb-2">Pengeluaran utama diproses dalam beberapa jam dan bukannya beberapa hari</li>
+                                    <li class="mb-2">Pengurus akaun peribadi yang tersedia melalui sembang langsung untuk sokongan segera</li>
+                                    <li class="mb-2">Jemputan ke kejohanan khas dan meja pertaruhan tinggi</li>
+                                    <li class="mb-2">Akses awal kepada <a href="<?= $site_base_url;?>/slot/"><strong>keluaran slot baru</strong></a> dan pratonton permainan dalaman</li>
+                                    <li>Tawaran bonus yang disesuaikan mengikut gaya permainan anda</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <p>Kesetiaan anda membawa faedah sebenar, bukan sekadar cakap kosong atau tipu.</p>
+                                
+                                <h2>Faedah Unik untuk Pengguna VIP</h2>
+                                <p>Ahli VIP <a href="<?= $site_base_url;?>/"><strong>O9win</strong></a> menerima laporan berkala mengenai sejarah permainan mereka dan cadangan peribadi. Anda juga mendapat akses kepada acara peribadi, termasuk kejohanan dalam talian langsung dengan kumpulan hadiah tambahan. Tahap Elite kami bahkan menawarkan jemputan ke retret dunia nyata dan acara jaringan.</p>
+                                <p>&nbsp;</p>
+                                
+                                <h2>Mula Bermain</h2>
+                                <p class="mb-3">Tanpa memerlukan opt-in tambahan, semua pemain yang berdaftar akan memperoleh mata daripada taruhan wang sebenar pertama mereka. Log masuk dan pergi ke papan pemuka anda untuk melihat status VIP anda. </p>
+                                <p>Adakah anda bersedia untuk menikmati pengalaman VIP? Untuk mendapatkan maklumat lanjut mengenai cara untuk mempercepatkan kemajuan anda dan memanfaatkan promosi eksklusif yang hanya boleh diakses oleh ahli VIP, <a href="<?= $site_base_url;?>/hubungi-kami/"><strong>hubungi pasukan sokongan kami</strong></a>.</p>
+                                <p>&nbsp;</p>
+                                
+                                <h2>Bermain di Mudah Alih</h2>
+                                <p>Nikmati faedah VIP di mana sahaja anda pergi. Anda boleh <a href="<?= $site_base_url;?>/muat-turun-apk/"><strong>muat turun APK O9win</strong></a> untuk pengalaman seperti aplikasi pada Android atau mengakses akaun anda terus dari mana-mana pelayar mudah alih. Tahap kesetiaan, baki mata dan katalog ganjaran anda sentiasa di hujung jari.</p>
+                                <p>&nbsp;</p>
+                                
+                                <h2>Permainan Bertanggungjawab untuk VIP</h2>
+                                <p>Walaupun sebagai VIP, anda tetap mengawal. Tetapkan had deposit dan kerugian, atau ambil rehat pada bila-bila masa melalui tetapan akaun anda. Jika anda merasa permainan semakin lebih dari sekadar hiburan, alat <a href="<?= $site_base_url;?>/perjudian-bertanggungjawab/"><strong>Perjudian Bertanggungjawab</strong></a> dan perkhidmatan sokongan kami ada untuk membantu anda mengekalkan keseimbangan yang sihat.</p>
                                 <p>&nbsp;</p>
 
-                                <h2>Tahap VIP & Cara Naik Peringkat</h2>
-                                <p>
-                                    Sistem VIP terdiri daripada beberapa tahap. Bila anda bermain dan buat deposit, anda akan capai milestone yang menaikkan status anda.
-                                </p>
-                                <p>&nbsp;</p>
-                                <div class="responsive-table">
-                                    <table class="table table-striped mb-0">
-                                        <thead>
-                                            <tr>
-                                                <th>Tahap</th>
-                                                <th>Keperluan</th>
-                                                <th>Cashback</th>
-                                                <th>Akses Bonus</th>
-                                                <th>Kelajuan Pengeluaran</th>
-                                                <th>Sokongan</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>Bronze</td>
-                                                <td>Permulaan</td>
-                                                <td>Asas</td>
-                                                <td>Bonus umum</td>
-                                                <td>Standard</td>
-                                                <td>Live chat</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Silver</td>
-                                                <td>Sederhana</td>
-                                                <td>Lebih tinggi</td>
-                                                <td>Promosi tersuai</td>
-                                                <td>Lebih pantas</td>
-                                                <td>Keutamaan</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Gold</td>
-                                                <td>Tinggi</td>
-                                                <td>Premium</td>
-                                                <td>Bonus VIP</td>
-                                                <td>24-jam keutamaan</td>
-                                                <td>Agen khas</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Platinum</td>
-                                                <td>Teratas</td>
-                                                <td>Maksimum</td>
-                                                <td>Ganjaran peribadi</td>
-                                                <td>Pemprosesan serta-merta</td>
-                                                <td>Pengurus VIP</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                                <p class="fst-italic">
-                                    Nota: Angka tepat mungkin berbeza. Semak papan pemuka VIP anda untuk kemas kini semasa.
-                                </p>
-                                <p>&nbsp;</p>
-
-                                <h2>Cara Semak Status VIP Anda</h2>
-                                <p>
-                                    Ikuti langkah ini untuk melihat status semasa:
-                                </p>
-                                <ol>
-                                    <li>Log masuk akaun <a href="https://o9win.org/"><strong>O9win</strong></a></li>
-                                    <li>Pergi ke “Profil Saya”</li>
-                                    <li>Klik tab “Status VIP” atau “Kesetiaan”</li>
-                                </ol>
-                                <p>&nbsp;</p>
-                                <p>
-                                    Anda boleh lihat tahap semasa, kemajuan dan ganjaran yang akan datang. Notifikasi juga akan dihantar bila anda layak untuk naik tahap.
-                                </p>
-                                <p>&nbsp;</p>
-
-                                <h2>Keistimewaan Ahli VIP</h2>
-                                <p>Ahli VIP boleh nikmati beberapa ganjaran:</p>
-                                <ul>
-                                    <li>Cashback mingguan</li>
-                                    <li>Akses awal ke slot terbaru</li>
-                                    <li>Had pengeluaran lebih tinggi</li>
-                                    <li>Bonus tambah nilai tersuai</li>
-                                    <li>Hadiah ulang tahun & ulang tahun akaun</li>
-                                    <li>Jemputan untuk menguji ciri-ciri baharu lebih awal</li>
-                                </ul>
-                                <p>&nbsp;</p>
-                                <p>
-                                    Makin tinggi tahap VIP anda, makin banyak ganjaran yang diterima, dengan pengguna Platinum menikmati keistimewaan paling eksklusif.
-                                </p>
-                                <p>&nbsp;</p>
-
-                                <h2>Sokongan Peralihan VIP: Kekalkan Status Anda</h2>
-                                <p>
-                                    Bagi pemain yang sudah bergelar VIP di platform lain, O9win menawarkan <strong>sokongan peralihan status</strong> yang membolehkan anda terus menikmati keistimewaan VIP tanpa perlu mula dari bawah. Anda hanya perlu buktikan status VIP anda terdahulu kepada pasukan sokongan, dan kami akan menyesuaikan tahap anda agar setanding atau lebih baik. Ini adalah cara kami menghargai pemain berpengalaman dan memastikan peralihan ke <a href="https://o9win.org/slot"><strong>platform slot O9win</strong></a> lebih lancar dan berbaloi.
-                                </p>
-                                <p>&nbsp;</p>
-
-                                <h2>Jangan Tunggu – Mulakan Perjalanan VIP Anda Sekarang</h2>
-                                <p>
-                                    Setiap pusingan membawa anda lebih dekat kepada ganjaran hebat. Tak kira main hari-hari atau sekali-sekala, kesetiaan anda akan dihargai. <a href="https://o9win.org/vip"><strong>Program VIP O9win</strong></a> dibina untuk memberi ganjaran sebenar – bukan sekadar gelaran kosong.
-                                </p>
-                                <p>&nbsp;</p>
-                                <p>Log masuk, main, dan naik ke tahap yang anda layak!</p>
+                                <h2>Langkah Seterusnya</h2>
+                                <p>Sedia untuk meningkatkan pengalaman O9win anda? Letakkan taruhan wang sebenar pertama anda hari ini untuk mula mengumpul mata dan bekerja ke arah kenaikan tahap. Sentiasa perhatikan <a href="<?= $site_base_url;?>/bonus-promosi/"><strong>Bonus & Promosi</strong></a> kami untuk tawaran khas VIP yang menggandakan ganjaran anda.</p>
                             </div>
                         </div>
                     </div>

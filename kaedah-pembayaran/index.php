@@ -194,29 +194,29 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Kaedah Pembayaran yang Selamat di O9WIN</h1>
-                                <p>Di o9win, membuat deposit dan pengeluaran adalah mudah, pantas dan dilindungi dengan penyulitan bertaraf industri. Kami menyokong pelbagai pilihan supaya anda dapat memilih kaedah yang paling sesuai dengan keperluan dan pilihan tempatan anda. Semua transaksi diselesaikan dengan cepat, membolehkan anda menumpukan perhatian kepada keseronokan tanpa menunggu dana anda.</p>
+                                <h1>Kaedah Pembayaran yang Selamat | O9WIN</h1>
+                                <p>Di <a href="https://o9win.org/"><strong>O9win</strong></a>, membuat deposit dan pengeluaran adalah mudah, pantas dan dilindungi dengan penyulitan bertaraf industri. Kami menyokong pelbagai pilihan supaya anda dapat memilih kaedah yang paling sesuai dengan keperluan dan pilihan tempatan anda. Semua transaksi diselesaikan dengan cepat, membolehkan anda menumpukan perhatian kepada keseronokan tanpa menunggu dana anda.</p>
                                 <p>&nbsp;</p>
                                 <h2>Pilihan Deposit Tersedia</h2>
                                 <p>Anda boleh menambah dana ke akaun anda dengan segera menggunakan:</p>
                                 <ul>
                                     <li>Kad kredit dan debit utama (Visa, Mastercard)</li>
-                                    <li>E-dompet popular seperti Touch n Go, ShopeePay, dan GrabPay</li>
+                                    <li>Bayar dengan e-wallet popular seperti Touch n Go, ShopeePay, dan GrabPay</li>
                                     <li>Dompet mata wang kripto yang menyokong Bitcoin, Ethereum, dan banyak lagi.</li>
                                 </ul>
                                 <p>Setiap pilihan menunjukkan had minimum dan maksimum yang jelas di papan pemuka akaun anda, membantu anda menguruskan bajet dari awal.</p>
                                 <p>&nbsp;</p>
                                 <h2>Pengeluaran Pantas dan Boleh Dipercayai</h2>
-                                <p>Apabila tiba masa untuk mengeluarkan wang, kebanyakan permintaan pengeluaran diproses dalam masa 24 jam. E-dompet biasanya memindahkan dana kembali ke akaun anda dalam beberapa jam, manakala pemindahan kad dan bank mungkin mengambil masa sehingga 2 hari bekerja. Anda akan sentiasa melihat jangka masa pemprosesan yang dijangkakan sebelum mengesahkan sebarang transaksi.</p>
+                                <p>Apabila tiba masa untuk mengeluarkan wang, kebanyakan permintaan pengeluaran diproses dalam masa 24 jam. E-wallet biasanya memindahkan dana kembali ke akaun anda dalam beberapa jam, manakala pemindahan kad dan bank mungkin mengambil masa sehingga 2 hari bekerja. Anda akan sentiasa melihat jangka masa pemprosesan yang dijangkakan sebelum mengesahkan sebarang transaksi.</p>
                                 <p>&nbsp;</p>
                                 <h2>Tiada Caj Tersembunyi</h2>
-                                <p><a href="https://o9win.org/">O9win</strong></a>  tidak mengenakan sebarang caj tambahan untuk deposit atau pengeluaran. Jika penyedia anda mengenakan sebarang caj perkhidmatan, ia akan dinyatakan dengan jelas semasa transaksi. Untuk butiran penuh mengenai rakan kongsi perbankan dan sebarang caj luar, sila semak <a href="https://o9win.org/dasar-privasi">Dasar Privasi</strong></a>  kami atau hubungi pasukan sokongan kami.</p>
+                                <p><a href="https://o9win.org/"><strong>O9win</strong></a>  tidak mengenakan sebarang caj tambahan untuk deposit atau pengeluaran. Jika penyedia anda mengenakan sebarang caj perkhidmatan, ia akan dinyatakan dengan jelas semasa transaksi. Untuk butiran penuh mengenai rakan kongsi perbankan dan sebarang caj luar, sila semak <a href="https://o9win.org/dasar-privasi">Dasar Privasi</strong></a>  kami atau hubungi pasukan sokongan kami.</p>
                                 <p>&nbsp;</p>
                                 <h2>Mata Wang Tempatan dan Penukaran</h2>
                                 <p>Untuk memudahkan lagi, kami menerima deposit dalam pelbagai mata wang. Mata wang pilihan anda akan dikesan secara automatik semasa pendaftaran dan digunakan sepanjang pengalaman anda. Jika anda mendepositkan dalam mata wang yang berbeza, kadar penukaran akan dipaparkan secara masa nyata sebelum anda mengesahkan.</p>
                                 <p>&nbsp;</p>
                                 <h2>Keselamatan yang Anda Boleh Percayai</h2>
-                                <p>Semua data pembayaran dilindungi dengan teknologi SSL. Kami mengikuti protokol anti-penipuan yang ketat dan sentiasa menjalankan audit sistem kami. Jika anda mengesyaki sebarang aktiviti yang tidak sah, <a href="https://o9win.org/hubungi-kami">hubungi pasukan sokongan kami</strong></a>  dengan segera dan pasukan kami akan membantu anda.</p>
+                                <p>Semua data pembayaran dilindungi dengan teknologi SSL. Kami mengikuti protokol anti-penipuan yang ketat dan sentiasa menjalankan audit sistem kami. Jika anda mengesyaki sebarang aktiviti yang tidak sah, <a href="https://o9win.org/hubungi-kami"><strong>hubungi pasukan sokongan kami</strong></a>  dengan segera dan pasukan kami akan membantu anda.</p>
                             </div>
                         </div>
                     </div>
