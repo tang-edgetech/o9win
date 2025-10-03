@@ -41,20 +41,6 @@ include '../inc/functions.php';
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
-            "@type": "WebPage",
-            "url": "https://o9win.orgg/terma-syarat/",
-            "name": "Terma & Syarat",
-            "description": "Syarat penggunaan O9win termasuk pendaftaran, kategori pengguna, bonus, aktiviti akaun, dan polisi keselamatan.",
-            "publisher": {
-                "@type": "Organization",
-                "name": "O9win",
-                "url": "https://o9win.org/"
-            }
-        }
-        </script>
-        <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
             "@type": "BreadcrumbList",
             "itemListElement": [
                 {

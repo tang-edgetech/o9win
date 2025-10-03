@@ -38,22 +38,6 @@ include '../inc/functions.php';
         <meta property="article:tag" content="O9win casino">
         <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
-        <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "LocalBusiness",
-            "url": "https://o9win.org/hubungi-kami",
-            "name": "Hubungi Kami",
-            "description": "Halaman untuk menghubungi sokongan pelanggan O9win melalui e-mel, telefon, Telegram, atau sembang langsung.",
-            "contactPoint": {
-                "@type": "ContactPoint",
-                "contactType": "customer support",
-                "email": "support@o9win.org",
-                "telephone": "+6014-3507586",
-                "availableLanguage": ["ms","en"]
-            }
-        }
-        </script>
         <!-- Schema Markup -->
         <script type="application/ld+json">
         {

@@ -38,19 +38,6 @@ include '../inc/functions.php';
         <meta property="article:tag" content="O9win casino">
         <base href="<?= $site_base_url;?>/">
         <?php include '../inc/stylesheet.php';?>
-        <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "WebPage",
-            "url": "https://o9win.org/perjudian-bertanggungjawab",
-            "name": "Perjudian Bertanggungjawab",
-            "description": "Panduan dan alat untuk memastikan perjudian di O9win dilakukan secara selamat, adil, dan bertanggungjawab.",
-            "about": {
-            "@type": "Topic",
-            "name": "Perjudian Bertanggungjawab"
-            }
-        }
-        </script>
         <!-- Schema Markup -->
         <script type="application/ld+json">
         {

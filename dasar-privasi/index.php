@@ -41,20 +41,6 @@ include '../inc/functions.php';
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
-            "@type": "PrivacyPolicy",
-            "url": "https://o9win.org/dasar-privasi",
-            "name": "Dasar Privasi",
-            "description": "Dasar Privasi O9win menerangkan jenis data yang dikumpul, penggunaan, keselamatan dan hak pengguna berkaitan data peribadi.",
-            "publisher": {
-                "@type": "Organization",
-                "name": "O9win",
-                "url": "https://o9win.org/"
-            }
-        }
-        </script>
-        <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
             "@type": "BreadcrumbList",
             "itemListElement": [
                 {
@@ -107,7 +93,7 @@ include '../inc/functions.php';
                                         </ul>
                                     </li>
                                     <li class="mb-4"><p><strong>Cookies dan Teknologi Penjejakan</strong></p>
-                                        <p>Kami menggunakan cookies dan alat serupa untuk mengingati pilihan anda, membolehkan fungsi laman yang penting dan menganalisis trafik. Anda boleh mengubah tetapan pelayar untuk menyekat cookies yang tidak penting tetapi perlu diingat bahawa ini mungkin mempengaruhi beberapa ciri di O9win.org.</p>
+                                        <p>Kami menggunakan cookies dan alat serupa untuk mengingati pilihan anda, membolehkan fungsi laman yang penting dan menganalisis trafik. Anda boleh mengubah tetapan pelayar untuk menyekat cookies yang tidak penting tetapi perlu diingat bahawa ini mungkin mempengaruhi beberapa ciri di o9win.org homepage.</p>
                                     </li>
                                     <li class="mb-4"><p><strong>Perkongsian Data dan Pihak Ketiga</strong></p>
                                         <p>Kami hanya berkongsi data peribadi di bawah keadaan berikut:</p>
@@ -138,12 +124,12 @@ include '../inc/functions.php';
                                         <p>O9win ditujukan untuk orang dewasa sahaja. Kami tidak secara sengaja mengumpul maklumat peribadi daripada sesiapa yang di bawah umur perjudian yang sah. Jika kami mengetahui bahawa kami telah menerima data daripada seorang kanak-kanak, kami akan memadamkannya dengan segera.</p>
                                     </li>
                                     <li class="mb-4"><p><strong>Perubahan kepada Dasar Ini</strong></p>
-                                        <p>Kami boleh mengemas kini Dasar Privasi ini untuk mencerminkan perkembangan undang-undang, teknikal atau perniagaan. Apabila perubahan berlaku, kami akan menyemak tarikh “Kemaskini Terakhir” dan, jika perlu, memberitahu anda melalui e-mel atau pemberitahuan yang jelas di O9win.org.</p>
+                                        <p>Kami boleh mengemas kini Dasar Privasi ini untuk mencerminkan perkembangan undang-undang, teknikal atau perniagaan. Apabila perubahan berlaku, kami akan menyemak tarikh “Kemaskini Terakhir” dan, jika perlu, memberitahu anda melalui e-mel atau pemberitahuan yang jelas di Halaman Hubungi O9win.org.</p>
                                     </li>
                                     <li><p><strong>Maklumat Hubungi</strong></p>
                                         <p class="mb-3">Jika anda mempunyai sebarang soalan, kebimbangan atau permintaan mengenai dasar ini, sila hubungi:</p>
                                         <p><u>Pegawai Perlindungan Data</u></p>
-                                        <p>E-mel: O9win@gmail.com</p>
+                                        <p>E-mel: <a href="mailto:o9win@gmail.com"><strong>o9win@gmail.com</strong></a></p>
                                         <p>Alamat: Tingkat 9, Menara Mni 2, No. 11 Jalan Pinang, 50450, Wilayah Persekutuan, Kuala Lumpur</p>
                                         <p>Terima kasih kerana mempercayai O9win dengan maklumat peribadi anda. Kami komited untuk mengekalkan piawaian tertinggi dalam privasi dan keselamatan.</p>
                                     </li>
