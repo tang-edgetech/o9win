@@ -410,7 +410,7 @@ $top_brands = [
     "win111" => [
         "title" => "WIN111",
         "description" => "Welcome Bonus Up to 250%",
-        "url" => "https://tinyurl.com/mry89ren",
+        "url" => "https://www.win111.asia/register/?affiliateCode=win111v1seo4",
     ],
     "winbebas" => [
         "title" => "WINBEBAS",
