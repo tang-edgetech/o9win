@@ -64,17 +64,6 @@ include '../inc/functions.php';
         <?php include '../inc/navbar.php';?>
         <main class="pt-0" id="">
             <?php include '../inc/marquee.php';?>
-            <section class="" id="top_brand">
-                <div class="container-fluid">
-                    <div class="row justify-content-center">
-                        <div class="col-12 px-3">
-                            <div class="top-brand">
-                            <?php include '../inc/top-brand.php';?>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
